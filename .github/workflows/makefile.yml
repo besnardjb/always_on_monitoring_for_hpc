@@ -18,6 +18,5 @@ jobs:
         uses: actions/upload-artifact@v3
         with:
           name: PDF
-          working_directory: ./sc23_appendices_template
-          path: Appendix_template.pdf
+          path: ./sc23_appendices_template/Appendix_template.pdf
           
