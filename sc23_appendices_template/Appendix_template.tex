@@ -17,7 +17,7 @@
 
 
 % The "title" command has an optional parameter, allowing the author to define a "short title" to be used in page headers.
-\title[FTIO: Detecting I/O Periodicity Using Frequency Techniques]{Appendix: Artifact Description/Artifact Evaluation}
+\title[On Enabling Continuous Optimization for HPC Workloads]{Appendix: Artifact Description/Artifact Evaluation}
 \thispagestyle{empty}
 
 \begin{document}
@@ -45,40 +45,23 @@
 
 \section*{Artifact Identification}
 %START_LATEX
-In the submitted paper, an approach was demonstrated 
-that allows for predicting (online) ...
-
-To demonstrate and evaluate our approach, we included results from two experimental campaigns:
-(1) ...
-(2) ...
-
-\paragraph{Experimental runs at ...:} 
-For the paper, we performed the experimental runs (Sections 2, 3, 4, and 7) using several benchmarks ....
-
-\paragraph{Semi-synthetic traces:} 
-...
+In the submitted paper, an approach was demonstrated that performs always-on monitoring. To demonstrate and evaluate our approach, 
+different experiments were executed with Nek5000 and IMB-IO. In this appendix,we will 
+handle: 
+(1) how to start the metric proxy and its overhead, 
+% (2) how to visualize the traces with Prometheus and Grafana, and finally
+(2) how to generate performance models with Extra-P. 
+Moreover, we will also have a quick look at the file format and parsing done. 
+Additionally, for each step, we will examine the workflow, time needed and the relevance 
+of the experiments and results.
 
 \section*{Reproducibility of Experiments}
-In the next two sections, we explain in detail the steps involved in creating all the results shown in the paper. 
-Both types of experiments...
+In the next two sections, we explain in detail the steps involved in creating all the results shown in the paper while 
+at the same time focusing on the aspects previously listed. 
 
-\section{Experimental runs on ...}
-\label{sec:exp}
-Through Sections 2, 3, 4, and 7 of the paper, 
-....
+%%%%%%%%%%%%%%%%%%%%%%%%%%%%%% Metric proxy
+\input{proxy}
 
-\subsection{Workflow description}
-....
-
-\subsection{Time needed for the workflow}
-....
-
-\subsection{The experiments and their results}
-.....
-
-
-%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
-\section{Evaluation with semi-synthetic traces}
-\label{sec:tra}
-...
+%%%%%%%%%%%%%%%%%%%%%%%%%%%%%% Performance modeling
+\input{extra-p}
 \end{document}
