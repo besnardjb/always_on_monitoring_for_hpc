@@ -9,12 +9,15 @@ jobs:
     runs-on: ubuntu-latest
     steps:
       - uses: actions/checkout@v3
-      - name: check appendix
-        run: pwd
-      - name: check dir
-        run: ls
-      - name: create appendix
-        working-directory: ./sc23_appendices_template
-        run: make
-      - name: create appendix 2
-        run: cd ./sc23_appendices_template && make
+      - name: Compile LaTeX document
+        uses: xu-cheng/latex-action@v2
+        with:
+          root_file: Appendix_template.tex
+          working_directory: ./sc23_appendices_template
+      - name: Upload PDF file
+        uses: actions/upload-artifact@v3
+        with:
+          name: PDF
+          working_directory: ./sc23_appendices_template
+          path: Appendix_template.pdf
+          
