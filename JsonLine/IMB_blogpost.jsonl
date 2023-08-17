@@ -1,0 +1,1376 @@
+{"params": {"Processes": 576}, "callpath": "strace_hits_total->scall->\"access\"", "metric": "Hits", "value": 4032.0}
+{"params": {"Processes": 576}, "callpath": "strace_hits_total->scall->\"arch_prctl\"", "metric": "Hits", "value": 1152.0}
+{"params": {"Processes": 576}, "callpath": "strace_hits_total->scall->\"bind\"", "metric": "Hits", "value": 18720.0}
+{"params": {"Processes": 576}, "callpath": "strace_hits_total->scall->\"brk\"", "metric": "Hits", "value": 967645.0}
+{"params": {"Processes": 576}, "callpath": "strace_hits_total->scall->\"clock_nanosleep\"", "metric": "Hits", "value": 20258800.0}
+{"params": {"Processes": 576}, "callpath": "strace_hits_total->scall->\"clone\"", "metric": "Hits", "value": 465335.0}
+{"params": {"Processes": 576}, "callpath": "strace_hits_total->scall->\"close\"", "metric": "Hits", "value": 8466234.0}
+{"params": {"Processes": 576}, "callpath": "strace_hits_total->scall->\"connect\"", "metric": "Hits", "value": 1152.0}
+{"params": {"Processes": 576}, "callpath": "strace_hits_total->scall->\"epoll_create\"", "metric": "Hits", "value": 576.0}
+{"params": {"Processes": 576}, "callpath": "strace_hits_total->scall->\"epoll_ctl\"", "metric": "Hits", "value": 1728.0}
+{"params": {"Processes": 576}, "callpath": "strace_hits_total->scall->\"eventfd2\"", "metric": "Hits", "value": 1728.0}
+{"params": {"Processes": 576}, "callpath": "strace_hits_total->scall->\"execve\"", "metric": "Hits", "value": 576.0}
+{"params": {"Processes": 576}, "callpath": "strace_hits_total->scall->\"fcntl\"", "metric": "Hits", "value": 9812427.0}
+{"params": {"Processes": 576}, "callpath": "strace_hits_total->scall->\"fstat\"", "metric": "Hits", "value": 641771.0}
+{"params": {"Processes": 576}, "callpath": "strace_hits_total->scall->\"fsync\"", "metric": "Hits", "value": 13464282.0}
+{"params": {"Processes": 576}, "callpath": "strace_hits_total->scall->\"ftruncate\"", "metric": "Hits", "value": 10047.0}
+{"params": {"Processes": 576}, "callpath": "strace_hits_total->scall->\"futex\"", "metric": "Hits", "value": 5489299.0}
+{"params": {"Processes": 576}, "callpath": "strace_hits_total->scall->\"getcwd\"", "metric": "Hits", "value": 4140393.0}
+{"params": {"Processes": 576}, "callpath": "strace_hits_total->scall->\"getdents64\"", "metric": "Hits", "value": 13824.0}
+{"params": {"Processes": 576}, "callpath": "strace_hits_total->scall->\"getegid\"", "metric": "Hits", "value": 5184.0}
+{"params": {"Processes": 576}, "callpath": "strace_hits_total->scall->\"geteuid\"", "metric": "Hits", "value": 8064.0}
+{"params": {"Processes": 576}, "callpath": "strace_hits_total->scall->\"getgid\"", "metric": "Hits", "value": 4032.0}
+{"params": {"Processes": 576}, "callpath": "strace_hits_total->scall->\"getpid\"", "metric": "Hits", "value": 10827803.0}
+{"params": {"Processes": 576}, "callpath": "strace_hits_total->scall->\"getsockname\"", "metric": "Hits", "value": 8640.0}
+{"params": {"Processes": 576}, "callpath": "strace_hits_total->scall->\"getsockopt\"", "metric": "Hits", "value": 576.0}
+{"params": {"Processes": 576}, "callpath": "strace_hits_total->scall->\"getuid\"", "metric": "Hits", "value": 22398.0}
+{"params": {"Processes": 576}, "callpath": "strace_hits_total->scall->\"ioctl\"", "metric": "Hits", "value": 139305.0}
+{"params": {"Processes": 576}, "callpath": "strace_hits_total->scall->\"link\"", "metric": "Hits", "value": 537688.0}
+{"params": {"Processes": 576}, "callpath": "strace_hits_total->scall->\"listen\"", "metric": "Hits", "value": 576.0}
+{"params": {"Processes": 576}, "callpath": "strace_hits_total->scall->\"lseek\"", "metric": "Hits", "value": 7434832.0}
+{"params": {"Processes": 576}, "callpath": "strace_hits_total->scall->\"lstat\"", "metric": "Hits", "value": 2877953.0}
+{"params": {"Processes": 576}, "callpath": "strace_hits_total->scall->\"mkdir\"", "metric": "Hits", "value": 633.0}
+{"params": {"Processes": 576}, "callpath": "strace_hits_total->scall->\"mmap\"", "metric": "Hits", "value": 1950155.0}
+{"params": {"Processes": 576}, "callpath": "strace_hits_total->scall->\"mprotect\"", "metric": "Hits", "value": 85824.0}
+{"params": {"Processes": 576}, "callpath": "strace_hits_total->scall->\"munmap\"", "metric": "Hits", "value": 1739219.0}
+{"params": {"Processes": 576}, "callpath": "strace_hits_total->scall->\"openat\"", "metric": "Hits", "value": 9207940.0}
+{"params": {"Processes": 576}, "callpath": "strace_hits_total->scall->\"pipe\"", "metric": "Hits", "value": 576.0}
+{"params": {"Processes": 576}, "callpath": "strace_hits_total->scall->\"poll\"", "metric": "Hits", "value": 858699119.0}
+{"params": {"Processes": 576}, "callpath": "strace_hits_total->scall->\"prctl\"", "metric": "Hits", "value": 576.0}
+{"params": {"Processes": 576}, "callpath": "strace_hits_total->scall->\"pread64\"", "metric": "Hits", "value": 4432885.0}
+{"params": {"Processes": 576}, "callpath": "strace_hits_total->scall->\"prlimit64\"", "metric": "Hits", "value": 576.0}
+{"params": {"Processes": 576}, "callpath": "strace_hits_total->scall->\"process_vm_readv\"", "metric": "Hits", "value": 261205.0}
+{"params": {"Processes": 576}, "callpath": "strace_hits_total->scall->\"pwrite64\"", "metric": "Hits", "value": 6283720.0}
+{"params": {"Processes": 576}, "callpath": "strace_hits_total->scall->\"read\"", "metric": "Hits", "value": 3913604.0}
+{"params": {"Processes": 576}, "callpath": "strace_hits_total->scall->\"readlink\"", "metric": "Hits", "value": 4608.0}
+{"params": {"Processes": 576}, "callpath": "strace_hits_total->scall->\"recvfrom\"", "metric": "Hits", "value": 1152.0}
+{"params": {"Processes": 576}, "callpath": "strace_hits_total->scall->\"recvmsg\"", "metric": "Hits", "value": 48384.0}
+{"params": {"Processes": 576}, "callpath": "strace_hits_total->scall->\"rt_sigaction\"", "metric": "Hits", "value": 39612.0}
+{"params": {"Processes": 576}, "callpath": "strace_hits_total->scall->\"rt_sigprocmask\"", "metric": "Hits", "value": 926638.0}
+{"params": {"Processes": 576}, "callpath": "strace_hits_total->scall->\"sched_getaffinity\"", "metric": "Hits", "value": 6336.0}
+{"params": {"Processes": 576}, "callpath": "strace_hits_total->scall->\"sched_getparam\"", "metric": "Hits", "value": 576.0}
+{"params": {"Processes": 576}, "callpath": "strace_hits_total->scall->\"sched_getscheduler\"", "metric": "Hits", "value": 576.0}
+{"params": {"Processes": 576}, "callpath": "strace_hits_total->scall->\"sched_setaffinity\"", "metric": "Hits", "value": 2304.0}
+{"params": {"Processes": 576}, "callpath": "strace_hits_total->scall->\"sched_yield\"", "metric": "Hits", "value": 670343.0}
+{"params": {"Processes": 576}, "callpath": "strace_hits_total->scall->\"sendto\"", "metric": "Hits", "value": 16704.0}
+{"params": {"Processes": 576}, "callpath": "strace_hits_total->scall->\"set_robust_list\"", "metric": "Hits", "value": 576.0}
+{"params": {"Processes": 576}, "callpath": "strace_hits_total->scall->\"set_tid_address\"", "metric": "Hits", "value": 576.0}
+{"params": {"Processes": 576}, "callpath": "strace_hits_total->scall->\"setsockopt\"", "metric": "Hits", "value": 2304.0}
+{"params": {"Processes": 576}, "callpath": "strace_hits_total->scall->\"shmat\"", "metric": "Hits", "value": 576.0}
+{"params": {"Processes": 576}, "callpath": "strace_hits_total->scall->\"shmctl\"", "metric": "Hits", "value": 1152.0}
+{"params": {"Processes": 576}, "callpath": "strace_hits_total->scall->\"shmdt\"", "metric": "Hits", "value": 576.0}
+{"params": {"Processes": 576}, "callpath": "strace_hits_total->scall->\"shmget\"", "metric": "Hits", "value": 576.0}
+{"params": {"Processes": 576}, "callpath": "strace_hits_total->scall->\"shutdown\"", "metric": "Hits", "value": 576.0}
+{"params": {"Processes": 576}, "callpath": "strace_hits_total->scall->\"socket\"", "metric": "Hits", "value": 60480.0}
+{"params": {"Processes": 576}, "callpath": "strace_hits_total->scall->\"socketpair\"", "metric": "Hits", "value": 1728.0}
+{"params": {"Processes": 576}, "callpath": "strace_hits_total->scall->\"stat\"", "metric": "Hits", "value": 274233.0}
+{"params": {"Processes": 576}, "callpath": "strace_hits_total->scall->\"statfs\"", "metric": "Hits", "value": 9365092.0}
+{"params": {"Processes": 576}, "callpath": "strace_hits_total->scall->\"sysinfo\"", "metric": "Hits", "value": 1152.0}
+{"params": {"Processes": 576}, "callpath": "strace_hits_total->scall->\"umask\"", "metric": "Hits", "value": 4680530.0}
+{"params": {"Processes": 576}, "callpath": "strace_hits_total->scall->\"uname\"", "metric": "Hits", "value": 6913.0}
+{"params": {"Processes": 576}, "callpath": "strace_hits_total->scall->\"unlink\"", "metric": "Hits", "value": 4427653.0}
+{"params": {"Processes": 576}, "callpath": "strace_hits_total->scall->\"write\"", "metric": "Hits", "value": 5206428.0}
+{"params": {"Processes": 576}, "callpath": "strace_hits_total->scall->\"writev\"", "metric": "Hits", "value": 348593.0}
+{"params": {"Processes": 576}, "callpath": "strace_size_total->scall->\"pread64\"", "metric": "Size (B)", "value": 27176782871.0}
+{"params": {"Processes": 576}, "callpath": "strace_size_total->scall->\"pwrite64\"", "metric": "Size (B)", "value": 46196485796.0}
+{"params": {"Processes": 576}, "callpath": "strace_size_total->scall->\"read\"", "metric": "Size (B)", "value": 123813793.0}
+{"params": {"Processes": 576}, "callpath": "strace_size_total->scall->\"recvfrom\"", "metric": "Size (B)", "value": 4608.0}
+{"params": {"Processes": 576}, "callpath": "strace_size_total->scall->\"recvmsg\"", "metric": "Size (B)", "value": 59044608.0}
+{"params": {"Processes": 576}, "callpath": "strace_size_total->scall->\"sendto\"", "metric": "Size (B)", "value": 365184.0}
+{"params": {"Processes": 576}, "callpath": "strace_size_total->scall->\"write\"", "metric": "Size (B)", "value": 343671510.0}
+{"params": {"Processes": 576}, "callpath": "strace_time_total->scall->\"access\"", "metric": "Time (s)", "value": 0.016094}
+{"params": {"Processes": 576}, "callpath": "strace_time_total->scall->\"arch_prctl\"", "metric": "Time (s)", "value": 0.0011400000000000002}
+{"params": {"Processes": 576}, "callpath": "strace_time_total->scall->\"bind\"", "metric": "Time (s)", "value": 0.05278800000000001}
+{"params": {"Processes": 576}, "callpath": "strace_time_total->scall->\"brk\"", "metric": "Time (s)", "value": 11.82749399999994}
+{"params": {"Processes": 576}, "callpath": "strace_time_total->scall->\"clock_nanosleep\"", "metric": "Time (s)", "value": 147.59950199999963}
+{"params": {"Processes": 576}, "callpath": "strace_time_total->scall->\"clone\"", "metric": "Time (s)", "value": 1.1566070000000455}
+{"params": {"Processes": 576}, "callpath": "strace_time_total->scall->\"close\"", "metric": "Time (s)", "value": 26.748541999998388}
+{"params": {"Processes": 576}, "callpath": "strace_time_total->scall->\"connect\"", "metric": "Time (s)", "value": 0.021589000000000004}
+{"params": {"Processes": 576}, "callpath": "strace_time_total->scall->\"epoll_create\"", "metric": "Time (s)", "value": 0.0022159999999999997}
+{"params": {"Processes": 576}, "callpath": "strace_time_total->scall->\"epoll_ctl\"", "metric": "Time (s)", "value": 0.006518000000000004}
+{"params": {"Processes": 576}, "callpath": "strace_time_total->scall->\"eventfd2\"", "metric": "Time (s)", "value": 0.006216000000000001}
+{"params": {"Processes": 576}, "callpath": "strace_time_total->scall->\"execve\"", "metric": "Time (s)", "value": 0.038201}
+{"params": {"Processes": 576}, "callpath": "strace_time_total->scall->\"fcntl\"", "metric": "Time (s)", "value": 243.94250200006374}
+{"params": {"Processes": 576}, "callpath": "strace_time_total->scall->\"fstat\"", "metric": "Time (s)", "value": 0.828162000000167}
+{"params": {"Processes": 576}, "callpath": "strace_time_total->scall->\"fsync\"", "metric": "Time (s)", "value": 1487.8112949991823}
+{"params": {"Processes": 576}, "callpath": "strace_time_total->scall->\"ftruncate\"", "metric": "Time (s)", "value": 0.2960290000000002}
+{"params": {"Processes": 576}, "callpath": "strace_time_total->scall->\"futex\"", "metric": "Time (s)", "value": 12.478653999999738}
+{"params": {"Processes": 576}, "callpath": "strace_time_total->scall->\"getcwd\"", "metric": "Time (s)", "value": 1.5524860000003107}
+{"params": {"Processes": 576}, "callpath": "strace_time_total->scall->\"getdents64\"", "metric": "Time (s)", "value": 0.12222100000000001}
+{"params": {"Processes": 576}, "callpath": "strace_time_total->scall->\"getegid\"", "metric": "Time (s)", "value": 0.011629}
+{"params": {"Processes": 576}, "callpath": "strace_time_total->scall->\"geteuid\"", "metric": "Time (s)", "value": 0.017825000000000004}
+{"params": {"Processes": 576}, "callpath": "strace_time_total->scall->\"getgid\"", "metric": "Time (s)", "value": 0.008872000000000001}
+{"params": {"Processes": 576}, "callpath": "strace_time_total->scall->\"getpid\"", "metric": "Time (s)", "value": 5.36213099999942}
+{"params": {"Processes": 576}, "callpath": "strace_time_total->scall->\"getsockname\"", "metric": "Time (s)", "value": 0.022138000000000005}
+{"params": {"Processes": 576}, "callpath": "strace_time_total->scall->\"getsockopt\"", "metric": "Time (s)", "value": 0.0020180000000000003}
+{"params": {"Processes": 576}, "callpath": "strace_time_total->scall->\"getuid\"", "metric": "Time (s)", "value": 0.07651100000000002}
+{"params": {"Processes": 576}, "callpath": "strace_time_total->scall->\"ioctl\"", "metric": "Time (s)", "value": 3.284723000000003}
+{"params": {"Processes": 576}, "callpath": "strace_time_total->scall->\"link\"", "metric": "Time (s)", "value": 1.2296210000001102}
+{"params": {"Processes": 576}, "callpath": "strace_time_total->scall->\"listen\"", "metric": "Time (s)", "value": 0.0018480000000000003}
+{"params": {"Processes": 576}, "callpath": "strace_time_total->scall->\"lseek\"", "metric": "Time (s)", "value": 4.752524999999807}
+{"params": {"Processes": 576}, "callpath": "strace_time_total->scall->\"lstat\"", "metric": "Time (s)", "value": 95.89774900000376}
+{"params": {"Processes": 576}, "callpath": "strace_time_total->scall->\"mkdir\"", "metric": "Time (s)", "value": 0.018128000000000002}
+{"params": {"Processes": 576}, "callpath": "strace_time_total->scall->\"mmap\"", "metric": "Time (s)", "value": 4.307678000000803}
+{"params": {"Processes": 576}, "callpath": "strace_time_total->scall->\"mprotect\"", "metric": "Time (s)", "value": 0.3544850000000001}
+{"params": {"Processes": 576}, "callpath": "strace_time_total->scall->\"munmap\"", "metric": "Time (s)", "value": 3.683089999999915}
+{"params": {"Processes": 576}, "callpath": "strace_time_total->scall->\"openat\"", "metric": "Time (s)", "value": 914.0754219995781}
+{"params": {"Processes": 576}, "callpath": "strace_time_total->scall->\"pipe\"", "metric": "Time (s)", "value": 0.004819000000000001}
+{"params": {"Processes": 576}, "callpath": "strace_time_total->scall->\"poll\"", "metric": "Time (s)", "value": 84.3998710003471}
+{"params": {"Processes": 576}, "callpath": "strace_time_total->scall->\"prctl\"", "metric": "Time (s)", "value": 0.002277000000000001}
+{"params": {"Processes": 576}, "callpath": "strace_time_total->scall->\"pread64\"", "metric": "Time (s)", "value": 196.255186999997}
+{"params": {"Processes": 576}, "callpath": "strace_time_total->scall->\"prlimit64\"", "metric": "Time (s)", "value": 0.0009670000000000003}
+{"params": {"Processes": 576}, "callpath": "strace_time_total->scall->\"process_vm_readv\"", "metric": "Time (s)", "value": 1.425829999999952}
+{"params": {"Processes": 576}, "callpath": "strace_time_total->scall->\"pwrite64\"", "metric": "Time (s)", "value": 49.037650999996224}
+{"params": {"Processes": 576}, "callpath": "strace_time_total->scall->\"read\"", "metric": "Time (s)", "value": 21.416728999998437}
+{"params": {"Processes": 576}, "callpath": "strace_time_total->scall->\"readlink\"", "metric": "Time (s)", "value": 0.022639000000000003}
+{"params": {"Processes": 576}, "callpath": "strace_time_total->scall->\"recvfrom\"", "metric": "Time (s)", "value": 0.004991000000000001}
+{"params": {"Processes": 576}, "callpath": "strace_time_total->scall->\"recvmsg\"", "metric": "Time (s)", "value": 0.34835400000000005}
+{"params": {"Processes": 576}, "callpath": "strace_time_total->scall->\"rt_sigaction\"", "metric": "Time (s)", "value": 0.144831}
+{"params": {"Processes": 576}, "callpath": "strace_time_total->scall->\"rt_sigprocmask\"", "metric": "Time (s)", "value": 0.28911100000000445}
+{"params": {"Processes": 576}, "callpath": "strace_time_total->scall->\"sched_getaffinity\"", "metric": "Time (s)", "value": 0.013474999999999999}
+{"params": {"Processes": 576}, "callpath": "strace_time_total->scall->\"sched_getparam\"", "metric": "Time (s)", "value": 0.00012600000000000003}
+{"params": {"Processes": 576}, "callpath": "strace_time_total->scall->\"sched_getscheduler\"", "metric": "Time (s)", "value": 0.00012700000000000002}
+{"params": {"Processes": 576}, "callpath": "strace_time_total->scall->\"sched_setaffinity\"", "metric": "Time (s)", "value": 0.025821}
+{"params": {"Processes": 576}, "callpath": "strace_time_total->scall->\"sched_yield\"", "metric": "Time (s)", "value": 2.0762980000000004}
+{"params": {"Processes": 576}, "callpath": "strace_time_total->scall->\"sendto\"", "metric": "Time (s)", "value": 0.21215800000000004}
+{"params": {"Processes": 576}, "callpath": "strace_time_total->scall->\"set_robust_list\"", "metric": "Time (s)", "value": 0.0008660000000000002}
+{"params": {"Processes": 576}, "callpath": "strace_time_total->scall->\"set_tid_address\"", "metric": "Time (s)", "value": 0.0009230000000000002}
+{"params": {"Processes": 576}, "callpath": "strace_time_total->scall->\"setsockopt\"", "metric": "Time (s)", "value": 0.007013000000000001}
+{"params": {"Processes": 576}, "callpath": "strace_time_total->scall->\"shmat\"", "metric": "Time (s)", "value": 0.005894}
+{"params": {"Processes": 576}, "callpath": "strace_time_total->scall->\"shmctl\"", "metric": "Time (s)", "value": 0.004028}
+{"params": {"Processes": 576}, "callpath": "strace_time_total->scall->\"shmdt\"", "metric": "Time (s)", "value": 0.006477}
+{"params": {"Processes": 576}, "callpath": "strace_time_total->scall->\"shmget\"", "metric": "Time (s)", "value": 0.008988999999999999}
+{"params": {"Processes": 576}, "callpath": "strace_time_total->scall->\"shutdown\"", "metric": "Time (s)", "value": 0.002605}
+{"params": {"Processes": 576}, "callpath": "strace_time_total->scall->\"socket\"", "metric": "Time (s)", "value": 0.27265000000000006}
+{"params": {"Processes": 576}, "callpath": "strace_time_total->scall->\"socketpair\"", "metric": "Time (s)", "value": 0.013512000000000003}
+{"params": {"Processes": 576}, "callpath": "strace_time_total->scall->\"stat\"", "metric": "Time (s)", "value": 1.3416530000000007}
+{"params": {"Processes": 576}, "callpath": "strace_time_total->scall->\"statfs\"", "metric": "Time (s)", "value": 177.03775999998888}
+{"params": {"Processes": 576}, "callpath": "strace_time_total->scall->\"sysinfo\"", "metric": "Time (s)", "value": 0.0017720000000000004}
+{"params": {"Processes": 576}, "callpath": "strace_time_total->scall->\"umask\"", "metric": "Time (s)", "value": 3.162573000001073}
+{"params": {"Processes": 576}, "callpath": "strace_time_total->scall->\"uname\"", "metric": "Time (s)", "value": 0.019006}
+{"params": {"Processes": 576}, "callpath": "strace_time_total->scall->\"unlink\"", "metric": "Time (s)", "value": 1221.6868539998993}
+{"params": {"Processes": 576}, "callpath": "strace_time_total->scall->\"write\"", "metric": "Time (s)", "value": 21.461560999997655}
+{"params": {"Processes": 576}, "callpath": "strace_time_total->scall->\"writev\"", "metric": "Time (s)", "value": 0.06808200000000021}
+{"params": {"Processes": 576}, "callpath": "strace_total->desc->\"read_size\"", "metric": "other", "value": 27359645880.0}
+{"params": {"Processes": 576}, "callpath": "strace_total->desc->\"read_time\"", "metric": "other", "value": 218.00132299999447}
+{"params": {"Processes": 576}, "callpath": "strace_total->desc->\"time\"", "metric": "other", "value": 288.7126929999806}
+{"params": {"Processes": 576}, "callpath": "strace_total->desc->\"write_size\"", "metric": "other", "value": 46540522490.0}
+{"params": {"Processes": 576}, "callpath": "strace_total->desc->\"write_time\"", "metric": "other", "value": 70.7113700000152}
+{"params": {"Processes": 576}, "callpath": "tau_hits_total->function->\"mpi_alloc_mem\"", "metric": "Hits", "value": 4165368.0}
+{"params": {"Processes": 576}, "callpath": "tau_hits_total->function->\"mpi_allreduce\"", "metric": "Hits", "value": 8349237.0}
+{"params": {"Processes": 576}, "callpath": "tau_hits_total->function->\"mpi_barrier\"", "metric": "Hits", "value": 21172981.0}
+{"params": {"Processes": 576}, "callpath": "tau_hits_total->function->\"mpi_bcast\"", "metric": "Hits", "value": 1098535.0}
+{"params": {"Processes": 576}, "callpath": "tau_hits_total->function->\"mpi_comm_compare\"", "metric": "Hits", "value": 48550.0}
+{"params": {"Processes": 576}, "callpath": "tau_hits_total->function->\"mpi_comm_free\"", "metric": "Hits", "value": 32478.0}
+{"params": {"Processes": 576}, "callpath": "tau_hits_total->function->\"mpi_comm_group\"", "metric": "Hits", "value": 734.0}
+{"params": {"Processes": 576}, "callpath": "tau_hits_total->function->\"mpi_comm_rank\"", "metric": "Hits", "value": 71590.0}
+{"params": {"Processes": 576}, "callpath": "tau_hits_total->function->\"mpi_comm_size\"", "metric": "Hits", "value": 71590.0}
+{"params": {"Processes": 576}, "callpath": "tau_hits_total->function->\"mpi_comm_split\"", "metric": "Hits", "value": 224640.0}
+{"params": {"Processes": 576}, "callpath": "tau_hits_total->function->\"mpi_file_close\"", "metric": "Hits", "value": 2340265.0}
+{"params": {"Processes": 576}, "callpath": "tau_hits_total->function->\"mpi_file_delete\"", "metric": "Hits", "value": 8319.0}
+{"params": {"Processes": 576}, "callpath": "tau_hits_total->function->\"mpi_file_iread\"", "metric": "Hits", "value": 1599880.0}
+{"params": {"Processes": 576}, "callpath": "tau_hits_total->function->\"mpi_file_iread_at\"", "metric": "Hits", "value": 802944.0}
+{"params": {"Processes": 576}, "callpath": "tau_hits_total->function->\"mpi_file_iread_shared\"", "metric": "Hits", "value": 767400.0}
+{"params": {"Processes": 576}, "callpath": "tau_hits_total->function->\"mpi_file_iwrite\"", "metric": "Hits", "value": 1109520.0}
+{"params": {"Processes": 576}, "callpath": "tau_hits_total->function->\"mpi_file_iwrite_at\"", "metric": "Hits", "value": 367808.0}
+{"params": {"Processes": 576}, "callpath": "tau_hits_total->function->\"mpi_file_iwrite_shared\"", "metric": "Hits", "value": 327208.0}
+{"params": {"Processes": 576}, "callpath": "tau_hits_total->function->\"mpi_file_open\"", "metric": "Hits", "value": 2340265.0}
+{"params": {"Processes": 576}, "callpath": "tau_hits_total->function->\"mpi_file_read\"", "metric": "Hits", "value": 3202192.0}
+{"params": {"Processes": 576}, "callpath": "tau_hits_total->function->\"mpi_file_read_all\"", "metric": "Hits", "value": 1553232.0}
+{"params": {"Processes": 576}, "callpath": "tau_hits_total->function->\"mpi_file_read_all_begin\"", "metric": "Hits", "value": 772872.0}
+{"params": {"Processes": 576}, "callpath": "tau_hits_total->function->\"mpi_file_read_all_end\"", "metric": "Hits", "value": 772872.0}
+{"params": {"Processes": 576}, "callpath": "tau_hits_total->function->\"mpi_file_read_at\"", "metric": "Hits", "value": 1604096.0}
+{"params": {"Processes": 576}, "callpath": "tau_hits_total->function->\"mpi_file_read_at_all\"", "metric": "Hits", "value": 1587520.0}
+{"params": {"Processes": 576}, "callpath": "tau_hits_total->function->\"mpi_file_read_at_all_begin\"", "metric": "Hits", "value": 792936.0}
+{"params": {"Processes": 576}, "callpath": "tau_hits_total->function->\"mpi_file_read_at_all_end\"", "metric": "Hits", "value": 792936.0}
+{"params": {"Processes": 576}, "callpath": "tau_hits_total->function->\"mpi_file_read_ordered\"", "metric": "Hits", "value": 1255056.0}
+{"params": {"Processes": 576}, "callpath": "tau_hits_total->function->\"mpi_file_read_ordered_begin\"", "metric": "Hits", "value": 473672.0}
+{"params": {"Processes": 576}, "callpath": "tau_hits_total->function->\"mpi_file_read_ordered_end\"", "metric": "Hits", "value": 473672.0}
+{"params": {"Processes": 576}, "callpath": "tau_hits_total->function->\"mpi_file_read_shared\"", "metric": "Hits", "value": 1530672.0}
+{"params": {"Processes": 576}, "callpath": "tau_hits_total->function->\"mpi_file_seek\"", "metric": "Hits", "value": 2036432.0}
+{"params": {"Processes": 576}, "callpath": "tau_hits_total->function->\"mpi_file_seek_shared\"", "metric": "Hits", "value": 521888.0}
+{"params": {"Processes": 576}, "callpath": "tau_hits_total->function->\"mpi_file_set_size\"", "metric": "Hits", "value": 8319.0}
+{"params": {"Processes": 576}, "callpath": "tau_hits_total->function->\"mpi_file_set_view\"", "metric": "Hits", "value": 2315543.0}
+{"params": {"Processes": 576}, "callpath": "tau_hits_total->function->\"mpi_file_sync\"", "metric": "Hits", "value": 13464282.0}
+{"params": {"Processes": 576}, "callpath": "tau_hits_total->function->\"mpi_file_write\"", "metric": "Hits", "value": 5291003.0}
+{"params": {"Processes": 576}, "callpath": "tau_hits_total->function->\"mpi_file_write_all\"", "metric": "Hits", "value": 946354.0}
+{"params": {"Processes": 576}, "callpath": "tau_hits_total->function->\"mpi_file_write_all_begin\"", "metric": "Hits", "value": 246728.0}
+{"params": {"Processes": 576}, "callpath": "tau_hits_total->function->\"mpi_file_write_all_end\"", "metric": "Hits", "value": 246728.0}
+{"params": {"Processes": 576}, "callpath": "tau_hits_total->function->\"mpi_file_write_at\"", "metric": "Hits", "value": 1638820.0}
+{"params": {"Processes": 576}, "callpath": "tau_hits_total->function->\"mpi_file_write_at_all\"", "metric": "Hits", "value": 805144.0}
+{"params": {"Processes": 576}, "callpath": "tau_hits_total->function->\"mpi_file_write_at_all_begin\"", "metric": "Hits", "value": 209096.0}
+{"params": {"Processes": 576}, "callpath": "tau_hits_total->function->\"mpi_file_write_at_all_end\"", "metric": "Hits", "value": 209096.0}
+{"params": {"Processes": 576}, "callpath": "tau_hits_total->function->\"mpi_file_write_ordered\"", "metric": "Hits", "value": 789790.0}
+{"params": {"Processes": 576}, "callpath": "tau_hits_total->function->\"mpi_file_write_ordered_begin\"", "metric": "Hits", "value": 194376.0}
+{"params": {"Processes": 576}, "callpath": "tau_hits_total->function->\"mpi_file_write_ordered_end\"", "metric": "Hits", "value": 194376.0}
+{"params": {"Processes": 576}, "callpath": "tau_hits_total->function->\"mpi_file_write_shared\"", "metric": "Hits", "value": 1331953.0}
+{"params": {"Processes": 576}, "callpath": "tau_hits_total->function->\"mpi_finalize\"", "metric": "Hits", "value": 576.0}
+{"params": {"Processes": 576}, "callpath": "tau_hits_total->function->\"mpi_free_mem\"", "metric": "Hits", "value": 4126191.0}
+{"params": {"Processes": 576}, "callpath": "tau_hits_total->function->\"mpi_gather\"", "metric": "Hits", "value": 5212224.0}
+{"params": {"Processes": 576}, "callpath": "tau_hits_total->function->\"mpi_get_version\"", "metric": "Hits", "value": 1.0}
+{"params": {"Processes": 576}, "callpath": "tau_hits_total->function->\"mpi_group_translate_ranks\"", "metric": "Hits", "value": 367.0}
+{"params": {"Processes": 576}, "callpath": "tau_hits_total->function->\"mpi_init_thread\"", "metric": "Hits", "value": 576.0}
+{"params": {"Processes": 576}, "callpath": "tau_hits_total->function->\"mpi_recv\"", "metric": "Hits", "value": 211025.0}
+{"params": {"Processes": 576}, "callpath": "tau_hits_total->function->\"mpi_send\"", "metric": "Hits", "value": 211025.0}
+{"params": {"Processes": 576}, "callpath": "tau_hits_total->function->\"mpi_type_commit\"", "metric": "Hits", "value": 344050.0}
+{"params": {"Processes": 576}, "callpath": "tau_hits_total->function->\"mpi_type_create_resized\"", "metric": "Hits", "value": 172025.0}
+{"params": {"Processes": 576}, "callpath": "tau_hits_total->function->\"mpi_type_create_struct\"", "metric": "Hits", "value": 172025.0}
+{"params": {"Processes": 576}, "callpath": "tau_hits_total->function->\"mpi_type_free\"", "metric": "Hits", "value": 344050.0}
+{"params": {"Processes": 576}, "callpath": "tau_hits_total->function->\"mpi_type_size\"", "metric": "Hits", "value": 245952.0}
+{"params": {"Processes": 576}, "callpath": "tau_hits_total->function->\"mpi_wait\"", "metric": "Hits", "value": 262560.0}
+{"params": {"Processes": 576}, "callpath": "tau_hits_total->function->\"mpi_waitall\"", "metric": "Hits", "value": 504832.0}
+{"params": {"Processes": 576}, "callpath": "tau_hits_total->function->\"mpi_wtime\"", "metric": "Hits", "value": 20438323.0}
+{"params": {"Processes": 576}, "callpath": "tau_metric_proxy_run_total->metric->\"time\"", "metric": "other", "value": 8931572.526462384}
+{"params": {"Processes": 576}, "callpath": "tau_metric_proxy_run_total->operation->\"exec\"", "metric": "other", "value": 576.0}
+{"params": {"Processes": 576}, "callpath": "tau_mpi_total_size->metric->\"size_out\"", "metric": "other", "value": 53119584086.0}
+{"params": {"Processes": 576}, "callpath": "tau_mpi_total->metric->\"hits\"", "metric": "other", "value": 122406770.0}
+{"params": {"Processes": 576}, "callpath": "tau_mpi_total->metric->\"size\"", "metric": "other", "value": 88840700455.0}
+{"params": {"Processes": 576}, "callpath": "tau_mpi_total->metric->\"size_in\"", "metric": "other", "value": 35721116369.0}
+{"params": {"Processes": 576}, "callpath": "tau_mpi_total->metric->\"time\"", "metric": "other", "value": 8929532.652493715}
+{"params": {"Processes": 576}, "callpath": "tau_size_in_total->function->\"mpi_allreduce\"", "metric": "Size (B)", "value": 41550860.0}
+{"params": {"Processes": 576}, "callpath": "tau_size_in_total->function->\"mpi_bcast\"", "metric": "Size (B)", "value": 4357944.0}
+{"params": {"Processes": 576}, "callpath": "tau_size_in_total->function->\"mpi_file_iread\"", "metric": "Size (B)", "value": 4051592321.0}
+{"params": {"Processes": 576}, "callpath": "tau_size_in_total->function->\"mpi_file_iread_at\"", "metric": "Size (B)", "value": 2113892100.0}
+{"params": {"Processes": 576}, "callpath": "tau_size_in_total->function->\"mpi_file_iread_shared\"", "metric": "Size (B)", "value": 1854138201.0}
+{"params": {"Processes": 576}, "callpath": "tau_size_in_total->function->\"mpi_file_read\"", "metric": "Size (B)", "value": 8086305538.0}
+{"params": {"Processes": 576}, "callpath": "tau_size_in_total->function->\"mpi_file_read_all\"", "metric": "Size (B)", "value": 3851982194.0}
+{"params": {"Processes": 576}, "callpath": "tau_size_in_total->function->\"mpi_file_read_at\"", "metric": "Size (B)", "value": 4220718600.0}
+{"params": {"Processes": 576}, "callpath": "tau_size_in_total->function->\"mpi_file_read_at_all\"", "metric": "Size (B)", "value": 3822802286.0}
+{"params": {"Processes": 576}, "callpath": "tau_size_in_total->function->\"mpi_file_read_ordered\"", "metric": "Size (B)", "value": 3485112955.0}
+{"params": {"Processes": 576}, "callpath": "tau_size_in_total->function->\"mpi_file_read_shared\"", "metric": "Size (B)", "value": 3725443506.0}
+{"params": {"Processes": 576}, "callpath": "tau_size_in_total->function->\"mpi_gather\"", "metric": "Size (B)", "value": 58212864.0}
+{"params": {"Processes": 576}, "callpath": "tau_size_in_total->function->\"mpi_recv\"", "metric": "Size (B)", "value": 405007000.0}
+{"params": {"Processes": 576}, "callpath": "tau_size_out_total->function->\"mpi_allreduce\"", "metric": "Size (B)", "value": 41550860.0}
+{"params": {"Processes": 576}, "callpath": "tau_size_out_total->function->\"mpi_bcast\"", "metric": "Size (B)", "value": 36196.0}
+{"params": {"Processes": 576}, "callpath": "tau_size_out_total->function->\"mpi_file_iwrite\"", "metric": "Size (B)", "value": 3603603616.0}
+{"params": {"Processes": 576}, "callpath": "tau_size_out_total->function->\"mpi_file_iwrite_at\"", "metric": "Size (B)", "value": 1732388818.0}
+{"params": {"Processes": 576}, "callpath": "tau_size_out_total->function->\"mpi_file_iwrite_shared\"", "metric": "Size (B)", "value": 1486461836.0}
+{"params": {"Processes": 576}, "callpath": "tau_size_out_total->function->\"mpi_file_write\"", "metric": "Size (B)", "value": 19511907255.0}
+{"params": {"Processes": 576}, "callpath": "tau_size_out_total->function->\"mpi_file_write_all\"", "metric": "Size (B)", "value": 5212428506.0}
+{"params": {"Processes": 576}, "callpath": "tau_size_out_total->function->\"mpi_file_write_at\"", "metric": "Size (B)", "value": 6134541538.0}
+{"params": {"Processes": 576}, "callpath": "tau_size_out_total->function->\"mpi_file_write_at_all\"", "metric": "Size (B)", "value": 5089681264.0}
+{"params": {"Processes": 576}, "callpath": "tau_size_out_total->function->\"mpi_file_write_ordered\"", "metric": "Size (B)", "value": 5069778297.0}
+{"params": {"Processes": 576}, "callpath": "tau_size_out_total->function->\"mpi_file_write_shared\"", "metric": "Size (B)", "value": 5178148936.0}
+{"params": {"Processes": 576}, "callpath": "tau_size_out_total->function->\"mpi_gather\"", "metric": "Size (B)", "value": 58212864.0}
+{"params": {"Processes": 576}, "callpath": "tau_size_out_total->function->\"mpi_send\"", "metric": "Size (B)", "value": 844100.0}
+{"params": {"Processes": 576}, "callpath": "tau_size_total->function->\"mpi_allreduce\"", "metric": "Size (B)", "value": 83101720.0}
+{"params": {"Processes": 576}, "callpath": "tau_size_total->function->\"mpi_bcast\"", "metric": "Size (B)", "value": 4394140.0}
+{"params": {"Processes": 576}, "callpath": "tau_size_total->function->\"mpi_file_iread\"", "metric": "Size (B)", "value": 4051592321.0}
+{"params": {"Processes": 576}, "callpath": "tau_size_total->function->\"mpi_file_iread_at\"", "metric": "Size (B)", "value": 2113892100.0}
+{"params": {"Processes": 576}, "callpath": "tau_size_total->function->\"mpi_file_iread_shared\"", "metric": "Size (B)", "value": 1854138201.0}
+{"params": {"Processes": 576}, "callpath": "tau_size_total->function->\"mpi_file_iwrite\"", "metric": "Size (B)", "value": 3603603616.0}
+{"params": {"Processes": 576}, "callpath": "tau_size_total->function->\"mpi_file_iwrite_at\"", "metric": "Size (B)", "value": 1732388818.0}
+{"params": {"Processes": 576}, "callpath": "tau_size_total->function->\"mpi_file_iwrite_shared\"", "metric": "Size (B)", "value": 1486461836.0}
+{"params": {"Processes": 576}, "callpath": "tau_size_total->function->\"mpi_file_read\"", "metric": "Size (B)", "value": 8086305538.0}
+{"params": {"Processes": 576}, "callpath": "tau_size_total->function->\"mpi_file_read_all\"", "metric": "Size (B)", "value": 3851982194.0}
+{"params": {"Processes": 576}, "callpath": "tau_size_total->function->\"mpi_file_read_at\"", "metric": "Size (B)", "value": 4220718600.0}
+{"params": {"Processes": 576}, "callpath": "tau_size_total->function->\"mpi_file_read_at_all\"", "metric": "Size (B)", "value": 3822802286.0}
+{"params": {"Processes": 576}, "callpath": "tau_size_total->function->\"mpi_file_read_ordered\"", "metric": "Size (B)", "value": 3485112955.0}
+{"params": {"Processes": 576}, "callpath": "tau_size_total->function->\"mpi_file_read_shared\"", "metric": "Size (B)", "value": 3725443506.0}
+{"params": {"Processes": 576}, "callpath": "tau_size_total->function->\"mpi_file_write\"", "metric": "Size (B)", "value": 19511907255.0}
+{"params": {"Processes": 576}, "callpath": "tau_size_total->function->\"mpi_file_write_all\"", "metric": "Size (B)", "value": 5212428506.0}
+{"params": {"Processes": 576}, "callpath": "tau_size_total->function->\"mpi_file_write_at\"", "metric": "Size (B)", "value": 6134541538.0}
+{"params": {"Processes": 576}, "callpath": "tau_size_total->function->\"mpi_file_write_at_all\"", "metric": "Size (B)", "value": 5089681264.0}
+{"params": {"Processes": 576}, "callpath": "tau_size_total->function->\"mpi_file_write_ordered\"", "metric": "Size (B)", "value": 5069778297.0}
+{"params": {"Processes": 576}, "callpath": "tau_size_total->function->\"mpi_file_write_shared\"", "metric": "Size (B)", "value": 5178148936.0}
+{"params": {"Processes": 576}, "callpath": "tau_size_total->function->\"mpi_gather\"", "metric": "Size (B)", "value": 116425728.0}
+{"params": {"Processes": 576}, "callpath": "tau_size_total->function->\"mpi_recv\"", "metric": "Size (B)", "value": 405007000.0}
+{"params": {"Processes": 576}, "callpath": "tau_size_total->function->\"mpi_send\"", "metric": "Size (B)", "value": 844100.0}
+{"params": {"Processes": 576}, "callpath": "tau_time_total->function->\"mpi_alloc_mem\"", "metric": "Time (s)", "value": 15.150725603103638}
+{"params": {"Processes": 576}, "callpath": "tau_time_total->function->\"mpi_allreduce\"", "metric": "Time (s)", "value": 2882419.9134972095}
+{"params": {"Processes": 576}, "callpath": "tau_time_total->function->\"mpi_barrier\"", "metric": "Time (s)", "value": 2204242.0863547325}
+{"params": {"Processes": 576}, "callpath": "tau_time_total->function->\"mpi_bcast\"", "metric": "Time (s)", "value": 22.123008012771606}
+{"params": {"Processes": 576}, "callpath": "tau_time_total->function->\"mpi_comm_compare\"", "metric": "Time (s)", "value": 72.86066174507141}
+{"params": {"Processes": 576}, "callpath": "tau_time_total->function->\"mpi_comm_free\"", "metric": "Time (s)", "value": 0.2668631076812744}
+{"params": {"Processes": 576}, "callpath": "tau_time_total->function->\"mpi_comm_group\"", "metric": "Time (s)", "value": 0.0002205371856689453}
+{"params": {"Processes": 576}, "callpath": "tau_time_total->function->\"mpi_comm_rank\"", "metric": "Time (s)", "value": 0.005509853363037109}
+{"params": {"Processes": 576}, "callpath": "tau_time_total->function->\"mpi_comm_size\"", "metric": "Time (s)", "value": 0.09287762641906738}
+{"params": {"Processes": 576}, "callpath": "tau_time_total->function->\"mpi_comm_split\"", "metric": "Time (s)", "value": 64185.17417573929}
+{"params": {"Processes": 576}, "callpath": "tau_time_total->function->\"mpi_file_close\"", "metric": "Time (s)", "value": 293029.5566525459}
+{"params": {"Processes": 576}, "callpath": "tau_time_total->function->\"mpi_file_delete\"", "metric": "Time (s)", "value": 679.7451012134552}
+{"params": {"Processes": 576}, "callpath": "tau_time_total->function->\"mpi_file_iread\"", "metric": "Time (s)", "value": 21.625539541244507}
+{"params": {"Processes": 576}, "callpath": "tau_time_total->function->\"mpi_file_iread_at\"", "metric": "Time (s)", "value": 12.672963619232178}
+{"params": {"Processes": 576}, "callpath": "tau_time_total->function->\"mpi_file_iread_shared\"", "metric": "Time (s)", "value": 7507.477162599564}
+{"params": {"Processes": 576}, "callpath": "tau_time_total->function->\"mpi_file_iwrite\"", "metric": "Time (s)", "value": 41.52656555175781}
+{"params": {"Processes": 576}, "callpath": "tau_time_total->function->\"mpi_file_iwrite_at\"", "metric": "Time (s)", "value": 7.727697849273682}
+{"params": {"Processes": 576}, "callpath": "tau_time_total->function->\"mpi_file_iwrite_shared\"", "metric": "Time (s)", "value": 3347.695688009262}
+{"params": {"Processes": 576}, "callpath": "tau_time_total->function->\"mpi_file_open\"", "metric": "Time (s)", "value": 1813791.007184267}
+{"params": {"Processes": 576}, "callpath": "tau_time_total->function->\"mpi_file_read\"", "metric": "Time (s)", "value": 1222.8886370658875}
+{"params": {"Processes": 576}, "callpath": "tau_time_total->function->\"mpi_file_read_all\"", "metric": "Time (s)", "value": 57943.1798658371}
+{"params": {"Processes": 576}, "callpath": "tau_time_total->function->\"mpi_file_read_all_begin\"", "metric": "Time (s)", "value": 37.65378713607788}
+{"params": {"Processes": 576}, "callpath": "tau_time_total->function->\"mpi_file_read_all_end\"", "metric": "Time (s)", "value": 1195.316721200943}
+{"params": {"Processes": 576}, "callpath": "tau_time_total->function->\"mpi_file_read_at\"", "metric": "Time (s)", "value": 1046.058188676834}
+{"params": {"Processes": 576}, "callpath": "tau_time_total->function->\"mpi_file_read_at_all\"", "metric": "Time (s)", "value": 2176.935453891754}
+{"params": {"Processes": 576}, "callpath": "tau_time_total->function->\"mpi_file_read_at_all_begin\"", "metric": "Time (s)", "value": 40.28555202484131}
+{"params": {"Processes": 576}, "callpath": "tau_time_total->function->\"mpi_file_read_at_all_end\"", "metric": "Time (s)", "value": 1152.5152707099915}
+{"params": {"Processes": 576}, "callpath": "tau_time_total->function->\"mpi_file_read_ordered\"", "metric": "Time (s)", "value": 46233.62569189072}
+{"params": {"Processes": 576}, "callpath": "tau_time_total->function->\"mpi_file_read_ordered_begin\"", "metric": "Time (s)", "value": 35979.6107776165}
+{"params": {"Processes": 576}, "callpath": "tau_time_total->function->\"mpi_file_read_ordered_end\"", "metric": "Time (s)", "value": 641.3729913234711}
+{"params": {"Processes": 576}, "callpath": "tau_time_total->function->\"mpi_file_read_shared\"", "metric": "Time (s)", "value": 17164.55187892914}
+{"params": {"Processes": 576}, "callpath": "tau_time_total->function->\"mpi_file_seek\"", "metric": "Time (s)", "value": 0.9306197166442871}
+{"params": {"Processes": 576}, "callpath": "tau_time_total->function->\"mpi_file_seek_shared\"", "metric": "Time (s)", "value": 71781.25648546219}
+{"params": {"Processes": 576}, "callpath": "tau_time_total->function->\"mpi_file_set_size\"", "metric": "Time (s)", "value": 7.183713912963867}
+{"params": {"Processes": 576}, "callpath": "tau_time_total->function->\"mpi_file_set_view\"", "metric": "Time (s)", "value": 114214.31684708595}
+{"params": {"Processes": 576}, "callpath": "tau_time_total->function->\"mpi_file_sync\"", "metric": "Time (s)", "value": 553426.393376112}
+{"params": {"Processes": 576}, "callpath": "tau_time_total->function->\"mpi_file_write\"", "metric": "Time (s)", "value": 3678.6298203468323}
+{"params": {"Processes": 576}, "callpath": "tau_time_total->function->\"mpi_file_write_all\"", "metric": "Time (s)", "value": 216663.96164751053}
+{"params": {"Processes": 576}, "callpath": "tau_time_total->function->\"mpi_file_write_all_begin\"", "metric": "Time (s)", "value": 12.307370662689209}
+{"params": {"Processes": 576}, "callpath": "tau_time_total->function->\"mpi_file_write_all_end\"", "metric": "Time (s)", "value": 560.2973992824554}
+{"params": {"Processes": 576}, "callpath": "tau_time_total->function->\"mpi_file_write_at\"", "metric": "Time (s)", "value": 2458.518039226532}
+{"params": {"Processes": 576}, "callpath": "tau_time_total->function->\"mpi_file_write_at_all\"", "metric": "Time (s)", "value": 244333.16204929352}
+{"params": {"Processes": 576}, "callpath": "tau_time_total->function->\"mpi_file_write_at_all_begin\"", "metric": "Time (s)", "value": 9.957611083984375}
+{"params": {"Processes": 576}, "callpath": "tau_time_total->function->\"mpi_file_write_at_all_end\"", "metric": "Time (s)", "value": 501.8593473434448}
+{"params": {"Processes": 576}, "callpath": "tau_time_total->function->\"mpi_file_write_ordered\"", "metric": "Time (s)", "value": 238113.68382787704}
+{"params": {"Processes": 576}, "callpath": "tau_time_total->function->\"mpi_file_write_ordered_begin\"", "metric": "Time (s)", "value": 5431.738311290741}
+{"params": {"Processes": 576}, "callpath": "tau_time_total->function->\"mpi_file_write_ordered_end\"", "metric": "Time (s)", "value": 334.82718205451965}
+{"params": {"Processes": 576}, "callpath": "tau_time_total->function->\"mpi_file_write_shared\"", "metric": "Time (s)", "value": 12421.757200717926}
+{"params": {"Processes": 576}, "callpath": "tau_time_total->function->\"mpi_finalize\"", "metric": "Time (s)", "value": 663.6805548667908}
+{"params": {"Processes": 576}, "callpath": "tau_time_total->function->\"mpi_free_mem\"", "metric": "Time (s)", "value": 43.55937600135803}
+{"params": {"Processes": 576}, "callpath": "tau_time_total->function->\"mpi_gather\"", "metric": "Time (s)", "value": 20331.100734949112}
+{"params": {"Processes": 576}, "callpath": "tau_time_total->function->\"mpi_get_version\"", "metric": "Time (s)", "value": 1.9073486328125e-06}
+{"params": {"Processes": 576}, "callpath": "tau_time_total->function->\"mpi_group_translate_ranks\"", "metric": "Time (s)", "value": 0.0497586727142334}
+{"params": {"Processes": 576}, "callpath": "tau_time_total->function->\"mpi_init_thread\"", "metric": "Time (s)", "value": 4042.0867240428925}
+{"params": {"Processes": 576}, "callpath": "tau_time_total->function->\"mpi_recv\"", "metric": "Time (s)", "value": 14.171133041381836}
+{"params": {"Processes": 576}, "callpath": "tau_time_total->function->\"mpi_send\"", "metric": "Time (s)", "value": 6.774198055267334}
+{"params": {"Processes": 576}, "callpath": "tau_time_total->function->\"mpi_type_commit\"", "metric": "Time (s)", "value": 0.11894631385803223}
+{"params": {"Processes": 576}, "callpath": "tau_time_total->function->\"mpi_type_create_resized\"", "metric": "Time (s)", "value": 0.4275028705596924}
+{"params": {"Processes": 576}, "callpath": "tau_time_total->function->\"mpi_type_create_struct\"", "metric": "Time (s)", "value": 0.47733259201049805}
+{"params": {"Processes": 576}, "callpath": "tau_time_total->function->\"mpi_type_free\"", "metric": "Time (s)", "value": 0.09845972061157227}
+{"params": {"Processes": 576}, "callpath": "tau_time_total->function->\"mpi_type_size\"", "metric": "Time (s)", "value": 0.04181671142578125}
+{"params": {"Processes": 576}, "callpath": "tau_time_total->function->\"mpi_wait\"", "metric": "Time (s)", "value": 1742.1364607810974}
+{"params": {"Processes": 576}, "callpath": "tau_time_total->function->\"mpi_waitall\"", "metric": "Time (s)", "value": 4501.697607755661}
+{"params": {"Processes": 576}, "callpath": "tau_time_total->function->\"mpi_wtime\"", "metric": "Time (s)", "value": 4.7477707862854}
+{"params": {"Processes": 576}, "callpath": "strace_time_total->scall->\"pwritev\"", "metric": "Time (s)", "value": 0}
+{"params": {"Processes": 576}, "callpath": "strace_hits_total->scall->\"pwritev\"", "metric": "Hits", "value": 0}
+{"params": {"Processes": 36}, "callpath": "strace_hits_total->scall->\"access\"", "metric": "Hits", "value": 252.0}
+{"params": {"Processes": 36}, "callpath": "strace_hits_total->scall->\"arch_prctl\"", "metric": "Hits", "value": 72.0}
+{"params": {"Processes": 36}, "callpath": "strace_hits_total->scall->\"bind\"", "metric": "Hits", "value": 1170.0}
+{"params": {"Processes": 36}, "callpath": "strace_hits_total->scall->\"brk\"", "metric": "Hits", "value": 104699.0}
+{"params": {"Processes": 36}, "callpath": "strace_hits_total->scall->\"clock_nanosleep\"", "metric": "Hits", "value": 48368.0}
+{"params": {"Processes": 36}, "callpath": "strace_hits_total->scall->\"clone\"", "metric": "Hits", "value": 1619.0}
+{"params": {"Processes": 36}, "callpath": "strace_hits_total->scall->\"close\"", "metric": "Hits", "value": 1097816.0}
+{"params": {"Processes": 36}, "callpath": "strace_hits_total->scall->\"connect\"", "metric": "Hits", "value": 72.0}
+{"params": {"Processes": 36}, "callpath": "strace_hits_total->scall->\"epoll_create\"", "metric": "Hits", "value": 36.0}
+{"params": {"Processes": 36}, "callpath": "strace_hits_total->scall->\"epoll_ctl\"", "metric": "Hits", "value": 108.0}
+{"params": {"Processes": 36}, "callpath": "strace_hits_total->scall->\"eventfd2\"", "metric": "Hits", "value": 108.0}
+{"params": {"Processes": 36}, "callpath": "strace_hits_total->scall->\"execve\"", "metric": "Hits", "value": 36.0}
+{"params": {"Processes": 36}, "callpath": "strace_hits_total->scall->\"fcntl\"", "metric": "Hits", "value": 190045.0}
+{"params": {"Processes": 36}, "callpath": "strace_hits_total->scall->\"fstat\"", "metric": "Hits", "value": 194894.0}
+{"params": {"Processes": 36}, "callpath": "strace_hits_total->scall->\"fsync\"", "metric": "Hits", "value": 2179168.0}
+{"params": {"Processes": 36}, "callpath": "strace_hits_total->scall->\"ftruncate\"", "metric": "Hits", "value": 823.0}
+{"params": {"Processes": 36}, "callpath": "strace_hits_total->scall->\"futex\"", "metric": "Hits", "value": 874360.0}
+{"params": {"Processes": 36}, "callpath": "strace_hits_total->scall->\"getcwd\"", "metric": "Hits", "value": 188605.0}
+{"params": {"Processes": 36}, "callpath": "strace_hits_total->scall->\"getdents64\"", "metric": "Hits", "value": 864.0}
+{"params": {"Processes": 36}, "callpath": "strace_hits_total->scall->\"getegid\"", "metric": "Hits", "value": 324.0}
+{"params": {"Processes": 36}, "callpath": "strace_hits_total->scall->\"geteuid\"", "metric": "Hits", "value": 504.0}
+{"params": {"Processes": 36}, "callpath": "strace_hits_total->scall->\"getgid\"", "metric": "Hits", "value": 252.0}
+{"params": {"Processes": 36}, "callpath": "strace_hits_total->scall->\"getpid\"", "metric": "Hits", "value": 412633.0}
+{"params": {"Processes": 36}, "callpath": "strace_hits_total->scall->\"getsockname\"", "metric": "Hits", "value": 540.0}
+{"params": {"Processes": 36}, "callpath": "strace_hits_total->scall->\"getsockopt\"", "metric": "Hits", "value": 36.0}
+{"params": {"Processes": 36}, "callpath": "strace_hits_total->scall->\"getuid\"", "metric": "Hits", "value": 1700.0}
+{"params": {"Processes": 36}, "callpath": "strace_hits_total->scall->\"ioctl\"", "metric": "Hits", "value": 5040.0}
+{"params": {"Processes": 36}, "callpath": "strace_hits_total->scall->\"link\"", "metric": "Hits", "value": 181056.0}
+{"params": {"Processes": 36}, "callpath": "strace_hits_total->scall->\"listen\"", "metric": "Hits", "value": 36.0}
+{"params": {"Processes": 36}, "callpath": "strace_hits_total->scall->\"lseek\"", "metric": "Hits", "value": 217.0}
+{"params": {"Processes": 36}, "callpath": "strace_hits_total->scall->\"lstat\"", "metric": "Hits", "value": 369553.0}
+{"params": {"Processes": 36}, "callpath": "strace_hits_total->scall->\"mkdir\"", "metric": "Hits", "value": 42.0}
+{"params": {"Processes": 36}, "callpath": "strace_hits_total->scall->\"mmap\"", "metric": "Hits", "value": 570354.0}
+{"params": {"Processes": 36}, "callpath": "strace_hits_total->scall->\"mprotect\"", "metric": "Hits", "value": 5364.0}
+{"params": {"Processes": 36}, "callpath": "strace_hits_total->scall->\"munmap\"", "metric": "Hits", "value": 557095.0}
+{"params": {"Processes": 36}, "callpath": "strace_hits_total->scall->\"openat\"", "metric": "Hits", "value": 1291621.0}
+{"params": {"Processes": 36}, "callpath": "strace_hits_total->scall->\"pipe\"", "metric": "Hits", "value": 36.0}
+{"params": {"Processes": 36}, "callpath": "strace_hits_total->scall->\"poll\"", "metric": "Hits", "value": 4582998.0}
+{"params": {"Processes": 36}, "callpath": "strace_hits_total->scall->\"prctl\"", "metric": "Hits", "value": 36.0}
+{"params": {"Processes": 36}, "callpath": "strace_hits_total->scall->\"pread64\"", "metric": "Hits", "value": 350124.0}
+{"params": {"Processes": 36}, "callpath": "strace_hits_total->scall->\"prlimit64\"", "metric": "Hits", "value": 36.0}
+{"params": {"Processes": 36}, "callpath": "strace_hits_total->scall->\"process_vm_readv\"", "metric": "Hits", "value": 128918.0}
+{"params": {"Processes": 36}, "callpath": "strace_hits_total->scall->\"pwrite64\"", "metric": "Hits", "value": 821271.0}
+{"params": {"Processes": 36}, "callpath": "strace_hits_total->scall->\"read\"", "metric": "Hits", "value": 9902.0}
+{"params": {"Processes": 36}, "callpath": "strace_hits_total->scall->\"readlink\"", "metric": "Hits", "value": 288.0}
+{"params": {"Processes": 36}, "callpath": "strace_hits_total->scall->\"recvfrom\"", "metric": "Hits", "value": 72.0}
+{"params": {"Processes": 36}, "callpath": "strace_hits_total->scall->\"recvmsg\"", "metric": "Hits", "value": 3024.0}
+{"params": {"Processes": 36}, "callpath": "strace_hits_total->scall->\"rt_sigaction\"", "metric": "Hits", "value": 3076.0}
+{"params": {"Processes": 36}, "callpath": "strace_hits_total->scall->\"rt_sigprocmask\"", "metric": "Hits", "value": 2986.0}
+{"params": {"Processes": 36}, "callpath": "strace_hits_total->scall->\"sched_getaffinity\"", "metric": "Hits", "value": 396.0}
+{"params": {"Processes": 36}, "callpath": "strace_hits_total->scall->\"sched_getparam\"", "metric": "Hits", "value": 36.0}
+{"params": {"Processes": 36}, "callpath": "strace_hits_total->scall->\"sched_getscheduler\"", "metric": "Hits", "value": 36.0}
+{"params": {"Processes": 36}, "callpath": "strace_hits_total->scall->\"sched_setaffinity\"", "metric": "Hits", "value": 108.0}
+{"params": {"Processes": 36}, "callpath": "strace_hits_total->scall->\"sched_yield\"", "metric": "Hits", "value": 12450.0}
+{"params": {"Processes": 36}, "callpath": "strace_hits_total->scall->\"sendto\"", "metric": "Hits", "value": 1044.0}
+{"params": {"Processes": 36}, "callpath": "strace_hits_total->scall->\"set_robust_list\"", "metric": "Hits", "value": 36.0}
+{"params": {"Processes": 36}, "callpath": "strace_hits_total->scall->\"set_tid_address\"", "metric": "Hits", "value": 36.0}
+{"params": {"Processes": 36}, "callpath": "strace_hits_total->scall->\"setsockopt\"", "metric": "Hits", "value": 144.0}
+{"params": {"Processes": 36}, "callpath": "strace_hits_total->scall->\"shmat\"", "metric": "Hits", "value": 36.0}
+{"params": {"Processes": 36}, "callpath": "strace_hits_total->scall->\"shmctl\"", "metric": "Hits", "value": 72.0}
+{"params": {"Processes": 36}, "callpath": "strace_hits_total->scall->\"shmdt\"", "metric": "Hits", "value": 36.0}
+{"params": {"Processes": 36}, "callpath": "strace_hits_total->scall->\"shmget\"", "metric": "Hits", "value": 36.0}
+{"params": {"Processes": 36}, "callpath": "strace_hits_total->scall->\"shutdown\"", "metric": "Hits", "value": 36.0}
+{"params": {"Processes": 36}, "callpath": "strace_hits_total->scall->\"socket\"", "metric": "Hits", "value": 3780.0}
+{"params": {"Processes": 36}, "callpath": "strace_hits_total->scall->\"socketpair\"", "metric": "Hits", "value": 108.0}
+{"params": {"Processes": 36}, "callpath": "strace_hits_total->scall->\"stat\"", "metric": "Hits", "value": 17142.0}
+{"params": {"Processes": 36}, "callpath": "strace_hits_total->scall->\"statfs\"", "metric": "Hits", "value": 754240.0}
+{"params": {"Processes": 36}, "callpath": "strace_hits_total->scall->\"sysinfo\"", "metric": "Hits", "value": 36.0}
+{"params": {"Processes": 36}, "callpath": "strace_hits_total->scall->\"umask\"", "metric": "Hits", "value": 376994.0}
+{"params": {"Processes": 36}, "callpath": "strace_hits_total->scall->\"uname\"", "metric": "Hits", "value": 433.0}
+{"params": {"Processes": 36}, "callpath": "strace_hits_total->scall->\"unlink\"", "metric": "Hits", "value": 786906.0}
+{"params": {"Processes": 36}, "callpath": "strace_hits_total->scall->\"write\"", "metric": "Hits", "value": 256875.0}
+{"params": {"Processes": 36}, "callpath": "strace_size_total->scall->\"pread64\"", "metric": "Size (B)", "value": 17951570886.0}
+{"params": {"Processes": 36}, "callpath": "strace_size_total->scall->\"pwrite64\"", "metric": "Size (B)", "value": 35863342681.0}
+{"params": {"Processes": 36}, "callpath": "strace_size_total->scall->\"read\"", "metric": "Size (B)", "value": 5863065.0}
+{"params": {"Processes": 36}, "callpath": "strace_size_total->scall->\"recvfrom\"", "metric": "Size (B)", "value": 288.0}
+{"params": {"Processes": 36}, "callpath": "strace_size_total->scall->\"recvmsg\"", "metric": "Size (B)", "value": 3691296.0}
+{"params": {"Processes": 36}, "callpath": "strace_size_total->scall->\"sendto\"", "metric": "Size (B)", "value": 22824.0}
+{"params": {"Processes": 36}, "callpath": "strace_size_total->scall->\"write\"", "metric": "Size (B)", "value": 25349984.0}
+{"params": {"Processes": 36}, "callpath": "strace_time_total->scall->\"access\"", "metric": "Time (s)", "value": 0.0012930000000000003}
+{"params": {"Processes": 36}, "callpath": "strace_time_total->scall->\"arch_prctl\"", "metric": "Time (s)", "value": 9.800000000000002e-05}
+{"params": {"Processes": 36}, "callpath": "strace_time_total->scall->\"bind\"", "metric": "Time (s)", "value": 0.005539}
+{"params": {"Processes": 36}, "callpath": "strace_time_total->scall->\"brk\"", "metric": "Time (s)", "value": 1.0005400000000026}
+{"params": {"Processes": 36}, "callpath": "strace_time_total->scall->\"clock_nanosleep\"", "metric": "Time (s)", "value": 0.650894}
+{"params": {"Processes": 36}, "callpath": "strace_time_total->scall->\"clone\"", "metric": "Time (s)", "value": 0.013427999999999891}
+{"params": {"Processes": 36}, "callpath": "strace_time_total->scall->\"close\"", "metric": "Time (s)", "value": 1.9917729999991935}
+{"params": {"Processes": 36}, "callpath": "strace_time_total->scall->\"connect\"", "metric": "Time (s)", "value": 0.0019820000000000003}
+{"params": {"Processes": 36}, "callpath": "strace_time_total->scall->\"epoll_create\"", "metric": "Time (s)", "value": 0.0001890000000000001}
+{"params": {"Processes": 36}, "callpath": "strace_time_total->scall->\"epoll_ctl\"", "metric": "Time (s)", "value": 0.0008650000000000001}
+{"params": {"Processes": 36}, "callpath": "strace_time_total->scall->\"eventfd2\"", "metric": "Time (s)", "value": 0.0005540000000000002}
+{"params": {"Processes": 36}, "callpath": "strace_time_total->scall->\"execve\"", "metric": "Time (s)", "value": 0.007944}
+{"params": {"Processes": 36}, "callpath": "strace_time_total->scall->\"fcntl\"", "metric": "Time (s)", "value": 0.19424400000009331}
+{"params": {"Processes": 36}, "callpath": "strace_time_total->scall->\"fstat\"", "metric": "Time (s)", "value": 0.16488600000007517}
+{"params": {"Processes": 36}, "callpath": "strace_time_total->scall->\"fsync\"", "metric": "Time (s)", "value": 87.00850799999868}
+{"params": {"Processes": 36}, "callpath": "strace_time_total->scall->\"ftruncate\"", "metric": "Time (s)", "value": 0.028631999999999967}
+{"params": {"Processes": 36}, "callpath": "strace_time_total->scall->\"futex\"", "metric": "Time (s)", "value": 2.3516149999995974}
+{"params": {"Processes": 36}, "callpath": "strace_time_total->scall->\"getcwd\"", "metric": "Time (s)", "value": 0.16145000000004367}
+{"params": {"Processes": 36}, "callpath": "strace_time_total->scall->\"getdents64\"", "metric": "Time (s)", "value": 0.007895000000000001}
+{"params": {"Processes": 36}, "callpath": "strace_time_total->scall->\"getegid\"", "metric": "Time (s)", "value": 0.001107}
+{"params": {"Processes": 36}, "callpath": "strace_time_total->scall->\"geteuid\"", "metric": "Time (s)", "value": 0.0017330000000000002}
+{"params": {"Processes": 36}, "callpath": "strace_time_total->scall->\"getgid\"", "metric": "Time (s)", "value": 0.001438}
+{"params": {"Processes": 36}, "callpath": "strace_time_total->scall->\"getpid\"", "metric": "Time (s)", "value": 0.22512100000010338}
+{"params": {"Processes": 36}, "callpath": "strace_time_total->scall->\"getsockname\"", "metric": "Time (s)", "value": 0.0019950000000000007}
+{"params": {"Processes": 36}, "callpath": "strace_time_total->scall->\"getsockopt\"", "metric": "Time (s)", "value": 0.00016100000000000004}
+{"params": {"Processes": 36}, "callpath": "strace_time_total->scall->\"getuid\"", "metric": "Time (s)", "value": 0.005576}
+{"params": {"Processes": 36}, "callpath": "strace_time_total->scall->\"ioctl\"", "metric": "Time (s)", "value": 0.13172400000000006}
+{"params": {"Processes": 36}, "callpath": "strace_time_total->scall->\"link\"", "metric": "Time (s)", "value": 0.3259789999999643}
+{"params": {"Processes": 36}, "callpath": "strace_time_total->scall->\"listen\"", "metric": "Time (s)", "value": 0.000185}
+{"params": {"Processes": 36}, "callpath": "strace_time_total->scall->\"lseek\"", "metric": "Time (s)", "value": 0.000572}
+{"params": {"Processes": 36}, "callpath": "strace_time_total->scall->\"lstat\"", "metric": "Time (s)", "value": 6.811451000002479}
+{"params": {"Processes": 36}, "callpath": "strace_time_total->scall->\"mkdir\"", "metric": "Time (s)", "value": 0.0033820000000000005}
+{"params": {"Processes": 36}, "callpath": "strace_time_total->scall->\"mmap\"", "metric": "Time (s)", "value": 0.8202939999998539}
+{"params": {"Processes": 36}, "callpath": "strace_time_total->scall->\"mprotect\"", "metric": "Time (s)", "value": 0.02757000000000002}
+{"params": {"Processes": 36}, "callpath": "strace_time_total->scall->\"munmap\"", "metric": "Time (s)", "value": 1.0158829999999193}
+{"params": {"Processes": 36}, "callpath": "strace_time_total->scall->\"openat\"", "metric": "Time (s)", "value": 22.544541999999677}
+{"params": {"Processes": 36}, "callpath": "strace_time_total->scall->\"pipe\"", "metric": "Time (s)", "value": 0.000271}
+{"params": {"Processes": 36}, "callpath": "strace_time_total->scall->\"poll\"", "metric": "Time (s)", "value": 0.71456199999892}
+{"params": {"Processes": 36}, "callpath": "strace_time_total->scall->\"prctl\"", "metric": "Time (s)", "value": 0.000212}
+{"params": {"Processes": 36}, "callpath": "strace_time_total->scall->\"pread64\"", "metric": "Time (s)", "value": 15.203263999999601}
+{"params": {"Processes": 36}, "callpath": "strace_time_total->scall->\"prlimit64\"", "metric": "Time (s)", "value": 0.00010899999999999999}
+{"params": {"Processes": 36}, "callpath": "strace_time_total->scall->\"process_vm_readv\"", "metric": "Time (s)", "value": 1.3494689999999667}
+{"params": {"Processes": 36}, "callpath": "strace_time_total->scall->\"pwrite64\"", "metric": "Time (s)", "value": 14.021735999999866}
+{"params": {"Processes": 36}, "callpath": "strace_time_total->scall->\"read\"", "metric": "Time (s)", "value": 0.068406}
+{"params": {"Processes": 36}, "callpath": "strace_time_total->scall->\"readlink\"", "metric": "Time (s)", "value": 0.0019370000000000004}
+{"params": {"Processes": 36}, "callpath": "strace_time_total->scall->\"recvfrom\"", "metric": "Time (s)", "value": 0.0008620000000000006}
+{"params": {"Processes": 36}, "callpath": "strace_time_total->scall->\"recvmsg\"", "metric": "Time (s)", "value": 0.032366000000000006}
+{"params": {"Processes": 36}, "callpath": "strace_time_total->scall->\"rt_sigaction\"", "metric": "Time (s)", "value": 0.009790000000000004}
+{"params": {"Processes": 36}, "callpath": "strace_time_total->scall->\"rt_sigprocmask\"", "metric": "Time (s)", "value": 0.0017970000000000006}
+{"params": {"Processes": 36}, "callpath": "strace_time_total->scall->\"sched_getaffinity\"", "metric": "Time (s)", "value": 0.0010120000000000003}
+{"params": {"Processes": 36}, "callpath": "strace_time_total->scall->\"sched_getparam\"", "metric": "Time (s)", "value": 5.800000000000001e-05}
+{"params": {"Processes": 36}, "callpath": "strace_time_total->scall->\"sched_getscheduler\"", "metric": "Time (s)", "value": 4.599999999999999e-05}
+{"params": {"Processes": 36}, "callpath": "strace_time_total->scall->\"sched_setaffinity\"", "metric": "Time (s)", "value": 0.0029949999999999994}
+{"params": {"Processes": 36}, "callpath": "strace_time_total->scall->\"sched_yield\"", "metric": "Time (s)", "value": 0.03289900000000002}
+{"params": {"Processes": 36}, "callpath": "strace_time_total->scall->\"sendto\"", "metric": "Time (s)", "value": 0.018817}
+{"params": {"Processes": 36}, "callpath": "strace_time_total->scall->\"set_robust_list\"", "metric": "Time (s)", "value": 8.000000000000002e-05}
+{"params": {"Processes": 36}, "callpath": "strace_time_total->scall->\"set_tid_address\"", "metric": "Time (s)", "value": 8.900000000000001e-05}
+{"params": {"Processes": 36}, "callpath": "strace_time_total->scall->\"setsockopt\"", "metric": "Time (s)", "value": 0.000591}
+{"params": {"Processes": 36}, "callpath": "strace_time_total->scall->\"shmat\"", "metric": "Time (s)", "value": 0.00031700000000000006}
+{"params": {"Processes": 36}, "callpath": "strace_time_total->scall->\"shmctl\"", "metric": "Time (s)", "value": 0.000304}
+{"params": {"Processes": 36}, "callpath": "strace_time_total->scall->\"shmdt\"", "metric": "Time (s)", "value": 0.0005149999999999999}
+{"params": {"Processes": 36}, "callpath": "strace_time_total->scall->\"shmget\"", "metric": "Time (s)", "value": 0.0007340000000000002}
+{"params": {"Processes": 36}, "callpath": "strace_time_total->scall->\"shutdown\"", "metric": "Time (s)", "value": 0.000125}
+{"params": {"Processes": 36}, "callpath": "strace_time_total->scall->\"socket\"", "metric": "Time (s)", "value": 0.021189000000000006}
+{"params": {"Processes": 36}, "callpath": "strace_time_total->scall->\"socketpair\"", "metric": "Time (s)", "value": 0.0010799999999999998}
+{"params": {"Processes": 36}, "callpath": "strace_time_total->scall->\"stat\"", "metric": "Time (s)", "value": 0.09480000000000009}
+{"params": {"Processes": 36}, "callpath": "strace_time_total->scall->\"statfs\"", "metric": "Time (s)", "value": 12.135811000000357}
+{"params": {"Processes": 36}, "callpath": "strace_time_total->scall->\"sysinfo\"", "metric": "Time (s)", "value": 0.00017000000000000004}
+{"params": {"Processes": 36}, "callpath": "strace_time_total->scall->\"umask\"", "metric": "Time (s)", "value": 0.19413600000010267}
+{"params": {"Processes": 36}, "callpath": "strace_time_total->scall->\"uname\"", "metric": "Time (s)", "value": 0.0019700000000000004}
+{"params": {"Processes": 36}, "callpath": "strace_time_total->scall->\"unlink\"", "metric": "Time (s)", "value": 19.638725000000566}
+{"params": {"Processes": 36}, "callpath": "strace_time_total->scall->\"write\"", "metric": "Time (s)", "value": 0.6460859999999239}
+{"params": {"Processes": 36}, "callpath": "strace_total->desc->\"read_size\"", "metric": "other", "value": 17961125535.0}
+{"params": {"Processes": 36}, "callpath": "strace_total->desc->\"read_time\"", "metric": "other", "value": 15.303179999999607}
+{"params": {"Processes": 36}, "callpath": "strace_total->desc->\"time\"", "metric": "other", "value": 29.9898190000022}
+{"params": {"Processes": 36}, "callpath": "strace_total->desc->\"write_size\"", "metric": "other", "value": 35888715489.0}
+{"params": {"Processes": 36}, "callpath": "strace_total->desc->\"write_time\"", "metric": "other", "value": 14.686638999991356}
+{"params": {"Processes": 36}, "callpath": "tau_hits_total->function->\"mpi_alloc_mem\"", "metric": "Hits", "value": 305944.0}
+{"params": {"Processes": 36}, "callpath": "tau_hits_total->function->\"mpi_allreduce\"", "metric": "Hits", "value": 471069.0}
+{"params": {"Processes": 36}, "callpath": "tau_hits_total->function->\"mpi_barrier\"", "metric": "Hits", "value": 2046916.0}
+{"params": {"Processes": 36}, "callpath": "tau_hits_total->function->\"mpi_bcast\"", "metric": "Hits", "value": 83499.0}
+{"params": {"Processes": 36}, "callpath": "tau_hits_total->function->\"mpi_comm_compare\"", "metric": "Hits", "value": 3574.0}
+{"params": {"Processes": 36}, "callpath": "tau_hits_total->function->\"mpi_comm_free\"", "metric": "Hits", "value": 2522.0}
+{"params": {"Processes": 36}, "callpath": "tau_hits_total->function->\"mpi_comm_group\"", "metric": "Hits", "value": 452.0}
+{"params": {"Processes": 36}, "callpath": "tau_hits_total->function->\"mpi_comm_rank\"", "metric": "Hits", "value": 5014.0}
+{"params": {"Processes": 36}, "callpath": "tau_hits_total->function->\"mpi_comm_size\"", "metric": "Hits", "value": 5014.0}
+{"params": {"Processes": 36}, "callpath": "tau_hits_total->function->\"mpi_comm_split\"", "metric": "Hits", "value": 9432.0}
+{"params": {"Processes": 36}, "callpath": "tau_hits_total->function->\"mpi_file_close\"", "metric": "Hits", "value": 188497.0}
+{"params": {"Processes": 36}, "callpath": "tau_hits_total->function->\"mpi_file_delete\"", "metric": "Hits", "value": 715.0}
+{"params": {"Processes": 36}, "callpath": "tau_hits_total->function->\"mpi_file_iread\"", "metric": "Hits", "value": 100188.0}
+{"params": {"Processes": 36}, "callpath": "tau_hits_total->function->\"mpi_file_iread_at\"", "metric": "Hits", "value": 50400.0}
+{"params": {"Processes": 36}, "callpath": "tau_hits_total->function->\"mpi_file_iread_shared\"", "metric": "Hits", "value": 49896.0}
+{"params": {"Processes": 36}, "callpath": "tau_hits_total->function->\"mpi_file_iwrite\"", "metric": "Hits", "value": 99576.0}
+{"params": {"Processes": 36}, "callpath": "tau_hits_total->function->\"mpi_file_iwrite_at\"", "metric": "Hits", "value": 50400.0}
+{"params": {"Processes": 36}, "callpath": "tau_hits_total->function->\"mpi_file_iwrite_shared\"", "metric": "Hits", "value": 49464.0}
+{"params": {"Processes": 36}, "callpath": "tau_hits_total->function->\"mpi_file_open\"", "metric": "Hits", "value": 188497.0}
+{"params": {"Processes": 36}, "callpath": "tau_hits_total->function->\"mpi_file_read\"", "metric": "Hits", "value": 200484.0}
+{"params": {"Processes": 36}, "callpath": "tau_hits_total->function->\"mpi_file_read_all\"", "metric": "Hits", "value": 99792.0}
+{"params": {"Processes": 36}, "callpath": "tau_hits_total->function->\"mpi_file_read_all_begin\"", "metric": "Hits", "value": 49896.0}
+{"params": {"Processes": 36}, "callpath": "tau_hits_total->function->\"mpi_file_read_all_end\"", "metric": "Hits", "value": 49896.0}
+{"params": {"Processes": 36}, "callpath": "tau_hits_total->function->\"mpi_file_read_at\"", "metric": "Hits", "value": 100800.0}
+{"params": {"Processes": 36}, "callpath": "tau_hits_total->function->\"mpi_file_read_at_all\"", "metric": "Hits", "value": 99792.0}
+{"params": {"Processes": 36}, "callpath": "tau_hits_total->function->\"mpi_file_read_at_all_begin\"", "metric": "Hits", "value": 49896.0}
+{"params": {"Processes": 36}, "callpath": "tau_hits_total->function->\"mpi_file_read_at_all_end\"", "metric": "Hits", "value": 49896.0}
+{"params": {"Processes": 36}, "callpath": "tau_hits_total->function->\"mpi_file_read_ordered\"", "metric": "Hits", "value": 99792.0}
+{"params": {"Processes": 36}, "callpath": "tau_hits_total->function->\"mpi_file_read_ordered_begin\"", "metric": "Hits", "value": 49896.0}
+{"params": {"Processes": 36}, "callpath": "tau_hits_total->function->\"mpi_file_read_ordered_end\"", "metric": "Hits", "value": 49896.0}
+{"params": {"Processes": 36}, "callpath": "tau_hits_total->function->\"mpi_file_read_shared\"", "metric": "Hits", "value": 99792.0}
+{"params": {"Processes": 36}, "callpath": "tau_hits_total->function->\"mpi_file_seek\"", "metric": "Hits", "value": 166800.0}
+{"params": {"Processes": 36}, "callpath": "tau_hits_total->function->\"mpi_file_seek_shared\"", "metric": "Hits", "value": 47520.0}
+{"params": {"Processes": 36}, "callpath": "tau_hits_total->function->\"mpi_file_set_size\"", "metric": "Hits", "value": 715.0}
+{"params": {"Processes": 36}, "callpath": "tau_hits_total->function->\"mpi_file_set_view\"", "metric": "Hits", "value": 184195.0}
+{"params": {"Processes": 36}, "callpath": "tau_hits_total->function->\"mpi_file_sync\"", "metric": "Hits", "value": 2179168.0}
+{"params": {"Processes": 36}, "callpath": "tau_hits_total->function->\"mpi_file_write\"", "metric": "Hits", "value": 478491.0}
+{"params": {"Processes": 36}, "callpath": "tau_hits_total->function->\"mpi_file_write_all\"", "metric": "Hits", "value": 230544.0}
+{"params": {"Processes": 36}, "callpath": "tau_hits_total->function->\"mpi_file_write_all_begin\"", "metric": "Hits", "value": 49644.0}
+{"params": {"Processes": 36}, "callpath": "tau_hits_total->function->\"mpi_file_write_all_end\"", "metric": "Hits", "value": 49644.0}
+{"params": {"Processes": 36}, "callpath": "tau_hits_total->function->\"mpi_file_write_at\"", "metric": "Hits", "value": 237220.0}
+{"params": {"Processes": 36}, "callpath": "tau_hits_total->function->\"mpi_file_write_at_all\"", "metric": "Hits", "value": 232380.0}
+{"params": {"Processes": 36}, "callpath": "tau_hits_total->function->\"mpi_file_write_at_all_begin\"", "metric": "Hits", "value": 49544.0}
+{"params": {"Processes": 36}, "callpath": "tau_hits_total->function->\"mpi_file_write_at_all_end\"", "metric": "Hits", "value": 49544.0}
+{"params": {"Processes": 36}, "callpath": "tau_hits_total->function->\"mpi_file_write_ordered\"", "metric": "Hits", "value": 232724.0}
+{"params": {"Processes": 36}, "callpath": "tau_hits_total->function->\"mpi_file_write_ordered_begin\"", "metric": "Hits", "value": 49456.0}
+{"params": {"Processes": 36}, "callpath": "tau_hits_total->function->\"mpi_file_write_ordered_end\"", "metric": "Hits", "value": 49456.0}
+{"params": {"Processes": 36}, "callpath": "tau_hits_total->function->\"mpi_file_write_shared\"", "metric": "Hits", "value": 232760.0}
+{"params": {"Processes": 36}, "callpath": "tau_hits_total->function->\"mpi_finalize\"", "metric": "Hits", "value": 36.0}
+{"params": {"Processes": 36}, "callpath": "tau_hits_total->function->\"mpi_free_mem\"", "metric": "Hits", "value": 303487.0}
+{"params": {"Processes": 36}, "callpath": "tau_hits_total->function->\"mpi_gather\"", "metric": "Hits", "value": 220572.0}
+{"params": {"Processes": 36}, "callpath": "tau_hits_total->function->\"mpi_get_version\"", "metric": "Hits", "value": 1.0}
+{"params": {"Processes": 36}, "callpath": "tau_hits_total->function->\"mpi_group_translate_ranks\"", "metric": "Hits", "value": 226.0}
+{"params": {"Processes": 36}, "callpath": "tau_hits_total->function->\"mpi_init_thread\"", "metric": "Hits", "value": 36.0}
+{"params": {"Processes": 36}, "callpath": "tau_hits_total->function->\"mpi_recv\"", "metric": "Hits", "value": 7910.0}
+{"params": {"Processes": 36}, "callpath": "tau_hits_total->function->\"mpi_send\"", "metric": "Hits", "value": 7910.0}
+{"params": {"Processes": 36}, "callpath": "tau_hits_total->function->\"mpi_type_commit\"", "metric": "Hits", "value": 34780.0}
+{"params": {"Processes": 36}, "callpath": "tau_hits_total->function->\"mpi_type_create_resized\"", "metric": "Hits", "value": 17390.0}
+{"params": {"Processes": 36}, "callpath": "tau_hits_total->function->\"mpi_type_create_struct\"", "metric": "Hits", "value": 17390.0}
+{"params": {"Processes": 36}, "callpath": "tau_hits_total->function->\"mpi_type_free\"", "metric": "Hits", "value": 34780.0}
+{"params": {"Processes": 36}, "callpath": "tau_hits_total->function->\"mpi_type_size\"", "metric": "Hits", "value": 10764.0}
+{"params": {"Processes": 36}, "callpath": "tau_hits_total->function->\"mpi_wait\"", "metric": "Hits", "value": 19104.0}
+{"params": {"Processes": 36}, "callpath": "tau_hits_total->function->\"mpi_waitall\"", "metric": "Hits", "value": 38208.0}
+{"params": {"Processes": 36}, "callpath": "tau_hits_total->function->\"mpi_wtime\"", "metric": "Hits", "value": 1236635.0}
+{"params": {"Processes": 36}, "callpath": "tau_metric_proxy_run_total->metric->\"time\"", "metric": "other", "value": 53855.251735554}
+{"params": {"Processes": 36}, "callpath": "tau_metric_proxy_run_total->operation->\"exec\"", "metric": "other", "value": 36.0}
+{"params": {"Processes": 36}, "callpath": "tau_mpi_total_size->metric->\"size_out\"", "metric": "other", "value": 41138514655.0}
+{"params": {"Processes": 36}, "callpath": "tau_mpi_total->metric->\"hits\"", "metric": "other", "value": 11179931.0}
+{"params": {"Processes": 36}, "callpath": "tau_mpi_total->metric->\"size\"", "metric": "other", "value": 64372893283.0}
+{"params": {"Processes": 36}, "callpath": "tau_mpi_total->metric->\"size_in\"", "metric": "other", "value": 23234378628.0}
+{"params": {"Processes": 36}, "callpath": "tau_mpi_total->metric->\"time\"", "metric": "other", "value": 53264.008586645126}
+{"params": {"Processes": 36}, "callpath": "tau_size_in_total->function->\"mpi_allreduce\"", "metric": "Size (B)", "value": 2552268.0}
+{"params": {"Processes": 36}, "callpath": "tau_size_in_total->function->\"mpi_bcast\"", "metric": "Size (B)", "value": 309488.0}
+{"params": {"Processes": 36}, "callpath": "tau_size_in_total->function->\"mpi_file_iread\"", "metric": "Size (B)", "value": 2629886289.0}
+{"params": {"Processes": 36}, "callpath": "tau_size_in_total->function->\"mpi_file_iread_at\"", "metric": "Size (B)", "value": 1409285976.0}
+{"params": {"Processes": 36}, "callpath": "tau_size_in_total->function->\"mpi_file_iread_shared\"", "metric": "Size (B)", "value": 1233125229.0}
+{"params": {"Processes": 36}, "callpath": "tau_size_in_total->function->\"mpi_file_read\"", "metric": "Size (B)", "value": 5272355874.0}
+{"params": {"Processes": 36}, "callpath": "tau_size_in_total->function->\"mpi_file_read_all\"", "metric": "Size (B)", "value": 2466250458.0}
+{"params": {"Processes": 36}, "callpath": "tau_size_in_total->function->\"mpi_file_read_at\"", "metric": "Size (B)", "value": 2818571952.0}
+{"params": {"Processes": 36}, "callpath": "tau_size_in_total->function->\"mpi_file_read_at_all\"", "metric": "Size (B)", "value": 2466250458.0}
+{"params": {"Processes": 36}, "callpath": "tau_size_in_total->function->\"mpi_file_read_ordered\"", "metric": "Size (B)", "value": 2466250458.0}
+{"params": {"Processes": 36}, "callpath": "tau_size_in_total->function->\"mpi_file_read_shared\"", "metric": "Size (B)", "value": 2466250458.0}
+{"params": {"Processes": 36}, "callpath": "tau_size_in_total->function->\"mpi_gather\"", "metric": "Size (B)", "value": 2469600.0}
+{"params": {"Processes": 36}, "callpath": "tau_size_in_total->function->\"mpi_recv\"", "metric": "Size (B)", "value": 820120.0}
+{"params": {"Processes": 36}, "callpath": "tau_size_out_total->function->\"mpi_allreduce\"", "metric": "Size (B)", "value": 2552268.0}
+{"params": {"Processes": 36}, "callpath": "tau_size_out_total->function->\"mpi_bcast\"", "metric": "Size (B)", "value": 24508.0}
+{"params": {"Processes": 36}, "callpath": "tau_size_out_total->function->\"mpi_file_iwrite\"", "metric": "Size (B)", "value": 2627768257.0}
+{"params": {"Processes": 36}, "callpath": "tau_size_out_total->function->\"mpi_file_iwrite_at\"", "metric": "Size (B)", "value": 1409285976.0}
+{"params": {"Processes": 36}, "callpath": "tau_size_out_total->function->\"mpi_file_iwrite_shared\"", "metric": "Size (B)", "value": 1233039725.0}
+{"params": {"Processes": 36}, "callpath": "tau_size_out_total->function->\"mpi_file_write\"", "metric": "Size (B)", "value": 13581655574.0}
+{"params": {"Processes": 36}, "callpath": "tau_size_out_total->function->\"mpi_file_write_all\"", "metric": "Size (B)", "value": 4342724669.0}
+{"params": {"Processes": 36}, "callpath": "tau_size_out_total->function->\"mpi_file_write_at\"", "metric": "Size (B)", "value": 4946098120.0}
+{"params": {"Processes": 36}, "callpath": "tau_size_out_total->function->\"mpi_file_write_at_all\"", "metric": "Size (B)", "value": 4317843115.0}
+{"params": {"Processes": 36}, "callpath": "tau_size_out_total->function->\"mpi_file_write_ordered\"", "metric": "Size (B)", "value": 4325671943.0}
+{"params": {"Processes": 36}, "callpath": "tau_size_out_total->function->\"mpi_file_write_shared\"", "metric": "Size (B)", "value": 4349349260.0}
+{"params": {"Processes": 36}, "callpath": "tau_size_out_total->function->\"mpi_gather\"", "metric": "Size (B)", "value": 2469600.0}
+{"params": {"Processes": 36}, "callpath": "tau_size_out_total->function->\"mpi_send\"", "metric": "Size (B)", "value": 31640.0}
+{"params": {"Processes": 36}, "callpath": "tau_size_total->function->\"mpi_allreduce\"", "metric": "Size (B)", "value": 5104536.0}
+{"params": {"Processes": 36}, "callpath": "tau_size_total->function->\"mpi_bcast\"", "metric": "Size (B)", "value": 333996.0}
+{"params": {"Processes": 36}, "callpath": "tau_size_total->function->\"mpi_file_iread\"", "metric": "Size (B)", "value": 2629886289.0}
+{"params": {"Processes": 36}, "callpath": "tau_size_total->function->\"mpi_file_iread_at\"", "metric": "Size (B)", "value": 1409285976.0}
+{"params": {"Processes": 36}, "callpath": "tau_size_total->function->\"mpi_file_iread_shared\"", "metric": "Size (B)", "value": 1233125229.0}
+{"params": {"Processes": 36}, "callpath": "tau_size_total->function->\"mpi_file_iwrite\"", "metric": "Size (B)", "value": 2627768257.0}
+{"params": {"Processes": 36}, "callpath": "tau_size_total->function->\"mpi_file_iwrite_at\"", "metric": "Size (B)", "value": 1409285976.0}
+{"params": {"Processes": 36}, "callpath": "tau_size_total->function->\"mpi_file_iwrite_shared\"", "metric": "Size (B)", "value": 1233039725.0}
+{"params": {"Processes": 36}, "callpath": "tau_size_total->function->\"mpi_file_read\"", "metric": "Size (B)", "value": 5272355874.0}
+{"params": {"Processes": 36}, "callpath": "tau_size_total->function->\"mpi_file_read_all\"", "metric": "Size (B)", "value": 2466250458.0}
+{"params": {"Processes": 36}, "callpath": "tau_size_total->function->\"mpi_file_read_at\"", "metric": "Size (B)", "value": 2818571952.0}
+{"params": {"Processes": 36}, "callpath": "tau_size_total->function->\"mpi_file_read_at_all\"", "metric": "Size (B)", "value": 2466250458.0}
+{"params": {"Processes": 36}, "callpath": "tau_size_total->function->\"mpi_file_read_ordered\"", "metric": "Size (B)", "value": 2466250458.0}
+{"params": {"Processes": 36}, "callpath": "tau_size_total->function->\"mpi_file_read_shared\"", "metric": "Size (B)", "value": 2466250458.0}
+{"params": {"Processes": 36}, "callpath": "tau_size_total->function->\"mpi_file_write\"", "metric": "Size (B)", "value": 13581655574.0}
+{"params": {"Processes": 36}, "callpath": "tau_size_total->function->\"mpi_file_write_all\"", "metric": "Size (B)", "value": 4342724669.0}
+{"params": {"Processes": 36}, "callpath": "tau_size_total->function->\"mpi_file_write_at\"", "metric": "Size (B)", "value": 4946098120.0}
+{"params": {"Processes": 36}, "callpath": "tau_size_total->function->\"mpi_file_write_at_all\"", "metric": "Size (B)", "value": 4317843115.0}
+{"params": {"Processes": 36}, "callpath": "tau_size_total->function->\"mpi_file_write_ordered\"", "metric": "Size (B)", "value": 4325671943.0}
+{"params": {"Processes": 36}, "callpath": "tau_size_total->function->\"mpi_file_write_shared\"", "metric": "Size (B)", "value": 4349349260.0}
+{"params": {"Processes": 36}, "callpath": "tau_size_total->function->\"mpi_gather\"", "metric": "Size (B)", "value": 4939200.0}
+{"params": {"Processes": 36}, "callpath": "tau_size_total->function->\"mpi_recv\"", "metric": "Size (B)", "value": 820120.0}
+{"params": {"Processes": 36}, "callpath": "tau_size_total->function->\"mpi_send\"", "metric": "Size (B)", "value": 31640.0}
+{"params": {"Processes": 36}, "callpath": "tau_time_total->function->\"mpi_alloc_mem\"", "metric": "Time (s)", "value": 0.9061572551727295}
+{"params": {"Processes": 36}, "callpath": "tau_time_total->function->\"mpi_allreduce\"", "metric": "Time (s)", "value": 14427.20420384407}
+{"params": {"Processes": 36}, "callpath": "tau_time_total->function->\"mpi_barrier\"", "metric": "Time (s)", "value": 15955.427570343018}
+{"params": {"Processes": 36}, "callpath": "tau_time_total->function->\"mpi_bcast\"", "metric": "Time (s)", "value": 1.4562039375305176}
+{"params": {"Processes": 36}, "callpath": "tau_time_total->function->\"mpi_comm_compare\"", "metric": "Time (s)", "value": 0.013240337371826172}
+{"params": {"Processes": 36}, "callpath": "tau_time_total->function->\"mpi_comm_free\"", "metric": "Time (s)", "value": 0.014711141586303711}
+{"params": {"Processes": 36}, "callpath": "tau_time_total->function->\"mpi_comm_group\"", "metric": "Time (s)", "value": 0.00011515617370605469}
+{"params": {"Processes": 36}, "callpath": "tau_time_total->function->\"mpi_comm_rank\"", "metric": "Time (s)", "value": 0.0003592967987060547}
+{"params": {"Processes": 36}, "callpath": "tau_time_total->function->\"mpi_comm_size\"", "metric": "Time (s)", "value": 0.013784646987915039}
+{"params": {"Processes": 36}, "callpath": "tau_time_total->function->\"mpi_comm_split\"", "metric": "Time (s)", "value": 219.78977394104004}
+{"params": {"Processes": 36}, "callpath": "tau_time_total->function->\"mpi_file_close\"", "metric": "Time (s)", "value": 779.62286901474}
+{"params": {"Processes": 36}, "callpath": "tau_time_total->function->\"mpi_file_delete\"", "metric": "Time (s)", "value": 15.788639307022095}
+{"params": {"Processes": 36}, "callpath": "tau_time_total->function->\"mpi_file_iread\"", "metric": "Time (s)", "value": 1.4557764530181885}
+{"params": {"Processes": 36}, "callpath": "tau_time_total->function->\"mpi_file_iread_at\"", "metric": "Time (s)", "value": 0.876354455947876}
+{"params": {"Processes": 36}, "callpath": "tau_time_total->function->\"mpi_file_iread_shared\"", "metric": "Time (s)", "value": 5.113175868988037}
+{"params": {"Processes": 36}, "callpath": "tau_time_total->function->\"mpi_file_iwrite\"", "metric": "Time (s)", "value": 3.7130987644195557}
+{"params": {"Processes": 36}, "callpath": "tau_time_total->function->\"mpi_file_iwrite_at\"", "metric": "Time (s)", "value": 0.8417665958404541}
+{"params": {"Processes": 36}, "callpath": "tau_time_total->function->\"mpi_file_iwrite_shared\"", "metric": "Time (s)", "value": 5.020574569702148}
+{"params": {"Processes": 36}, "callpath": "tau_time_total->function->\"mpi_file_open\"", "metric": "Time (s)", "value": 12410.530714988708}
+{"params": {"Processes": 36}, "callpath": "tau_time_total->function->\"mpi_file_read\"", "metric": "Time (s)", "value": 69.31779599189758}
+{"params": {"Processes": 36}, "callpath": "tau_time_total->function->\"mpi_file_read_all\"", "metric": "Time (s)", "value": 122.50524282455444}
+{"params": {"Processes": 36}, "callpath": "tau_time_total->function->\"mpi_file_read_all_begin\"", "metric": "Time (s)", "value": 3.3576841354370117}
+{"params": {"Processes": 36}, "callpath": "tau_time_total->function->\"mpi_file_read_all_end\"", "metric": "Time (s)", "value": 20.225738525390625}
+{"params": {"Processes": 36}, "callpath": "tau_time_total->function->\"mpi_file_read_at\"", "metric": "Time (s)", "value": 34.48548603057861}
+{"params": {"Processes": 36}, "callpath": "tau_time_total->function->\"mpi_file_read_at_all\"", "metric": "Time (s)", "value": 45.36091876029968}
+{"params": {"Processes": 36}, "callpath": "tau_time_total->function->\"mpi_file_read_at_all_begin\"", "metric": "Time (s)", "value": 3.663511276245117}
+{"params": {"Processes": 36}, "callpath": "tau_time_total->function->\"mpi_file_read_at_all_end\"", "metric": "Time (s)", "value": 8.531224727630615}
+{"params": {"Processes": 36}, "callpath": "tau_time_total->function->\"mpi_file_read_ordered\"", "metric": "Time (s)", "value": 151.48595428466797}
+{"params": {"Processes": 36}, "callpath": "tau_time_total->function->\"mpi_file_read_ordered_begin\"", "metric": "Time (s)", "value": 693.1513044834137}
+{"params": {"Processes": 36}, "callpath": "tau_time_total->function->\"mpi_file_read_ordered_end\"", "metric": "Time (s)", "value": 24.016024827957153}
+{"params": {"Processes": 36}, "callpath": "tau_time_total->function->\"mpi_file_read_shared\"", "metric": "Time (s)", "value": 41.021355628967285}
+{"params": {"Processes": 36}, "callpath": "tau_time_total->function->\"mpi_file_seek\"", "metric": "Time (s)", "value": 0.06382489204406738}
+{"params": {"Processes": 36}, "callpath": "tau_time_total->function->\"mpi_file_seek_shared\"", "metric": "Time (s)", "value": 463.1325252056122}
+{"params": {"Processes": 36}, "callpath": "tau_time_total->function->\"mpi_file_set_size\"", "metric": "Time (s)", "value": 0.8814132213592529}
+{"params": {"Processes": 36}, "callpath": "tau_time_total->function->\"mpi_file_set_view\"", "metric": "Time (s)", "value": 17.98021149635315}
+{"params": {"Processes": 36}, "callpath": "tau_time_total->function->\"mpi_file_sync\"", "metric": "Time (s)", "value": 4825.696001529694}
+{"params": {"Processes": 36}, "callpath": "tau_time_total->function->\"mpi_file_write\"", "metric": "Time (s)", "value": 327.9913513660431}
+{"params": {"Processes": 36}, "callpath": "tau_time_total->function->\"mpi_file_write_all\"", "metric": "Time (s)", "value": 330.0748989582062}
+{"params": {"Processes": 36}, "callpath": "tau_time_total->function->\"mpi_file_write_all_begin\"", "metric": "Time (s)", "value": 2.5276386737823486}
+{"params": {"Processes": 36}, "callpath": "tau_time_total->function->\"mpi_file_write_all_end\"", "metric": "Time (s)", "value": 63.75307512283325}
+{"params": {"Processes": 36}, "callpath": "tau_time_total->function->\"mpi_file_write_at\"", "metric": "Time (s)", "value": 277.29323983192444}
+{"params": {"Processes": 36}, "callpath": "tau_time_total->function->\"mpi_file_write_at_all\"", "metric": "Time (s)", "value": 341.21244597435}
+{"params": {"Processes": 36}, "callpath": "tau_time_total->function->\"mpi_file_write_at_all_begin\"", "metric": "Time (s)", "value": 2.5371150970458984}
+{"params": {"Processes": 36}, "callpath": "tau_time_total->function->\"mpi_file_write_at_all_end\"", "metric": "Time (s)", "value": 85.47991752624512}
+{"params": {"Processes": 36}, "callpath": "tau_time_total->function->\"mpi_file_write_ordered\"", "metric": "Time (s)", "value": 274.66033935546875}
+{"params": {"Processes": 36}, "callpath": "tau_time_total->function->\"mpi_file_write_ordered_begin\"", "metric": "Time (s)", "value": 472.1401414871216}
+{"params": {"Processes": 36}, "callpath": "tau_time_total->function->\"mpi_file_write_ordered_end\"", "metric": "Time (s)", "value": 50.241241216659546}
+{"params": {"Processes": 36}, "callpath": "tau_time_total->function->\"mpi_file_write_shared\"", "metric": "Time (s)", "value": 197.4920198917389}
+{"params": {"Processes": 36}, "callpath": "tau_time_total->function->\"mpi_finalize\"", "metric": "Time (s)", "value": 37.868610858917236}
+{"params": {"Processes": 36}, "callpath": "tau_time_total->function->\"mpi_free_mem\"", "metric": "Time (s)", "value": 2.9414961338043213}
+{"params": {"Processes": 36}, "callpath": "tau_time_total->function->\"mpi_gather\"", "metric": "Time (s)", "value": 157.77766466140747}
+{"params": {"Processes": 36}, "callpath": "tau_time_total->function->\"mpi_get_version\"", "metric": "Time (s)", "value": 2.1457672119140625e-06}
+{"params": {"Processes": 36}, "callpath": "tau_time_total->function->\"mpi_group_translate_ranks\"", "metric": "Time (s)", "value": 0.0006353855133056641}
+{"params": {"Processes": 36}, "callpath": "tau_time_total->function->\"mpi_init_thread\"", "metric": "Time (s)", "value": 17.437169313430786}
+{"params": {"Processes": 36}, "callpath": "tau_time_total->function->\"mpi_recv\"", "metric": "Time (s)", "value": 0.034790754318237305}
+{"params": {"Processes": 36}, "callpath": "tau_time_total->function->\"mpi_send\"", "metric": "Time (s)", "value": 0.294980525970459}
+{"params": {"Processes": 36}, "callpath": "tau_time_total->function->\"mpi_type_commit\"", "metric": "Time (s)", "value": 0.01151132583618164}
+{"params": {"Processes": 36}, "callpath": "tau_time_total->function->\"mpi_type_create_resized\"", "metric": "Time (s)", "value": 0.041376352310180664}
+{"params": {"Processes": 36}, "callpath": "tau_time_total->function->\"mpi_type_create_struct\"", "metric": "Time (s)", "value": 0.03534269332885742}
+{"params": {"Processes": 36}, "callpath": "tau_time_total->function->\"mpi_type_free\"", "metric": "Time (s)", "value": 0.006948232650756836}
+{"params": {"Processes": 36}, "callpath": "tau_time_total->function->\"mpi_type_size\"", "metric": "Time (s)", "value": 0.001995086669921875}
+{"params": {"Processes": 36}, "callpath": "tau_time_total->function->\"mpi_wait\"", "metric": "Time (s)", "value": 17.998591661453247}
+{"params": {"Processes": 36}, "callpath": "tau_time_total->function->\"mpi_waitall\"", "metric": "Time (s)", "value": 250.5335247516632}
+{"params": {"Processes": 36}, "callpath": "tau_time_total->function->\"mpi_wtime\"", "metric": "Time (s)", "value": 0.9552145004272461}
+{"params": {"Processes": 36}, "callpath": "strace_time_total->scall->\"pwritev\"", "metric": "Time (s)", "value": 0}
+{"params": {"Processes": 36}, "callpath": "strace_hits_total->scall->\"pwritev\"", "metric": "Hits", "value": 0}
+{"params": {"Processes": 36}, "callpath": "strace_time_total->scall->\"writev\"", "metric": "Time (s)", "value": 0}
+{"params": {"Processes": 36}, "callpath": "strace_hits_total->scall->\"writev\"", "metric": "Hits", "value": 0}
+{"params": {"Processes": 288}, "callpath": "strace_hits_total->scall->\"access\"", "metric": "Hits", "value": 2016.0}
+{"params": {"Processes": 288}, "callpath": "strace_hits_total->scall->\"arch_prctl\"", "metric": "Hits", "value": 576.0}
+{"params": {"Processes": 288}, "callpath": "strace_hits_total->scall->\"bind\"", "metric": "Hits", "value": 9360.0}
+{"params": {"Processes": 288}, "callpath": "strace_hits_total->scall->\"brk\"", "metric": "Hits", "value": 524010.0}
+{"params": {"Processes": 288}, "callpath": "strace_hits_total->scall->\"clock_nanosleep\"", "metric": "Hits", "value": 7490203.0}
+{"params": {"Processes": 288}, "callpath": "strace_hits_total->scall->\"clone\"", "metric": "Hits", "value": 232105.0}
+{"params": {"Processes": 288}, "callpath": "strace_hits_total->scall->\"close\"", "metric": "Hits", "value": 5294359.0}
+{"params": {"Processes": 288}, "callpath": "strace_hits_total->scall->\"connect\"", "metric": "Hits", "value": 576.0}
+{"params": {"Processes": 288}, "callpath": "strace_hits_total->scall->\"epoll_create\"", "metric": "Hits", "value": 288.0}
+{"params": {"Processes": 288}, "callpath": "strace_hits_total->scall->\"epoll_ctl\"", "metric": "Hits", "value": 864.0}
+{"params": {"Processes": 288}, "callpath": "strace_hits_total->scall->\"eventfd2\"", "metric": "Hits", "value": 864.0}
+{"params": {"Processes": 288}, "callpath": "strace_hits_total->scall->\"execve\"", "metric": "Hits", "value": 288.0}
+{"params": {"Processes": 288}, "callpath": "strace_hits_total->scall->\"fcntl\"", "metric": "Hits", "value": 6566157.0}
+{"params": {"Processes": 288}, "callpath": "strace_hits_total->scall->\"fstat\"", "metric": "Hits", "value": 372951.0}
+{"params": {"Processes": 288}, "callpath": "strace_hits_total->scall->\"fsync\"", "metric": "Hits", "value": 10956352.0}
+{"params": {"Processes": 288}, "callpath": "strace_hits_total->scall->\"ftruncate\"", "metric": "Hits", "value": 5169.0}
+{"params": {"Processes": 288}, "callpath": "strace_hits_total->scall->\"futex\"", "metric": "Hits", "value": 4110388.0}
+{"params": {"Processes": 288}, "callpath": "strace_hits_total->scall->\"getcwd\"", "metric": "Hits", "value": 2625517.0}
+{"params": {"Processes": 288}, "callpath": "strace_hits_total->scall->\"getdents64\"", "metric": "Hits", "value": 6912.0}
+{"params": {"Processes": 288}, "callpath": "strace_hits_total->scall->\"getegid\"", "metric": "Hits", "value": 2592.0}
+{"params": {"Processes": 288}, "callpath": "strace_hits_total->scall->\"geteuid\"", "metric": "Hits", "value": 4032.0}
+{"params": {"Processes": 288}, "callpath": "strace_hits_total->scall->\"getgid\"", "metric": "Hits", "value": 2016.0}
+{"params": {"Processes": 288}, "callpath": "strace_hits_total->scall->\"getpid\"", "metric": "Hits", "value": 7132076.0}
+{"params": {"Processes": 288}, "callpath": "strace_hits_total->scall->\"getsockname\"", "metric": "Hits", "value": 4320.0}
+{"params": {"Processes": 288}, "callpath": "strace_hits_total->scall->\"getsockopt\"", "metric": "Hits", "value": 288.0}
+{"params": {"Processes": 288}, "callpath": "strace_hits_total->scall->\"getuid\"", "metric": "Hits", "value": 11662.0}
+{"params": {"Processes": 288}, "callpath": "strace_hits_total->scall->\"ioctl\"", "metric": "Hits", "value": 43196.0}
+{"params": {"Processes": 288}, "callpath": "strace_hits_total->scall->\"link\"", "metric": "Hits", "value": 317894.0}
+{"params": {"Processes": 288}, "callpath": "strace_hits_total->scall->\"listen\"", "metric": "Hits", "value": 288.0}
+{"params": {"Processes": 288}, "callpath": "strace_hits_total->scall->\"lseek\"", "metric": "Hits", "value": 5067139.0}
+{"params": {"Processes": 288}, "callpath": "strace_hits_total->scall->\"lstat\"", "metric": "Hits", "value": 1791603.0}
+{"params": {"Processes": 288}, "callpath": "strace_hits_total->scall->\"mkdir\"", "metric": "Hits", "value": 312.0}
+{"params": {"Processes": 288}, "callpath": "strace_hits_total->scall->\"mmap\"", "metric": "Hits", "value": 1148585.0}
+{"params": {"Processes": 288}, "callpath": "strace_hits_total->scall->\"mprotect\"", "metric": "Hits", "value": 42912.0}
+{"params": {"Processes": 288}, "callpath": "strace_hits_total->scall->\"munmap\"", "metric": "Hits", "value": 1043001.0}
+{"params": {"Processes": 288}, "callpath": "strace_hits_total->scall->\"openat\"", "metric": "Hits", "value": 5714261.0}
+{"params": {"Processes": 288}, "callpath": "strace_hits_total->scall->\"pipe\"", "metric": "Hits", "value": 288.0}
+{"params": {"Processes": 288}, "callpath": "strace_hits_total->scall->\"poll\"", "metric": "Hits", "value": 289886899.0}
+{"params": {"Processes": 288}, "callpath": "strace_hits_total->scall->\"prctl\"", "metric": "Hits", "value": 288.0}
+{"params": {"Processes": 288}, "callpath": "strace_hits_total->scall->\"pread64\"", "metric": "Hits", "value": 2378186.0}
+{"params": {"Processes": 288}, "callpath": "strace_hits_total->scall->\"prlimit64\"", "metric": "Hits", "value": 288.0}
+{"params": {"Processes": 288}, "callpath": "strace_hits_total->scall->\"process_vm_readv\"", "metric": "Hits", "value": 256317.0}
+{"params": {"Processes": 288}, "callpath": "strace_hits_total->scall->\"pwrite64\"", "metric": "Hits", "value": 4394463.0}
+{"params": {"Processes": 288}, "callpath": "strace_hits_total->scall->\"pwritev\"", "metric": "Hits", "value": 504.0}
+{"params": {"Processes": 288}, "callpath": "strace_hits_total->scall->\"read\"", "metric": "Hits", "value": 2628345.0}
+{"params": {"Processes": 288}, "callpath": "strace_hits_total->scall->\"readlink\"", "metric": "Hits", "value": 2304.0}
+{"params": {"Processes": 288}, "callpath": "strace_hits_total->scall->\"recvfrom\"", "metric": "Hits", "value": 576.0}
+{"params": {"Processes": 288}, "callpath": "strace_hits_total->scall->\"recvmsg\"", "metric": "Hits", "value": 24192.0}
+{"params": {"Processes": 288}, "callpath": "strace_hits_total->scall->\"rt_sigaction\"", "metric": "Hits", "value": 20732.0}
+{"params": {"Processes": 288}, "callpath": "strace_hits_total->scall->\"rt_sigprocmask\"", "metric": "Hits", "value": 462194.0}
+{"params": {"Processes": 288}, "callpath": "strace_hits_total->scall->\"sched_getaffinity\"", "metric": "Hits", "value": 3168.0}
+{"params": {"Processes": 288}, "callpath": "strace_hits_total->scall->\"sched_getparam\"", "metric": "Hits", "value": 288.0}
+{"params": {"Processes": 288}, "callpath": "strace_hits_total->scall->\"sched_getscheduler\"", "metric": "Hits", "value": 288.0}
+{"params": {"Processes": 288}, "callpath": "strace_hits_total->scall->\"sched_setaffinity\"", "metric": "Hits", "value": 1152.0}
+{"params": {"Processes": 288}, "callpath": "strace_hits_total->scall->\"sched_yield\"", "metric": "Hits", "value": 184830.0}
+{"params": {"Processes": 288}, "callpath": "strace_hits_total->scall->\"sendto\"", "metric": "Hits", "value": 8352.0}
+{"params": {"Processes": 288}, "callpath": "strace_hits_total->scall->\"set_robust_list\"", "metric": "Hits", "value": 288.0}
+{"params": {"Processes": 288}, "callpath": "strace_hits_total->scall->\"set_tid_address\"", "metric": "Hits", "value": 288.0}
+{"params": {"Processes": 288}, "callpath": "strace_hits_total->scall->\"setsockopt\"", "metric": "Hits", "value": 1152.0}
+{"params": {"Processes": 288}, "callpath": "strace_hits_total->scall->\"shmat\"", "metric": "Hits", "value": 288.0}
+{"params": {"Processes": 288}, "callpath": "strace_hits_total->scall->\"shmctl\"", "metric": "Hits", "value": 576.0}
+{"params": {"Processes": 288}, "callpath": "strace_hits_total->scall->\"shmdt\"", "metric": "Hits", "value": 288.0}
+{"params": {"Processes": 288}, "callpath": "strace_hits_total->scall->\"shmget\"", "metric": "Hits", "value": 288.0}
+{"params": {"Processes": 288}, "callpath": "strace_hits_total->scall->\"shutdown\"", "metric": "Hits", "value": 288.0}
+{"params": {"Processes": 288}, "callpath": "strace_hits_total->scall->\"socket\"", "metric": "Hits", "value": 30240.0}
+{"params": {"Processes": 288}, "callpath": "strace_hits_total->scall->\"socketpair\"", "metric": "Hits", "value": 864.0}
+{"params": {"Processes": 288}, "callpath": "strace_hits_total->scall->\"stat\"", "metric": "Hits", "value": 137112.0}
+{"params": {"Processes": 288}, "callpath": "strace_hits_total->scall->\"statfs\"", "metric": "Hits", "value": 5896852.0}
+{"params": {"Processes": 288}, "callpath": "strace_hits_total->scall->\"sysinfo\"", "metric": "Hits", "value": 576.0}
+{"params": {"Processes": 288}, "callpath": "strace_hits_total->scall->\"umask\"", "metric": "Hits", "value": 2947418.0}
+{"params": {"Processes": 288}, "callpath": "strace_hits_total->scall->\"uname\"", "metric": "Hits", "value": 3457.0}
+{"params": {"Processes": 288}, "callpath": "strace_hits_total->scall->\"unlink\"", "metric": "Hits", "value": 2678517.0}
+{"params": {"Processes": 288}, "callpath": "strace_hits_total->scall->\"write\"", "metric": "Hits", "value": 3343605.0}
+{"params": {"Processes": 288}, "callpath": "strace_hits_total->scall->\"writev\"", "metric": "Hits", "value": 437651.0}
+{"params": {"Processes": 288}, "callpath": "strace_size_total->scall->\"pread64\"", "metric": "Size (B)", "value": 25211986892.0}
+{"params": {"Processes": 288}, "callpath": "strace_size_total->scall->\"pwrite64\"", "metric": "Size (B)", "value": 46448972665.0}
+{"params": {"Processes": 288}, "callpath": "strace_size_total->scall->\"read\"", "metric": "Size (B)", "value": 67252322.0}
+{"params": {"Processes": 288}, "callpath": "strace_size_total->scall->\"recvfrom\"", "metric": "Size (B)", "value": 2304.0}
+{"params": {"Processes": 288}, "callpath": "strace_size_total->scall->\"recvmsg\"", "metric": "Size (B)", "value": 29514240.0}
+{"params": {"Processes": 288}, "callpath": "strace_size_total->scall->\"sendto\"", "metric": "Size (B)", "value": 182592.0}
+{"params": {"Processes": 288}, "callpath": "strace_size_total->scall->\"write\"", "metric": "Size (B)", "value": 179755938.0}
+{"params": {"Processes": 288}, "callpath": "strace_time_total->scall->\"access\"", "metric": "Time (s)", "value": 0.008308000000000001}
+{"params": {"Processes": 288}, "callpath": "strace_time_total->scall->\"arch_prctl\"", "metric": "Time (s)", "value": 0.000613}
+{"params": {"Processes": 288}, "callpath": "strace_time_total->scall->\"bind\"", "metric": "Time (s)", "value": 0.028839000000000004}
+{"params": {"Processes": 288}, "callpath": "strace_time_total->scall->\"brk\"", "metric": "Time (s)", "value": 6.252802999999854}
+{"params": {"Processes": 288}, "callpath": "strace_time_total->scall->\"clock_nanosleep\"", "metric": "Time (s)", "value": 54.43154999999986}
+{"params": {"Processes": 288}, "callpath": "strace_time_total->scall->\"clone\"", "metric": "Time (s)", "value": 0.48384200000001454}
+{"params": {"Processes": 288}, "callpath": "strace_time_total->scall->\"close\"", "metric": "Time (s)", "value": 10.974245999999848}
+{"params": {"Processes": 288}, "callpath": "strace_time_total->scall->\"connect\"", "metric": "Time (s)", "value": 0.011283000000000001}
+{"params": {"Processes": 288}, "callpath": "strace_time_total->scall->\"epoll_create\"", "metric": "Time (s)", "value": 0.0013710000000000003}
+{"params": {"Processes": 288}, "callpath": "strace_time_total->scall->\"epoll_ctl\"", "metric": "Time (s)", "value": 0.0034450000000000014}
+{"params": {"Processes": 288}, "callpath": "strace_time_total->scall->\"eventfd2\"", "metric": "Time (s)", "value": 0.003981}
+{"params": {"Processes": 288}, "callpath": "strace_time_total->scall->\"execve\"", "metric": "Time (s)", "value": 0.017810000000000003}
+{"params": {"Processes": 288}, "callpath": "strace_time_total->scall->\"fcntl\"", "metric": "Time (s)", "value": 147.0105909999956}
+{"params": {"Processes": 288}, "callpath": "strace_time_total->scall->\"fstat\"", "metric": "Time (s)", "value": 0.44072400000009626}
+{"params": {"Processes": 288}, "callpath": "strace_time_total->scall->\"fsync\"", "metric": "Time (s)", "value": 736.1899309996913}
+{"params": {"Processes": 288}, "callpath": "strace_time_total->scall->\"ftruncate\"", "metric": "Time (s)", "value": 0.13897700000000002}
+{"params": {"Processes": 288}, "callpath": "strace_time_total->scall->\"futex\"", "metric": "Time (s)", "value": 9.671379999999836}
+{"params": {"Processes": 288}, "callpath": "strace_time_total->scall->\"getcwd\"", "metric": "Time (s)", "value": 0.9491410000001884}
+{"params": {"Processes": 288}, "callpath": "strace_time_total->scall->\"getdents64\"", "metric": "Time (s)", "value": 0.06088200000000001}
+{"params": {"Processes": 288}, "callpath": "strace_time_total->scall->\"getegid\"", "metric": "Time (s)", "value": 0.006871}
+{"params": {"Processes": 288}, "callpath": "strace_time_total->scall->\"geteuid\"", "metric": "Time (s)", "value": 0.011546}
+{"params": {"Processes": 288}, "callpath": "strace_time_total->scall->\"getgid\"", "metric": "Time (s)", "value": 0.005240000000000002}
+{"params": {"Processes": 288}, "callpath": "strace_time_total->scall->\"getpid\"", "metric": "Time (s)", "value": 3.4047779999992103}
+{"params": {"Processes": 288}, "callpath": "strace_time_total->scall->\"getsockname\"", "metric": "Time (s)", "value": 0.011708000000000003}
+{"params": {"Processes": 288}, "callpath": "strace_time_total->scall->\"getsockopt\"", "metric": "Time (s)", "value": 0.0010980000000000002}
+{"params": {"Processes": 288}, "callpath": "strace_time_total->scall->\"getuid\"", "metric": "Time (s)", "value": 0.04207800000000001}
+{"params": {"Processes": 288}, "callpath": "strace_time_total->scall->\"ioctl\"", "metric": "Time (s)", "value": 1.6337990000000004}
+{"params": {"Processes": 288}, "callpath": "strace_time_total->scall->\"link\"", "metric": "Time (s)", "value": 0.630554000000094}
+{"params": {"Processes": 288}, "callpath": "strace_time_total->scall->\"listen\"", "metric": "Time (s)", "value": 0.0009480000000000002}
+{"params": {"Processes": 288}, "callpath": "strace_time_total->scall->\"lseek\"", "metric": "Time (s)", "value": 3.073978999999842}
+{"params": {"Processes": 288}, "callpath": "strace_time_total->scall->\"lstat\"", "metric": "Time (s)", "value": 41.934849000003645}
+{"params": {"Processes": 288}, "callpath": "strace_time_total->scall->\"mkdir\"", "metric": "Time (s)", "value": 0.009550000000000001}
+{"params": {"Processes": 288}, "callpath": "strace_time_total->scall->\"mmap\"", "metric": "Time (s)", "value": 2.500316000000212}
+{"params": {"Processes": 288}, "callpath": "strace_time_total->scall->\"mprotect\"", "metric": "Time (s)", "value": 0.19994099999999998}
+{"params": {"Processes": 288}, "callpath": "strace_time_total->scall->\"munmap\"", "metric": "Time (s)", "value": 2.0793129999999174}
+{"params": {"Processes": 288}, "callpath": "strace_time_total->scall->\"openat\"", "metric": "Time (s)", "value": 283.6188609999075}
+{"params": {"Processes": 288}, "callpath": "strace_time_total->scall->\"pipe\"", "metric": "Time (s)", "value": 0.0022630000000000003}
+{"params": {"Processes": 288}, "callpath": "strace_time_total->scall->\"poll\"", "metric": "Time (s)", "value": 32.3273450000714}
+{"params": {"Processes": 288}, "callpath": "strace_time_total->scall->\"prctl\"", "metric": "Time (s)", "value": 0.0011630000000000002}
+{"params": {"Processes": 288}, "callpath": "strace_time_total->scall->\"pread64\"", "metric": "Time (s)", "value": 102.42669099999793}
+{"params": {"Processes": 288}, "callpath": "strace_time_total->scall->\"prlimit64\"", "metric": "Time (s)", "value": 0.0005450000000000001}
+{"params": {"Processes": 288}, "callpath": "strace_time_total->scall->\"process_vm_readv\"", "metric": "Time (s)", "value": 1.4124209999999555}
+{"params": {"Processes": 288}, "callpath": "strace_time_total->scall->\"pwrite64\"", "metric": "Time (s)", "value": 35.10107099999878}
+{"params": {"Processes": 288}, "callpath": "strace_time_total->scall->\"pwritev\"", "metric": "Time (s)", "value": 0.0008390000000000004}
+{"params": {"Processes": 288}, "callpath": "strace_time_total->scall->\"read\"", "metric": "Time (s)", "value": 13.432780999998988}
+{"params": {"Processes": 288}, "callpath": "strace_time_total->scall->\"readlink\"", "metric": "Time (s)", "value": 0.012457000000000003}
+{"params": {"Processes": 288}, "callpath": "strace_time_total->scall->\"recvfrom\"", "metric": "Time (s)", "value": 0.0025630000000000006}
+{"params": {"Processes": 288}, "callpath": "strace_time_total->scall->\"recvmsg\"", "metric": "Time (s)", "value": 0.19088700000000006}
+{"params": {"Processes": 288}, "callpath": "strace_time_total->scall->\"rt_sigaction\"", "metric": "Time (s)", "value": 0.07916000000000001}
+{"params": {"Processes": 288}, "callpath": "strace_time_total->scall->\"rt_sigprocmask\"", "metric": "Time (s)", "value": 0.10435100000000018}
+{"params": {"Processes": 288}, "callpath": "strace_time_total->scall->\"sched_getaffinity\"", "metric": "Time (s)", "value": 0.006464000000000002}
+{"params": {"Processes": 288}, "callpath": "strace_time_total->scall->\"sched_getparam\"", "metric": "Time (s)", "value": 6.0000000000000015e-05}
+{"params": {"Processes": 288}, "callpath": "strace_time_total->scall->\"sched_getscheduler\"", "metric": "Time (s)", "value": 4.600000000000001e-05}
+{"params": {"Processes": 288}, "callpath": "strace_time_total->scall->\"sched_setaffinity\"", "metric": "Time (s)", "value": 0.012182000000000002}
+{"params": {"Processes": 288}, "callpath": "strace_time_total->scall->\"sched_yield\"", "metric": "Time (s)", "value": 0.35873000000000055}
+{"params": {"Processes": 288}, "callpath": "strace_time_total->scall->\"sendto\"", "metric": "Time (s)", "value": 0.11560299999999998}
+{"params": {"Processes": 288}, "callpath": "strace_time_total->scall->\"set_robust_list\"", "metric": "Time (s)", "value": 0.0004820000000000001}
+{"params": {"Processes": 288}, "callpath": "strace_time_total->scall->\"set_tid_address\"", "metric": "Time (s)", "value": 0.0005030000000000001}
+{"params": {"Processes": 288}, "callpath": "strace_time_total->scall->\"setsockopt\"", "metric": "Time (s)", "value": 0.0036990000000000005}
+{"params": {"Processes": 288}, "callpath": "strace_time_total->scall->\"shmat\"", "metric": "Time (s)", "value": 0.002692}
+{"params": {"Processes": 288}, "callpath": "strace_time_total->scall->\"shmctl\"", "metric": "Time (s)", "value": 0.0021610000000000006}
+{"params": {"Processes": 288}, "callpath": "strace_time_total->scall->\"shmdt\"", "metric": "Time (s)", "value": 0.003692000000000001}
+{"params": {"Processes": 288}, "callpath": "strace_time_total->scall->\"shmget\"", "metric": "Time (s)", "value": 0.00457}
+{"params": {"Processes": 288}, "callpath": "strace_time_total->scall->\"shutdown\"", "metric": "Time (s)", "value": 0.0017800000000000003}
+{"params": {"Processes": 288}, "callpath": "strace_time_total->scall->\"socket\"", "metric": "Time (s)", "value": 0.14759300000000006}
+{"params": {"Processes": 288}, "callpath": "strace_time_total->scall->\"socketpair\"", "metric": "Time (s)", "value": 0.009155000000000002}
+{"params": {"Processes": 288}, "callpath": "strace_time_total->scall->\"stat\"", "metric": "Time (s)", "value": 0.6168500000000003}
+{"params": {"Processes": 288}, "callpath": "strace_time_total->scall->\"statfs\"", "metric": "Time (s)", "value": 82.7396679999998}
+{"params": {"Processes": 288}, "callpath": "strace_time_total->scall->\"sysinfo\"", "metric": "Time (s)", "value": 0.0009430000000000003}
+{"params": {"Processes": 288}, "callpath": "strace_time_total->scall->\"umask\"", "metric": "Time (s)", "value": 1.533580000000566}
+{"params": {"Processes": 288}, "callpath": "strace_time_total->scall->\"uname\"", "metric": "Time (s)", "value": 0.011040999999999999}
+{"params": {"Processes": 288}, "callpath": "strace_time_total->scall->\"unlink\"", "metric": "Time (s)", "value": 375.1465949999534}
+{"params": {"Processes": 288}, "callpath": "strace_time_total->scall->\"write\"", "metric": "Time (s)", "value": 12.819389999998133}
+{"params": {"Processes": 288}, "callpath": "strace_time_total->scall->\"writev\"", "metric": "Time (s)", "value": 0.10418699999999907}
+{"params": {"Processes": 288}, "callpath": "strace_total->desc->\"read_size\"", "metric": "other", "value": 25308755758.0}
+{"params": {"Processes": 288}, "callpath": "strace_total->desc->\"read_time\"", "metric": "other", "value": 116.04000399999795}
+{"params": {"Processes": 288}, "callpath": "strace_total->desc->\"time\"", "metric": "other", "value": 164.07606799997959}
+{"params": {"Processes": 288}, "callpath": "strace_total->desc->\"write_size\"", "metric": "other", "value": 46628911195.0}
+{"params": {"Processes": 288}, "callpath": "strace_total->desc->\"write_time\"", "metric": "other", "value": 48.03606400001494}
+{"params": {"Processes": 288}, "callpath": "tau_hits_total->function->\"mpi_alloc_mem\"", "metric": "Hits", "value": 2468591.0}
+{"params": {"Processes": 288}, "callpath": "tau_hits_total->function->\"mpi_allreduce\"", "metric": "Hits", "value": 4438773.0}
+{"params": {"Processes": 288}, "callpath": "tau_hits_total->function->\"mpi_barrier\"", "metric": "Hits", "value": 13713608.0}
+{"params": {"Processes": 288}, "callpath": "tau_hits_total->function->\"mpi_bcast\"", "metric": "Hits", "value": 671047.0}
+{"params": {"Processes": 288}, "callpath": "tau_hits_total->function->\"mpi_comm_compare\"", "metric": "Hits", "value": 28774.0}
+{"params": {"Processes": 288}, "callpath": "tau_hits_total->function->\"mpi_comm_free\"", "metric": "Hits", "value": 20414.0}
+{"params": {"Processes": 288}, "callpath": "tau_hits_total->function->\"mpi_comm_group\"", "metric": "Hits", "value": 668.0}
+{"params": {"Processes": 288}, "callpath": "tau_hits_total->function->\"mpi_comm_rank\"", "metric": "Hits", "value": 40294.0}
+{"params": {"Processes": 288}, "callpath": "tau_hits_total->function->\"mpi_comm_size\"", "metric": "Hits", "value": 40294.0}
+{"params": {"Processes": 288}, "callpath": "tau_hits_total->function->\"mpi_comm_split\"", "metric": "Hits", "value": 106560.0}
+{"params": {"Processes": 288}, "callpath": "tau_hits_total->function->\"mpi_file_close\"", "metric": "Hits", "value": 1473709.0}
+{"params": {"Processes": 288}, "callpath": "tau_hits_total->function->\"mpi_file_delete\"", "metric": "Hits", "value": 4305.0}
+{"params": {"Processes": 288}, "callpath": "tau_hits_total->function->\"mpi_file_iread\"", "metric": "Hits", "value": 804166.0}
+{"params": {"Processes": 288}, "callpath": "tau_hits_total->function->\"mpi_file_iread_at\"", "metric": "Hits", "value": 399872.0}
+{"params": {"Processes": 288}, "callpath": "tau_hits_total->function->\"mpi_file_iread_shared\"", "metric": "Hits", "value": 402184.0}
+{"params": {"Processes": 288}, "callpath": "tau_hits_total->function->\"mpi_file_iwrite\"", "metric": "Hits", "value": 768808.0}
+{"params": {"Processes": 288}, "callpath": "tau_hits_total->function->\"mpi_file_iwrite_at\"", "metric": "Hits", "value": 355520.0}
+{"params": {"Processes": 288}, "callpath": "tau_hits_total->function->\"mpi_file_iwrite_shared\"", "metric": "Hits", "value": 324936.0}
+{"params": {"Processes": 288}, "callpath": "tau_hits_total->function->\"mpi_file_open\"", "metric": "Hits", "value": 1473709.0}
+{"params": {"Processes": 288}, "callpath": "tau_hits_total->function->\"mpi_file_read\"", "metric": "Hits", "value": 1606638.0}
+{"params": {"Processes": 288}, "callpath": "tau_hits_total->function->\"mpi_file_read_all\"", "metric": "Hits", "value": 792176.0}
+{"params": {"Processes": 288}, "callpath": "tau_hits_total->function->\"mpi_file_read_all_begin\"", "metric": "Hits", "value": 397896.0}
+{"params": {"Processes": 288}, "callpath": "tau_hits_total->function->\"mpi_file_read_all_end\"", "metric": "Hits", "value": 397896.0}
+{"params": {"Processes": 288}, "callpath": "tau_hits_total->function->\"mpi_file_read_at\"", "metric": "Hits", "value": 803024.0}
+{"params": {"Processes": 288}, "callpath": "tau_hits_total->function->\"mpi_file_read_at_all\"", "metric": "Hits", "value": 797840.0}
+{"params": {"Processes": 288}, "callpath": "tau_hits_total->function->\"mpi_file_read_at_all_begin\"", "metric": "Hits", "value": 398792.0}
+{"params": {"Processes": 288}, "callpath": "tau_hits_total->function->\"mpi_file_read_at_all_end\"", "metric": "Hits", "value": 398792.0}
+{"params": {"Processes": 288}, "callpath": "tau_hits_total->function->\"mpi_file_read_ordered\"", "metric": "Hits", "value": 796304.0}
+{"params": {"Processes": 288}, "callpath": "tau_hits_total->function->\"mpi_file_read_ordered_begin\"", "metric": "Hits", "value": 395336.0}
+{"params": {"Processes": 288}, "callpath": "tau_hits_total->function->\"mpi_file_read_ordered_end\"", "metric": "Hits", "value": 395336.0}
+{"params": {"Processes": 288}, "callpath": "tau_hits_total->function->\"mpi_file_read_shared\"", "metric": "Hits", "value": 800880.0}
+{"params": {"Processes": 288}, "callpath": "tau_hits_total->function->\"mpi_file_seek\"", "metric": "Hits", "value": 1276336.0}
+{"params": {"Processes": 288}, "callpath": "tau_hits_total->function->\"mpi_file_seek_shared\"", "metric": "Hits", "value": 355872.0}
+{"params": {"Processes": 288}, "callpath": "tau_hits_total->function->\"mpi_file_set_size\"", "metric": "Hits", "value": 4305.0}
+{"params": {"Processes": 288}, "callpath": "tau_hits_total->function->\"mpi_file_set_view\"", "metric": "Hits", "value": 1456713.0}
+{"params": {"Processes": 288}, "callpath": "tau_hits_total->function->\"mpi_file_sync\"", "metric": "Hits", "value": 10956352.0}
+{"params": {"Processes": 288}, "callpath": "tau_hits_total->function->\"mpi_file_write\"", "metric": "Hits", "value": 3310843.0}
+{"params": {"Processes": 288}, "callpath": "tau_hits_total->function->\"mpi_file_write_all\"", "metric": "Hits", "value": 993288.0}
+{"params": {"Processes": 288}, "callpath": "tau_hits_total->function->\"mpi_file_write_all_begin\"", "metric": "Hits", "value": 241032.0}
+{"params": {"Processes": 288}, "callpath": "tau_hits_total->function->\"mpi_file_write_all_end\"", "metric": "Hits", "value": 241032.0}
+{"params": {"Processes": 288}, "callpath": "tau_hits_total->function->\"mpi_file_write_at\"", "metric": "Hits", "value": 1350656.0}
+{"params": {"Processes": 288}, "callpath": "tau_hits_total->function->\"mpi_file_write_at_all\"", "metric": "Hits", "value": 929704.0}
+{"params": {"Processes": 288}, "callpath": "tau_hits_total->function->\"mpi_file_write_at_all_begin\"", "metric": "Hits", "value": 255304.0}
+{"params": {"Processes": 288}, "callpath": "tau_hits_total->function->\"mpi_file_write_at_all_end\"", "metric": "Hits", "value": 255304.0}
+{"params": {"Processes": 288}, "callpath": "tau_hits_total->function->\"mpi_file_write_ordered\"", "metric": "Hits", "value": 870312.0}
+{"params": {"Processes": 288}, "callpath": "tau_hits_total->function->\"mpi_file_write_ordered_begin\"", "metric": "Hits", "value": 217896.0}
+{"params": {"Processes": 288}, "callpath": "tau_hits_total->function->\"mpi_file_write_ordered_end\"", "metric": "Hits", "value": 217896.0}
+{"params": {"Processes": 288}, "callpath": "tau_hits_total->function->\"mpi_file_write_shared\"", "metric": "Hits", "value": 1261384.0}
+{"params": {"Processes": 288}, "callpath": "tau_hits_total->function->\"mpi_finalize\"", "metric": "Hits", "value": 288.0}
+{"params": {"Processes": 288}, "callpath": "tau_hits_total->function->\"mpi_free_mem\"", "metric": "Hits", "value": 2448998.0}
+{"params": {"Processes": 288}, "callpath": "tau_hits_total->function->\"mpi_gather\"", "metric": "Hits", "value": 2490048.0}
+{"params": {"Processes": 288}, "callpath": "tau_hits_total->function->\"mpi_get_version\"", "metric": "Hits", "value": 1.0}
+{"params": {"Processes": 288}, "callpath": "tau_hits_total->function->\"mpi_group_translate_ranks\"", "metric": "Hits", "value": 334.0}
+{"params": {"Processes": 288}, "callpath": "tau_hits_total->function->\"mpi_init_thread\"", "metric": "Hits", "value": 288.0}
+{"params": {"Processes": 288}, "callpath": "tau_hits_total->function->\"mpi_recv\"", "metric": "Hits", "value": 95858.0}
+{"params": {"Processes": 288}, "callpath": "tau_hits_total->function->\"mpi_send\"", "metric": "Hits", "value": 95858.0}
+{"params": {"Processes": 288}, "callpath": "tau_hits_total->function->\"mpi_type_commit\"", "metric": "Hits", "value": 232680.0}
+{"params": {"Processes": 288}, "callpath": "tau_hits_total->function->\"mpi_type_create_resized\"", "metric": "Hits", "value": 116340.0}
+{"params": {"Processes": 288}, "callpath": "tau_hits_total->function->\"mpi_type_create_struct\"", "metric": "Hits", "value": 116340.0}
+{"params": {"Processes": 288}, "callpath": "tau_hits_total->function->\"mpi_type_free\"", "metric": "Hits", "value": 232680.0}
+{"params": {"Processes": 288}, "callpath": "tau_hits_total->function->\"mpi_type_size\"", "metric": "Hits", "value": 117216.0}
+{"params": {"Processes": 288}, "callpath": "tau_hits_total->function->\"mpi_wait\"", "metric": "Hits", "value": 153504.0}
+{"params": {"Processes": 288}, "callpath": "tau_hits_total->function->\"mpi_waitall\"", "metric": "Hits", "value": 304288.0}
+{"params": {"Processes": 288}, "callpath": "tau_hits_total->function->\"mpi_wtime\"", "metric": "Hits", "value": 11227251.0}
+{"params": {"Processes": 288}, "callpath": "tau_metric_proxy_run_total->metric->\"time\"", "metric": "other", "value": 3019042.9580945903}
+{"params": {"Processes": 288}, "callpath": "tau_metric_proxy_run_total->operation->\"exec\"", "metric": "other", "value": 288.0}
+{"params": {"Processes": 288}, "callpath": "tau_mpi_total_size->metric->\"size_out\"", "metric": "other", "value": 53606371932.0}
+{"params": {"Processes": 288}, "callpath": "tau_mpi_total->metric->\"hits\"", "metric": "other", "value": 77343343.0}
+{"params": {"Processes": 288}, "callpath": "tau_mpi_total->metric->\"size\"", "metric": "other", "value": 86337740461.0}
+{"params": {"Processes": 288}, "callpath": "tau_mpi_total->metric->\"size_in\"", "metric": "other", "value": 32731368529.0}
+{"params": {"Processes": 288}, "callpath": "tau_mpi_total->metric->\"time\"", "metric": "other", "value": 3017602.5923321247}
+{"params": {"Processes": 288}, "callpath": "tau_size_in_total->function->\"mpi_allreduce\"", "metric": "Size (B)", "value": 22865804.0}
+{"params": {"Processes": 288}, "callpath": "tau_size_in_total->function->\"mpi_bcast\"", "metric": "Size (B)", "value": 2649604.0}
+{"params": {"Processes": 288}, "callpath": "tau_size_in_total->function->\"mpi_file_iread\"", "metric": "Size (B)", "value": 3696858646.0}
+{"params": {"Processes": 288}, "callpath": "tau_size_in_total->function->\"mpi_file_iread_at\"", "metric": "Size (B)", "value": 1908350745.0}
+{"params": {"Processes": 288}, "callpath": "tau_size_in_total->function->\"mpi_file_iread_shared\"", "metric": "Size (B)", "value": 1761606446.0}
+{"params": {"Processes": 288}, "callpath": "tau_size_in_total->function->\"mpi_file_read\"", "metric": "Size (B)", "value": 7393485388.0}
+{"params": {"Processes": 288}, "callpath": "tau_size_in_total->function->\"mpi_file_read_all\"", "metric": "Size (B)", "value": 3501101646.0}
+{"params": {"Processes": 288}, "callpath": "tau_size_in_total->function->\"mpi_file_read_at\"", "metric": "Size (B)", "value": 3846118770.0}
+{"params": {"Processes": 288}, "callpath": "tau_size_in_total->function->\"mpi_file_read_at_all\"", "metric": "Size (B)", "value": 3493612376.0}
+{"params": {"Processes": 288}, "callpath": "tau_size_in_total->function->\"mpi_file_read_ordered\"", "metric": "Size (B)", "value": 3464494684.0}
+{"params": {"Processes": 288}, "callpath": "tau_size_in_total->function->\"mpi_file_read_shared\"", "metric": "Size (B)", "value": 3523049996.0}
+{"params": {"Processes": 288}, "callpath": "tau_size_in_total->function->\"mpi_gather\"", "metric": "Size (B)", "value": 27876096.0}
+{"params": {"Processes": 288}, "callpath": "tau_size_in_total->function->\"mpi_recv\"", "metric": "Size (B)", "value": 89298328.0}
+{"params": {"Processes": 288}, "callpath": "tau_size_out_total->function->\"mpi_allreduce\"", "metric": "Size (B)", "value": 22865804.0}
+{"params": {"Processes": 288}, "callpath": "tau_size_out_total->function->\"mpi_bcast\"", "metric": "Size (B)", "value": 34584.0}
+{"params": {"Processes": 288}, "callpath": "tau_size_out_total->function->\"mpi_file_iwrite\"", "metric": "Size (B)", "value": 3623990038.0}
+{"params": {"Processes": 288}, "callpath": "tau_size_out_total->function->\"mpi_file_iwrite_at\"", "metric": "Size (B)", "value": 1840798244.0}
+{"params": {"Processes": 288}, "callpath": "tau_size_out_total->function->\"mpi_file_iwrite_shared\"", "metric": "Size (B)", "value": 1637382558.0}
+{"params": {"Processes": 288}, "callpath": "tau_size_out_total->function->\"mpi_file_write\"", "metric": "Size (B)", "value": 18684120293.0}
+{"params": {"Processes": 288}, "callpath": "tau_size_out_total->function->\"mpi_file_write_all\"", "metric": "Size (B)", "value": 5387646733.0}
+{"params": {"Processes": 288}, "callpath": "tau_size_out_total->function->\"mpi_file_write_at\"", "metric": "Size (B)", "value": 6289499992.0}
+{"params": {"Processes": 288}, "callpath": "tau_size_out_total->function->\"mpi_file_write_at_all\"", "metric": "Size (B)", "value": 5211141472.0}
+{"params": {"Processes": 288}, "callpath": "tau_size_out_total->function->\"mpi_file_write_ordered\"", "metric": "Size (B)", "value": 5255701226.0}
+{"params": {"Processes": 288}, "callpath": "tau_size_out_total->function->\"mpi_file_write_shared\"", "metric": "Size (B)", "value": 5624931460.0}
+{"params": {"Processes": 288}, "callpath": "tau_size_out_total->function->\"mpi_gather\"", "metric": "Size (B)", "value": 27876096.0}
+{"params": {"Processes": 288}, "callpath": "tau_size_out_total->function->\"mpi_send\"", "metric": "Size (B)", "value": 383432.0}
+{"params": {"Processes": 288}, "callpath": "tau_size_total->function->\"mpi_allreduce\"", "metric": "Size (B)", "value": 45731608.0}
+{"params": {"Processes": 288}, "callpath": "tau_size_total->function->\"mpi_bcast\"", "metric": "Size (B)", "value": 2684188.0}
+{"params": {"Processes": 288}, "callpath": "tau_size_total->function->\"mpi_file_iread\"", "metric": "Size (B)", "value": 3696858646.0}
+{"params": {"Processes": 288}, "callpath": "tau_size_total->function->\"mpi_file_iread_at\"", "metric": "Size (B)", "value": 1908350745.0}
+{"params": {"Processes": 288}, "callpath": "tau_size_total->function->\"mpi_file_iread_shared\"", "metric": "Size (B)", "value": 1761606446.0}
+{"params": {"Processes": 288}, "callpath": "tau_size_total->function->\"mpi_file_iwrite\"", "metric": "Size (B)", "value": 3623990038.0}
+{"params": {"Processes": 288}, "callpath": "tau_size_total->function->\"mpi_file_iwrite_at\"", "metric": "Size (B)", "value": 1840798244.0}
+{"params": {"Processes": 288}, "callpath": "tau_size_total->function->\"mpi_file_iwrite_shared\"", "metric": "Size (B)", "value": 1637382558.0}
+{"params": {"Processes": 288}, "callpath": "tau_size_total->function->\"mpi_file_read\"", "metric": "Size (B)", "value": 7393485388.0}
+{"params": {"Processes": 288}, "callpath": "tau_size_total->function->\"mpi_file_read_all\"", "metric": "Size (B)", "value": 3501101646.0}
+{"params": {"Processes": 288}, "callpath": "tau_size_total->function->\"mpi_file_read_at\"", "metric": "Size (B)", "value": 3846118770.0}
+{"params": {"Processes": 288}, "callpath": "tau_size_total->function->\"mpi_file_read_at_all\"", "metric": "Size (B)", "value": 3493612376.0}
+{"params": {"Processes": 288}, "callpath": "tau_size_total->function->\"mpi_file_read_ordered\"", "metric": "Size (B)", "value": 3464494684.0}
+{"params": {"Processes": 288}, "callpath": "tau_size_total->function->\"mpi_file_read_shared\"", "metric": "Size (B)", "value": 3523049996.0}
+{"params": {"Processes": 288}, "callpath": "tau_size_total->function->\"mpi_file_write\"", "metric": "Size (B)", "value": 18684120293.0}
+{"params": {"Processes": 288}, "callpath": "tau_size_total->function->\"mpi_file_write_all\"", "metric": "Size (B)", "value": 5387646733.0}
+{"params": {"Processes": 288}, "callpath": "tau_size_total->function->\"mpi_file_write_at\"", "metric": "Size (B)", "value": 6289499992.0}
+{"params": {"Processes": 288}, "callpath": "tau_size_total->function->\"mpi_file_write_at_all\"", "metric": "Size (B)", "value": 5211141472.0}
+{"params": {"Processes": 288}, "callpath": "tau_size_total->function->\"mpi_file_write_ordered\"", "metric": "Size (B)", "value": 5255701226.0}
+{"params": {"Processes": 288}, "callpath": "tau_size_total->function->\"mpi_file_write_shared\"", "metric": "Size (B)", "value": 5624931460.0}
+{"params": {"Processes": 288}, "callpath": "tau_size_total->function->\"mpi_gather\"", "metric": "Size (B)", "value": 55752192.0}
+{"params": {"Processes": 288}, "callpath": "tau_size_total->function->\"mpi_recv\"", "metric": "Size (B)", "value": 89298328.0}
+{"params": {"Processes": 288}, "callpath": "tau_size_total->function->\"mpi_send\"", "metric": "Size (B)", "value": 383432.0}
+{"params": {"Processes": 288}, "callpath": "tau_time_total->function->\"mpi_alloc_mem\"", "metric": "Time (s)", "value": 8.777522087097168}
+{"params": {"Processes": 288}, "callpath": "tau_time_total->function->\"mpi_allreduce\"", "metric": "Time (s)", "value": 690656.2813372612}
+{"params": {"Processes": 288}, "callpath": "tau_time_total->function->\"mpi_barrier\"", "metric": "Time (s)", "value": 676649.1731920242}
+{"params": {"Processes": 288}, "callpath": "tau_time_total->function->\"mpi_bcast\"", "metric": "Time (s)", "value": 39.46120738983154}
+{"params": {"Processes": 288}, "callpath": "tau_time_total->function->\"mpi_comm_compare\"", "metric": "Time (s)", "value": 13.586021423339844}
+{"params": {"Processes": 288}, "callpath": "tau_time_total->function->\"mpi_comm_free\"", "metric": "Time (s)", "value": 0.1540524959564209}
+{"params": {"Processes": 288}, "callpath": "tau_time_total->function->\"mpi_comm_group\"", "metric": "Time (s)", "value": 0.0001506805419921875}
+{"params": {"Processes": 288}, "callpath": "tau_time_total->function->\"mpi_comm_rank\"", "metric": "Time (s)", "value": 0.0029954910278320312}
+{"params": {"Processes": 288}, "callpath": "tau_time_total->function->\"mpi_comm_size\"", "metric": "Time (s)", "value": 0.03879094123840332}
+{"params": {"Processes": 288}, "callpath": "tau_time_total->function->\"mpi_comm_split\"", "metric": "Time (s)", "value": 13300.509503602982}
+{"params": {"Processes": 288}, "callpath": "tau_time_total->function->\"mpi_file_close\"", "metric": "Time (s)", "value": 93170.09095978737}
+{"params": {"Processes": 288}, "callpath": "tau_time_total->function->\"mpi_file_delete\"", "metric": "Time (s)", "value": 208.95437359809875}
+{"params": {"Processes": 288}, "callpath": "tau_time_total->function->\"mpi_file_iread\"", "metric": "Time (s)", "value": 13.03093957901001}
+{"params": {"Processes": 288}, "callpath": "tau_time_total->function->\"mpi_file_iread_at\"", "metric": "Time (s)", "value": 8.358227491378784}
+{"params": {"Processes": 288}, "callpath": "tau_time_total->function->\"mpi_file_iread_shared\"", "metric": "Time (s)", "value": 4090.897753715515}
+{"params": {"Processes": 288}, "callpath": "tau_time_total->function->\"mpi_file_iwrite\"", "metric": "Time (s)", "value": 28.3696231842041}
+{"params": {"Processes": 288}, "callpath": "tau_time_total->function->\"mpi_file_iwrite_at\"", "metric": "Time (s)", "value": 7.639064073562622}
+{"params": {"Processes": 288}, "callpath": "tau_time_total->function->\"mpi_file_iwrite_shared\"", "metric": "Time (s)", "value": 3077.5511989593506}
+{"params": {"Processes": 288}, "callpath": "tau_time_total->function->\"mpi_file_open\"", "metric": "Time (s)", "value": 594744.1551446915}
+{"params": {"Processes": 288}, "callpath": "tau_time_total->function->\"mpi_file_read\"", "metric": "Time (s)", "value": 437.7035415172577}
+{"params": {"Processes": 288}, "callpath": "tau_time_total->function->\"mpi_file_read_all\"", "metric": "Time (s)", "value": 14345.227892875671}
+{"params": {"Processes": 288}, "callpath": "tau_time_total->function->\"mpi_file_read_all_begin\"", "metric": "Time (s)", "value": 23.92174768447876}
+{"params": {"Processes": 288}, "callpath": "tau_time_total->function->\"mpi_file_read_all_end\"", "metric": "Time (s)", "value": 403.4416284561157}
+{"params": {"Processes": 288}, "callpath": "tau_time_total->function->\"mpi_file_read_at\"", "metric": "Time (s)", "value": 351.6302218437195}
+{"params": {"Processes": 288}, "callpath": "tau_time_total->function->\"mpi_file_read_at_all\"", "metric": "Time (s)", "value": 342.9430549144745}
+{"params": {"Processes": 288}, "callpath": "tau_time_total->function->\"mpi_file_read_at_all_begin\"", "metric": "Time (s)", "value": 23.379971027374268}
+{"params": {"Processes": 288}, "callpath": "tau_time_total->function->\"mpi_file_read_at_all_end\"", "metric": "Time (s)", "value": 330.60493755340576}
+{"params": {"Processes": 288}, "callpath": "tau_time_total->function->\"mpi_file_read_ordered\"", "metric": "Time (s)", "value": 16084.245055913925}
+{"params": {"Processes": 288}, "callpath": "tau_time_total->function->\"mpi_file_read_ordered_begin\"", "metric": "Time (s)", "value": 18681.11469745636}
+{"params": {"Processes": 288}, "callpath": "tau_time_total->function->\"mpi_file_read_ordered_end\"", "metric": "Time (s)", "value": 388.4713203907013}
+{"params": {"Processes": 288}, "callpath": "tau_time_total->function->\"mpi_file_read_shared\"", "metric": "Time (s)", "value": 8054.33282494545}
+{"params": {"Processes": 288}, "callpath": "tau_time_total->function->\"mpi_file_seek\"", "metric": "Time (s)", "value": 0.5251827239990234}
+{"params": {"Processes": 288}, "callpath": "tau_time_total->function->\"mpi_file_seek_shared\"", "metric": "Time (s)", "value": 26061.847613096237}
+{"params": {"Processes": 288}, "callpath": "tau_time_total->function->\"mpi_file_set_size\"", "metric": "Time (s)", "value": 3.0439703464508057}
+{"params": {"Processes": 288}, "callpath": "tau_time_total->function->\"mpi_file_set_view\"", "metric": "Time (s)", "value": 25753.667808294296}
+{"params": {"Processes": 288}, "callpath": "tau_time_total->function->\"mpi_file_sync\"", "metric": "Time (s)", "value": 269075.6966524124}
+{"params": {"Processes": 288}, "callpath": "tau_time_total->function->\"mpi_file_write\"", "metric": "Time (s)", "value": 2183.1372170448303}
+{"params": {"Processes": 288}, "callpath": "tau_time_total->function->\"mpi_file_write_all\"", "metric": "Time (s)", "value": 139012.07460737228}
+{"params": {"Processes": 288}, "callpath": "tau_time_total->function->\"mpi_file_write_all_begin\"", "metric": "Time (s)", "value": 15.049596548080444}
+{"params": {"Processes": 288}, "callpath": "tau_time_total->function->\"mpi_file_write_all_end\"", "metric": "Time (s)", "value": 718.4731366634369}
+{"params": {"Processes": 288}, "callpath": "tau_time_total->function->\"mpi_file_write_at\"", "metric": "Time (s)", "value": 1973.0715837478638}
+{"params": {"Processes": 288}, "callpath": "tau_time_total->function->\"mpi_file_write_at_all\"", "metric": "Time (s)", "value": 205215.5411438942}
+{"params": {"Processes": 288}, "callpath": "tau_time_total->function->\"mpi_file_write_at_all_begin\"", "metric": "Time (s)", "value": 14.069691896438599}
+{"params": {"Processes": 288}, "callpath": "tau_time_total->function->\"mpi_file_write_at_all_end\"", "metric": "Time (s)", "value": 644.0824980735779}
+{"params": {"Processes": 288}, "callpath": "tau_time_total->function->\"mpi_file_write_ordered\"", "metric": "Time (s)", "value": 188797.3487789631}
+{"params": {"Processes": 288}, "callpath": "tau_time_total->function->\"mpi_file_write_ordered_begin\"", "metric": "Time (s)", "value": 6088.180295705795}
+{"params": {"Processes": 288}, "callpath": "tau_time_total->function->\"mpi_file_write_ordered_end\"", "metric": "Time (s)", "value": 488.07364439964294}
+{"params": {"Processes": 288}, "callpath": "tau_time_total->function->\"mpi_file_write_shared\"", "metric": "Time (s)", "value": 9594.137612581253}
+{"params": {"Processes": 288}, "callpath": "tau_time_total->function->\"mpi_finalize\"", "metric": "Time (s)", "value": 331.11334705352783}
+{"params": {"Processes": 288}, "callpath": "tau_time_total->function->\"mpi_free_mem\"", "metric": "Time (s)", "value": 22.86530303955078}
+{"params": {"Processes": 288}, "callpath": "tau_time_total->function->\"mpi_gather\"", "metric": "Time (s)", "value": 1684.5041813850403}
+{"params": {"Processes": 288}, "callpath": "tau_time_total->function->\"mpi_get_version\"", "metric": "Time (s)", "value": 9.5367431640625e-07}
+{"params": {"Processes": 288}, "callpath": "tau_time_total->function->\"mpi_group_translate_ranks\"", "metric": "Time (s)", "value": 0.014307975769042969}
+{"params": {"Processes": 288}, "callpath": "tau_time_total->function->\"mpi_init_thread\"", "metric": "Time (s)", "value": 1516.5074179172516}
+{"params": {"Processes": 288}, "callpath": "tau_time_total->function->\"mpi_recv\"", "metric": "Time (s)", "value": 6.719320774078369}
+{"params": {"Processes": 288}, "callpath": "tau_time_total->function->\"mpi_send\"", "metric": "Time (s)", "value": 2.8743443489074707}
+{"params": {"Processes": 288}, "callpath": "tau_time_total->function->\"mpi_type_commit\"", "metric": "Time (s)", "value": 0.08101272583007812}
+{"params": {"Processes": 288}, "callpath": "tau_time_total->function->\"mpi_type_create_resized\"", "metric": "Time (s)", "value": 0.2788965702056885}
+{"params": {"Processes": 288}, "callpath": "tau_time_total->function->\"mpi_type_create_struct\"", "metric": "Time (s)", "value": 0.2896394729614258}
+{"params": {"Processes": 288}, "callpath": "tau_time_total->function->\"mpi_type_free\"", "metric": "Time (s)", "value": 0.05237102508544922}
+{"params": {"Processes": 288}, "callpath": "tau_time_total->function->\"mpi_type_size\"", "metric": "Time (s)", "value": 0.024840831756591797}
+{"params": {"Processes": 288}, "callpath": "tau_time_total->function->\"mpi_wait\"", "metric": "Time (s)", "value": 790.0584251880646}
+{"params": {"Processes": 288}, "callpath": "tau_time_total->function->\"mpi_waitall\"", "metric": "Time (s)", "value": 2122.445657968521}
+{"params": {"Processes": 288}, "callpath": "tau_time_total->function->\"mpi_wtime\"", "metric": "Time (s)", "value": 2.6932780742645264}
+{"params": {"Processes": 72}, "callpath": "strace_hits_total->scall->\"access\"", "metric": "Hits", "value": 504.0}
+{"params": {"Processes": 72}, "callpath": "strace_hits_total->scall->\"arch_prctl\"", "metric": "Hits", "value": 144.0}
+{"params": {"Processes": 72}, "callpath": "strace_hits_total->scall->\"bind\"", "metric": "Hits", "value": 2340.0}
+{"params": {"Processes": 72}, "callpath": "strace_hits_total->scall->\"brk\"", "metric": "Hits", "value": 219993.0}
+{"params": {"Processes": 72}, "callpath": "strace_hits_total->scall->\"clock_nanosleep\"", "metric": "Hits", "value": 276074.0}
+{"params": {"Processes": 72}, "callpath": "strace_hits_total->scall->\"clone\"", "metric": "Hits", "value": 6003.0}
+{"params": {"Processes": 72}, "callpath": "strace_hits_total->scall->\"close\"", "metric": "Hits", "value": 1564801.0}
+{"params": {"Processes": 72}, "callpath": "strace_hits_total->scall->\"connect\"", "metric": "Hits", "value": 144.0}
+{"params": {"Processes": 72}, "callpath": "strace_hits_total->scall->\"epoll_create\"", "metric": "Hits", "value": 72.0}
+{"params": {"Processes": 72}, "callpath": "strace_hits_total->scall->\"epoll_ctl\"", "metric": "Hits", "value": 216.0}
+{"params": {"Processes": 72}, "callpath": "strace_hits_total->scall->\"eventfd2\"", "metric": "Hits", "value": 216.0}
+{"params": {"Processes": 72}, "callpath": "strace_hits_total->scall->\"execve\"", "metric": "Hits", "value": 72.0}
+{"params": {"Processes": 72}, "callpath": "strace_hits_total->scall->\"fcntl\"", "metric": "Hits", "value": 1546027.0}
+{"params": {"Processes": 72}, "callpath": "strace_hits_total->scall->\"fstat\"", "metric": "Hits", "value": 170498.0}
+{"params": {"Processes": 72}, "callpath": "strace_hits_total->scall->\"fsync\"", "metric": "Hits", "value": 4238000.0}
+{"params": {"Processes": 72}, "callpath": "strace_hits_total->scall->\"ftruncate\"", "metric": "Hits", "value": 1461.0}
+{"params": {"Processes": 72}, "callpath": "strace_hits_total->scall->\"futex\"", "metric": "Hits", "value": 1541617.0}
+{"params": {"Processes": 72}, "callpath": "strace_hits_total->scall->\"getcwd\"", "metric": "Hits", "value": 593069.0}
+{"params": {"Processes": 72}, "callpath": "strace_hits_total->scall->\"getdents64\"", "metric": "Hits", "value": 1728.0}
+{"params": {"Processes": 72}, "callpath": "strace_hits_total->scall->\"getegid\"", "metric": "Hits", "value": 648.0}
+{"params": {"Processes": 72}, "callpath": "strace_hits_total->scall->\"geteuid\"", "metric": "Hits", "value": 1008.0}
+{"params": {"Processes": 72}, "callpath": "strace_hits_total->scall->\"getgid\"", "metric": "Hits", "value": 504.0}
+{"params": {"Processes": 72}, "callpath": "strace_hits_total->scall->\"getpid\"", "metric": "Hits", "value": 1769854.0}
+{"params": {"Processes": 72}, "callpath": "strace_hits_total->scall->\"getsockname\"", "metric": "Hits", "value": 1080.0}
+{"params": {"Processes": 72}, "callpath": "strace_hits_total->scall->\"getsockopt\"", "metric": "Hits", "value": 72.0}
+{"params": {"Processes": 72}, "callpath": "strace_hits_total->scall->\"getuid\"", "metric": "Hits", "value": 3156.0}
+{"params": {"Processes": 72}, "callpath": "strace_hits_total->scall->\"ioctl\"", "metric": "Hits", "value": 11967.0}
+{"params": {"Processes": 72}, "callpath": "strace_hits_total->scall->\"link\"", "metric": "Hits", "value": 151819.0}
+{"params": {"Processes": 72}, "callpath": "strace_hits_total->scall->\"listen\"", "metric": "Hits", "value": 72.0}
+{"params": {"Processes": 72}, "callpath": "strace_hits_total->scall->\"lseek\"", "metric": "Hits", "value": 1160624.0}
+{"params": {"Processes": 72}, "callpath": "strace_hits_total->scall->\"lstat\"", "metric": "Hits", "value": 527160.0}
+{"params": {"Processes": 72}, "callpath": "strace_hits_total->scall->\"mkdir\"", "metric": "Hits", "value": 81.0}
+{"params": {"Processes": 72}, "callpath": "strace_hits_total->scall->\"mmap\"", "metric": "Hits", "value": 507173.0}
+{"params": {"Processes": 72}, "callpath": "strace_hits_total->scall->\"mprotect\"", "metric": "Hits", "value": 10728.0}
+{"params": {"Processes": 72}, "callpath": "strace_hits_total->scall->\"munmap\"", "metric": "Hits", "value": 480717.0}
+{"params": {"Processes": 72}, "callpath": "strace_hits_total->scall->\"openat\"", "metric": "Hits", "value": 1742114.0}
+{"params": {"Processes": 72}, "callpath": "strace_hits_total->scall->\"pipe\"", "metric": "Hits", "value": 72.0}
+{"params": {"Processes": 72}, "callpath": "strace_hits_total->scall->\"poll\"", "metric": "Hits", "value": 16551115.0}
+{"params": {"Processes": 72}, "callpath": "strace_hits_total->scall->\"prctl\"", "metric": "Hits", "value": 72.0}
+{"params": {"Processes": 72}, "callpath": "strace_hits_total->scall->\"pread64\"", "metric": "Hits", "value": 661607.0}
+{"params": {"Processes": 72}, "callpath": "strace_hits_total->scall->\"prlimit64\"", "metric": "Hits", "value": 72.0}
+{"params": {"Processes": 72}, "callpath": "strace_hits_total->scall->\"process_vm_readv\"", "metric": "Hits", "value": 188614.0}
+{"params": {"Processes": 72}, "callpath": "strace_hits_total->scall->\"pwrite64\"", "metric": "Hits", "value": 1506480.0}
+{"params": {"Processes": 72}, "callpath": "strace_hits_total->scall->\"pwritev\"", "metric": "Hits", "value": 2866.0}
+{"params": {"Processes": 72}, "callpath": "strace_hits_total->scall->\"read\"", "metric": "Hits", "value": 602138.0}
+{"params": {"Processes": 72}, "callpath": "strace_hits_total->scall->\"readlink\"", "metric": "Hits", "value": 576.0}
+{"params": {"Processes": 72}, "callpath": "strace_hits_total->scall->\"recvfrom\"", "metric": "Hits", "value": 144.0}
+{"params": {"Processes": 72}, "callpath": "strace_hits_total->scall->\"recvmsg\"", "metric": "Hits", "value": 6048.0}
+{"params": {"Processes": 72}, "callpath": "strace_hits_total->scall->\"rt_sigaction\"", "metric": "Hits", "value": 5664.0}
+{"params": {"Processes": 72}, "callpath": "strace_hits_total->scall->\"rt_sigprocmask\"", "metric": "Hits", "value": 11502.0}
+{"params": {"Processes": 72}, "callpath": "strace_hits_total->scall->\"sched_getaffinity\"", "metric": "Hits", "value": 792.0}
+{"params": {"Processes": 72}, "callpath": "strace_hits_total->scall->\"sched_getparam\"", "metric": "Hits", "value": 72.0}
+{"params": {"Processes": 72}, "callpath": "strace_hits_total->scall->\"sched_getscheduler\"", "metric": "Hits", "value": 72.0}
+{"params": {"Processes": 72}, "callpath": "strace_hits_total->scall->\"sched_setaffinity\"", "metric": "Hits", "value": 288.0}
+{"params": {"Processes": 72}, "callpath": "strace_hits_total->scall->\"sched_yield\"", "metric": "Hits", "value": 47186.0}
+{"params": {"Processes": 72}, "callpath": "strace_hits_total->scall->\"sendto\"", "metric": "Hits", "value": 2088.0}
+{"params": {"Processes": 72}, "callpath": "strace_hits_total->scall->\"set_robust_list\"", "metric": "Hits", "value": 72.0}
+{"params": {"Processes": 72}, "callpath": "strace_hits_total->scall->\"set_tid_address\"", "metric": "Hits", "value": 72.0}
+{"params": {"Processes": 72}, "callpath": "strace_hits_total->scall->\"setsockopt\"", "metric": "Hits", "value": 288.0}
+{"params": {"Processes": 72}, "callpath": "strace_hits_total->scall->\"shmat\"", "metric": "Hits", "value": 72.0}
+{"params": {"Processes": 72}, "callpath": "strace_hits_total->scall->\"shmctl\"", "metric": "Hits", "value": 144.0}
+{"params": {"Processes": 72}, "callpath": "strace_hits_total->scall->\"shmdt\"", "metric": "Hits", "value": 72.0}
+{"params": {"Processes": 72}, "callpath": "strace_hits_total->scall->\"shmget\"", "metric": "Hits", "value": 72.0}
+{"params": {"Processes": 72}, "callpath": "strace_hits_total->scall->\"shutdown\"", "metric": "Hits", "value": 72.0}
+{"params": {"Processes": 72}, "callpath": "strace_hits_total->scall->\"socket\"", "metric": "Hits", "value": 7560.0}
+{"params": {"Processes": 72}, "callpath": "strace_hits_total->scall->\"socketpair\"", "metric": "Hits", "value": 216.0}
+{"params": {"Processes": 72}, "callpath": "strace_hits_total->scall->\"stat\"", "metric": "Hits", "value": 34281.0}
+{"params": {"Processes": 72}, "callpath": "strace_hits_total->scall->\"statfs\"", "metric": "Hits", "value": 1501868.0}
+{"params": {"Processes": 72}, "callpath": "strace_hits_total->scall->\"sysinfo\"", "metric": "Hits", "value": 72.0}
+{"params": {"Processes": 72}, "callpath": "strace_hits_total->scall->\"umask\"", "metric": "Hits", "value": 750682.0}
+{"params": {"Processes": 72}, "callpath": "strace_hits_total->scall->\"uname\"", "metric": "Hits", "value": 865.0}
+{"params": {"Processes": 72}, "callpath": "strace_hits_total->scall->\"unlink\"", "metric": "Hits", "value": 912851.0}
+{"params": {"Processes": 72}, "callpath": "strace_hits_total->scall->\"write\"", "metric": "Hits", "value": 871374.0}
+{"params": {"Processes": 72}, "callpath": "strace_hits_total->scall->\"writev\"", "metric": "Hits", "value": 6160.0}
+{"params": {"Processes": 72}, "callpath": "strace_size_total->scall->\"pread64\"", "metric": "Size (B)", "value": 20430147702.0}
+{"params": {"Processes": 72}, "callpath": "strace_size_total->scall->\"pwrite64\"", "metric": "Size (B)", "value": 40640340660.0}
+{"params": {"Processes": 72}, "callpath": "strace_size_total->scall->\"read\"", "metric": "Size (B)", "value": 16382179.0}
+{"params": {"Processes": 72}, "callpath": "strace_size_total->scall->\"recvfrom\"", "metric": "Size (B)", "value": 576.0}
+{"params": {"Processes": 72}, "callpath": "strace_size_total->scall->\"recvmsg\"", "metric": "Size (B)", "value": 7378560.0}
+{"params": {"Processes": 72}, "callpath": "strace_size_total->scall->\"sendto\"", "metric": "Size (B)", "value": 45648.0}
+{"params": {"Processes": 72}, "callpath": "strace_size_total->scall->\"write\"", "metric": "Size (B)", "value": 47623419.0}
+{"params": {"Processes": 72}, "callpath": "strace_time_total->scall->\"access\"", "metric": "Time (s)", "value": 0.0023380000000000002}
+{"params": {"Processes": 72}, "callpath": "strace_time_total->scall->\"arch_prctl\"", "metric": "Time (s)", "value": 0.00018700000000000005}
+{"params": {"Processes": 72}, "callpath": "strace_time_total->scall->\"bind\"", "metric": "Time (s)", "value": 0.007329000000000002}
+{"params": {"Processes": 72}, "callpath": "strace_time_total->scall->\"brk\"", "metric": "Time (s)", "value": 1.369155999999988}
+{"params": {"Processes": 72}, "callpath": "strace_time_total->scall->\"clock_nanosleep\"", "metric": "Time (s)", "value": 2.3523769999999966}
+{"params": {"Processes": 72}, "callpath": "strace_time_total->scall->\"clone\"", "metric": "Time (s)", "value": 0.024738999999999824}
+{"params": {"Processes": 72}, "callpath": "strace_time_total->scall->\"close\"", "metric": "Time (s)", "value": 3.291572999999643}
+{"params": {"Processes": 72}, "callpath": "strace_time_total->scall->\"connect\"", "metric": "Time (s)", "value": 0.0032110000000000003}
+{"params": {"Processes": 72}, "callpath": "strace_time_total->scall->\"epoll_create\"", "metric": "Time (s)", "value": 0.00028800000000000006}
+{"params": {"Processes": 72}, "callpath": "strace_time_total->scall->\"epoll_ctl\"", "metric": "Time (s)", "value": 0.0008120000000000004}
+{"params": {"Processes": 72}, "callpath": "strace_time_total->scall->\"eventfd2\"", "metric": "Time (s)", "value": 0.0008650000000000001}
+{"params": {"Processes": 72}, "callpath": "strace_time_total->scall->\"execve\"", "metric": "Time (s)", "value": 0.017471}
+{"params": {"Processes": 72}, "callpath": "strace_time_total->scall->\"fcntl\"", "metric": "Time (s)", "value": 33.0736550000118}
+{"params": {"Processes": 72}, "callpath": "strace_time_total->scall->\"fstat\"", "metric": "Time (s)", "value": 0.17614900000004435}
+{"params": {"Processes": 72}, "callpath": "strace_time_total->scall->\"fsync\"", "metric": "Time (s)", "value": 190.9480530000002}
+{"params": {"Processes": 72}, "callpath": "strace_time_total->scall->\"ftruncate\"", "metric": "Time (s)", "value": 0.04041099999999989}
+{"params": {"Processes": 72}, "callpath": "strace_time_total->scall->\"futex\"", "metric": "Time (s)", "value": 4.1693839999995745}
+{"params": {"Processes": 72}, "callpath": "strace_time_total->scall->\"getcwd\"", "metric": "Time (s)", "value": 0.3176380000001168}
+{"params": {"Processes": 72}, "callpath": "strace_time_total->scall->\"getdents64\"", "metric": "Time (s)", "value": 0.015386}
+{"params": {"Processes": 72}, "callpath": "strace_time_total->scall->\"getegid\"", "metric": "Time (s)", "value": 0.0017140000000000002}
+{"params": {"Processes": 72}, "callpath": "strace_time_total->scall->\"geteuid\"", "metric": "Time (s)", "value": 0.003158000000000001}
+{"params": {"Processes": 72}, "callpath": "strace_time_total->scall->\"getgid\"", "metric": "Time (s)", "value": 0.001375}
+{"params": {"Processes": 72}, "callpath": "strace_time_total->scall->\"getpid\"", "metric": "Time (s)", "value": 0.9414369999996068}
+{"params": {"Processes": 72}, "callpath": "strace_time_total->scall->\"getsockname\"", "metric": "Time (s)", "value": 0.0029900000000000005}
+{"params": {"Processes": 72}, "callpath": "strace_time_total->scall->\"getsockopt\"", "metric": "Time (s)", "value": 0.000272}
+{"params": {"Processes": 72}, "callpath": "strace_time_total->scall->\"getuid\"", "metric": "Time (s)", "value": 0.012787999999999997}
+{"params": {"Processes": 72}, "callpath": "strace_time_total->scall->\"ioctl\"", "metric": "Time (s)", "value": 0.39901900000000023}
+{"params": {"Processes": 72}, "callpath": "strace_time_total->scall->\"link\"", "metric": "Time (s)", "value": 0.26255400000006607}
+{"params": {"Processes": 72}, "callpath": "strace_time_total->scall->\"listen\"", "metric": "Time (s)", "value": 0.00024700000000000004}
+{"params": {"Processes": 72}, "callpath": "strace_time_total->scall->\"lseek\"", "metric": "Time (s)", "value": 0.6993249999999493}
+{"params": {"Processes": 72}, "callpath": "strace_time_total->scall->\"lstat\"", "metric": "Time (s)", "value": 13.420921000002966}
+{"params": {"Processes": 72}, "callpath": "strace_time_total->scall->\"mkdir\"", "metric": "Time (s)", "value": 0.00238}
+{"params": {"Processes": 72}, "callpath": "strace_time_total->scall->\"mmap\"", "metric": "Time (s)", "value": 0.8765419999999102}
+{"params": {"Processes": 72}, "callpath": "strace_time_total->scall->\"mprotect\"", "metric": "Time (s)", "value": 0.05014600000000001}
+{"params": {"Processes": 72}, "callpath": "strace_time_total->scall->\"munmap\"", "metric": "Time (s)", "value": 1.06326999999983}
+{"params": {"Processes": 72}, "callpath": "strace_time_total->scall->\"openat\"", "metric": "Time (s)", "value": 43.42135599999593}
+{"params": {"Processes": 72}, "callpath": "strace_time_total->scall->\"pipe\"", "metric": "Time (s)", "value": 0.0005650000000000002}
+{"params": {"Processes": 72}, "callpath": "strace_time_total->scall->\"poll\"", "metric": "Time (s)", "value": 2.214352999995154}
+{"params": {"Processes": 72}, "callpath": "strace_time_total->scall->\"prctl\"", "metric": "Time (s)", "value": 0.00034}
+{"params": {"Processes": 72}, "callpath": "strace_time_total->scall->\"pread64\"", "metric": "Time (s)", "value": 20.840278000000396}
+{"params": {"Processes": 72}, "callpath": "strace_time_total->scall->\"prlimit64\"", "metric": "Time (s)", "value": 0.000143}
+{"params": {"Processes": 72}, "callpath": "strace_time_total->scall->\"process_vm_readv\"", "metric": "Time (s)", "value": 1.493329999999958}
+{"params": {"Processes": 72}, "callpath": "strace_time_total->scall->\"pwrite64\"", "metric": "Time (s)", "value": 18.744720999999473}
+{"params": {"Processes": 72}, "callpath": "strace_time_total->scall->\"pwritev\"", "metric": "Time (s)", "value": 0.021100999999999995}
+{"params": {"Processes": 72}, "callpath": "strace_time_total->scall->\"read\"", "metric": "Time (s)", "value": 3.1895919999995845}
+{"params": {"Processes": 72}, "callpath": "strace_time_total->scall->\"readlink\"", "metric": "Time (s)", "value": 0.0031150000000000006}
+{"params": {"Processes": 72}, "callpath": "strace_time_total->scall->\"recvfrom\"", "metric": "Time (s)", "value": 0.0005990000000000001}
+{"params": {"Processes": 72}, "callpath": "strace_time_total->scall->\"recvmsg\"", "metric": "Time (s)", "value": 0.04443}
+{"params": {"Processes": 72}, "callpath": "strace_time_total->scall->\"rt_sigaction\"", "metric": "Time (s)", "value": 0.024010999999999987}
+{"params": {"Processes": 72}, "callpath": "strace_time_total->scall->\"rt_sigprocmask\"", "metric": "Time (s)", "value": 0.0036590000000000086}
+{"params": {"Processes": 72}, "callpath": "strace_time_total->scall->\"sched_getaffinity\"", "metric": "Time (s)", "value": 0.0020889999999999997}
+{"params": {"Processes": 72}, "callpath": "strace_time_total->scall->\"sched_getparam\"", "metric": "Time (s)", "value": 0.000104}
+{"params": {"Processes": 72}, "callpath": "strace_time_total->scall->\"sched_getscheduler\"", "metric": "Time (s)", "value": 4.4000000000000006e-05}
+{"params": {"Processes": 72}, "callpath": "strace_time_total->scall->\"sched_setaffinity\"", "metric": "Time (s)", "value": 0.003039000000000001}
+{"params": {"Processes": 72}, "callpath": "strace_time_total->scall->\"sched_yield\"", "metric": "Time (s)", "value": 0.16398100000000007}
+{"params": {"Processes": 72}, "callpath": "strace_time_total->scall->\"sendto\"", "metric": "Time (s)", "value": 0.026391}
+{"params": {"Processes": 72}, "callpath": "strace_time_total->scall->\"set_robust_list\"", "metric": "Time (s)", "value": 0.00015}
+{"params": {"Processes": 72}, "callpath": "strace_time_total->scall->\"set_tid_address\"", "metric": "Time (s)", "value": 0.00013800000000000005}
+{"params": {"Processes": 72}, "callpath": "strace_time_total->scall->\"setsockopt\"", "metric": "Time (s)", "value": 0.0009420000000000001}
+{"params": {"Processes": 72}, "callpath": "strace_time_total->scall->\"shmat\"", "metric": "Time (s)", "value": 0.000523}
+{"params": {"Processes": 72}, "callpath": "strace_time_total->scall->\"shmctl\"", "metric": "Time (s)", "value": 0.0004850000000000001}
+{"params": {"Processes": 72}, "callpath": "strace_time_total->scall->\"shmdt\"", "metric": "Time (s)", "value": 0.0008190000000000001}
+{"params": {"Processes": 72}, "callpath": "strace_time_total->scall->\"shmget\"", "metric": "Time (s)", "value": 0.0011200000000000003}
+{"params": {"Processes": 72}, "callpath": "strace_time_total->scall->\"shutdown\"", "metric": "Time (s)", "value": 0.000211}
+{"params": {"Processes": 72}, "callpath": "strace_time_total->scall->\"socket\"", "metric": "Time (s)", "value": 0.03623400000000001}
+{"params": {"Processes": 72}, "callpath": "strace_time_total->scall->\"socketpair\"", "metric": "Time (s)", "value": 0.0017300000000000004}
+{"params": {"Processes": 72}, "callpath": "strace_time_total->scall->\"stat\"", "metric": "Time (s)", "value": 0.19577700000000003}
+{"params": {"Processes": 72}, "callpath": "strace_time_total->scall->\"statfs\"", "metric": "Time (s)", "value": 24.60995300000183}
+{"params": {"Processes": 72}, "callpath": "strace_time_total->scall->\"sysinfo\"", "metric": "Time (s)", "value": 0.00024799999999999996}
+{"params": {"Processes": 72}, "callpath": "strace_time_total->scall->\"umask\"", "metric": "Time (s)", "value": 0.3275370000001453}
+{"params": {"Processes": 72}, "callpath": "strace_time_total->scall->\"uname\"", "metric": "Time (s)", "value": 0.00283}
+{"params": {"Processes": 72}, "callpath": "strace_time_total->scall->\"unlink\"", "metric": "Time (s)", "value": 43.81921700000356}
+{"params": {"Processes": 72}, "callpath": "strace_time_total->scall->\"write\"", "metric": "Time (s)", "value": 3.3225469999988952}
+{"params": {"Processes": 72}, "callpath": "strace_time_total->scall->\"writev\"", "metric": "Time (s)", "value": 0.010454000000000001}
+{"params": {"Processes": 72}, "callpath": "strace_total->desc->\"read_size\"", "metric": "other", "value": 20453909017.0}
+{"params": {"Processes": 72}, "callpath": "strace_total->desc->\"read_time\"", "metric": "other", "value": 24.071981999998982}
+{"params": {"Processes": 72}, "callpath": "strace_total->desc->\"time\"", "metric": "other", "value": 46.16564100000103}
+{"params": {"Processes": 72}, "callpath": "strace_total->desc->\"write_size\"", "metric": "other", "value": 40688009727.0}
+{"params": {"Processes": 72}, "callpath": "strace_total->desc->\"write_time\"", "metric": "other", "value": 22.09365900000674}
+{"params": {"Processes": 72}, "callpath": "tau_hits_total->function->\"mpi_alloc_mem\"", "metric": "Hits", "value": 613049.0}
+{"params": {"Processes": 72}, "callpath": "tau_hits_total->function->\"mpi_allreduce\"", "metric": "Hits", "value": 1004493.0}
+{"params": {"Processes": 72}, "callpath": "tau_hits_total->function->\"mpi_barrier\"", "metric": "Hits", "value": 4099456.0}
+{"params": {"Processes": 72}, "callpath": "tau_hits_total->function->\"mpi_bcast\"", "metric": "Hits", "value": 167599.0}
+{"params": {"Processes": 72}, "callpath": "tau_hits_total->function->\"mpi_comm_compare\"", "metric": "Hits", "value": 7174.0}
+{"params": {"Processes": 72}, "callpath": "tau_hits_total->function->\"mpi_comm_free\"", "metric": "Hits", "value": 5078.0}
+{"params": {"Processes": 72}, "callpath": "tau_hits_total->function->\"mpi_comm_group\"", "metric": "Hits", "value": 524.0}
+{"params": {"Processes": 72}, "callpath": "tau_hits_total->function->\"mpi_comm_rank\"", "metric": "Hits", "value": 10054.0}
+{"params": {"Processes": 72}, "callpath": "tau_hits_total->function->\"mpi_comm_size\"", "metric": "Hits", "value": 10054.0}
+{"params": {"Processes": 72}, "callpath": "tau_hits_total->function->\"mpi_comm_split\"", "metric": "Hits", "value": 21456.0}
+{"params": {"Processes": 72}, "callpath": "tau_hits_total->function->\"mpi_file_close\"", "metric": "Hits", "value": 375341.0}
+{"params": {"Processes": 72}, "callpath": "tau_hits_total->function->\"mpi_file_delete\"", "metric": "Hits", "value": 1245.0}
+{"params": {"Processes": 72}, "callpath": "tau_hits_total->function->\"mpi_file_iread\"", "metric": "Hits", "value": 201096.0}
+{"params": {"Processes": 72}, "callpath": "tau_hits_total->function->\"mpi_file_iread_at\"", "metric": "Hits", "value": 100800.0}
+{"params": {"Processes": 72}, "callpath": "tau_hits_total->function->\"mpi_file_iread_shared\"", "metric": "Hits", "value": 99112.0}
+{"params": {"Processes": 72}, "callpath": "tau_hits_total->function->\"mpi_file_iwrite\"", "metric": "Hits", "value": 200304.0}
+{"params": {"Processes": 72}, "callpath": "tau_hits_total->function->\"mpi_file_iwrite_at\"", "metric": "Hits", "value": 99200.0}
+{"params": {"Processes": 72}, "callpath": "tau_hits_total->function->\"mpi_file_iwrite_shared\"", "metric": "Hits", "value": 98352.0}
+{"params": {"Processes": 72}, "callpath": "tau_hits_total->function->\"mpi_file_open\"", "metric": "Hits", "value": 375341.0}
+{"params": {"Processes": 72}, "callpath": "tau_hits_total->function->\"mpi_file_read\"", "metric": "Hits", "value": 402032.0}
+{"params": {"Processes": 72}, "callpath": "tau_hits_total->function->\"mpi_file_read_all\"", "metric": "Hits", "value": 200592.0}
+{"params": {"Processes": 72}, "callpath": "tau_hits_total->function->\"mpi_file_read_all_begin\"", "metric": "Hits", "value": 100296.0}
+{"params": {"Processes": 72}, "callpath": "tau_hits_total->function->\"mpi_file_read_all_end\"", "metric": "Hits", "value": 100296.0}
+{"params": {"Processes": 72}, "callpath": "tau_hits_total->function->\"mpi_file_read_at\"", "metric": "Hits", "value": 201600.0}
+{"params": {"Processes": 72}, "callpath": "tau_hits_total->function->\"mpi_file_read_at_all\"", "metric": "Hits", "value": 200592.0}
+{"params": {"Processes": 72}, "callpath": "tau_hits_total->function->\"mpi_file_read_at_all_begin\"", "metric": "Hits", "value": 100296.0}
+{"params": {"Processes": 72}, "callpath": "tau_hits_total->function->\"mpi_file_read_at_all_end\"", "metric": "Hits", "value": 100296.0}
+{"params": {"Processes": 72}, "callpath": "tau_hits_total->function->\"mpi_file_read_ordered\"", "metric": "Hits", "value": 200592.0}
+{"params": {"Processes": 72}, "callpath": "tau_hits_total->function->\"mpi_file_read_ordered_begin\"", "metric": "Hits", "value": 100296.0}
+{"params": {"Processes": 72}, "callpath": "tau_hits_total->function->\"mpi_file_read_ordered_end\"", "metric": "Hits", "value": 100296.0}
+{"params": {"Processes": 72}, "callpath": "tau_hits_total->function->\"mpi_file_read_shared\"", "metric": "Hits", "value": 199192.0}
+{"params": {"Processes": 72}, "callpath": "tau_hits_total->function->\"mpi_file_seek\"", "metric": "Hits", "value": 334800.0}
+{"params": {"Processes": 72}, "callpath": "tau_hits_total->function->\"mpi_file_seek_shared\"", "metric": "Hits", "value": 95520.0}
+{"params": {"Processes": 72}, "callpath": "tau_hits_total->function->\"mpi_file_set_size\"", "metric": "Hits", "value": 1245.0}
+{"params": {"Processes": 72}, "callpath": "tau_hits_total->function->\"mpi_file_set_view\"", "metric": "Hits", "value": 369525.0}
+{"params": {"Processes": 72}, "callpath": "tau_hits_total->function->\"mpi_file_sync\"", "metric": "Hits", "value": 4238000.0}
+{"params": {"Processes": 72}, "callpath": "tau_hits_total->function->\"mpi_file_write\"", "metric": "Hits", "value": 943099.0}
+{"params": {"Processes": 72}, "callpath": "tau_hits_total->function->\"mpi_file_write_all\"", "metric": "Hits", "value": 455144.0}
+{"params": {"Processes": 72}, "callpath": "tau_hits_total->function->\"mpi_file_write_all_begin\"", "metric": "Hits", "value": 99936.0}
+{"params": {"Processes": 72}, "callpath": "tau_hits_total->function->\"mpi_file_write_all_end\"", "metric": "Hits", "value": 99936.0}
+{"params": {"Processes": 72}, "callpath": "tau_hits_total->function->\"mpi_file_write_at\"", "metric": "Hits", "value": 458264.0}
+{"params": {"Processes": 72}, "callpath": "tau_hits_total->function->\"mpi_file_write_at_all\"", "metric": "Hits", "value": 457704.0}
+{"params": {"Processes": 72}, "callpath": "tau_hits_total->function->\"mpi_file_write_at_all_begin\"", "metric": "Hits", "value": 99072.0}
+{"params": {"Processes": 72}, "callpath": "tau_hits_total->function->\"mpi_file_write_at_all_end\"", "metric": "Hits", "value": 99072.0}
+{"params": {"Processes": 72}, "callpath": "tau_hits_total->function->\"mpi_file_write_ordered\"", "metric": "Hits", "value": 456472.0}
+{"params": {"Processes": 72}, "callpath": "tau_hits_total->function->\"mpi_file_write_ordered_begin\"", "metric": "Hits", "value": 99344.0}
+{"params": {"Processes": 72}, "callpath": "tau_hits_total->function->\"mpi_file_write_ordered_end\"", "metric": "Hits", "value": 99344.0}
+{"params": {"Processes": 72}, "callpath": "tau_hits_total->function->\"mpi_file_write_shared\"", "metric": "Hits", "value": 446848.0}
+{"params": {"Processes": 72}, "callpath": "tau_hits_total->function->\"mpi_finalize\"", "metric": "Hits", "value": 72.0}
+{"params": {"Processes": 72}, "callpath": "tau_hits_total->function->\"mpi_free_mem\"", "metric": "Hits", "value": 608144.0}
+{"params": {"Processes": 72}, "callpath": "tau_hits_total->function->\"mpi_gather\"", "metric": "Hits", "value": 501696.0}
+{"params": {"Processes": 72}, "callpath": "tau_hits_total->function->\"mpi_get_version\"", "metric": "Hits", "value": 1.0}
+{"params": {"Processes": 72}, "callpath": "tau_hits_total->function->\"mpi_group_translate_ranks\"", "metric": "Hits", "value": 262.0}
+{"params": {"Processes": 72}, "callpath": "tau_hits_total->function->\"mpi_init_thread\"", "metric": "Hits", "value": 72.0}
+{"params": {"Processes": 72}, "callpath": "tau_hits_total->function->\"mpi_recv\"", "metric": "Hits", "value": 18602.0}
+{"params": {"Processes": 72}, "callpath": "tau_hits_total->function->\"mpi_send\"", "metric": "Hits", "value": 18602.0}
+{"params": {"Processes": 72}, "callpath": "tau_hits_total->function->\"mpi_type_commit\"", "metric": "Hits", "value": 65920.0}
+{"params": {"Processes": 72}, "callpath": "tau_hits_total->function->\"mpi_type_create_resized\"", "metric": "Hits", "value": 32960.0}
+{"params": {"Processes": 72}, "callpath": "tau_hits_total->function->\"mpi_type_create_struct\"", "metric": "Hits", "value": 32960.0}
+{"params": {"Processes": 72}, "callpath": "tau_hits_total->function->\"mpi_type_free\"", "metric": "Hits", "value": 65920.0}
+{"params": {"Processes": 72}, "callpath": "tau_hits_total->function->\"mpi_type_size\"", "metric": "Hits", "value": 24120.0}
+{"params": {"Processes": 72}, "callpath": "tau_hits_total->function->\"mpi_wait\"", "metric": "Hits", "value": 38304.0}
+{"params": {"Processes": 72}, "callpath": "tau_hits_total->function->\"mpi_waitall\"", "metric": "Hits", "value": 76608.0}
+{"params": {"Processes": 72}, "callpath": "tau_hits_total->function->\"mpi_wtime\"", "metric": "Hits", "value": 2602611.0}
+{"params": {"Processes": 72}, "callpath": "tau_metric_proxy_run_total->metric->\"time\"", "metric": "other", "value": 190628.094238338}
+{"params": {"Processes": 72}, "callpath": "tau_metric_proxy_run_total->operation->\"exec\"", "metric": "other", "value": 72.0}
+{"params": {"Processes": 72}, "callpath": "tau_mpi_total_size->metric->\"size_out\"", "metric": "other", "value": 46753215143.0}
+{"params": {"Processes": 72}, "callpath": "tau_mpi_total->metric->\"hits\"", "metric": "other", "value": 22436283.0}
+{"params": {"Processes": 72}, "callpath": "tau_mpi_total->metric->\"size\"", "metric": "other", "value": 73185722096.0}
+{"params": {"Processes": 72}, "callpath": "tau_mpi_total->metric->\"size_in\"", "metric": "other", "value": 26432506953.0}
+{"params": {"Processes": 72}, "callpath": "tau_mpi_total->metric->\"time\"", "metric": "other", "value": 189844.86188554764}
+{"params": {"Processes": 72}, "callpath": "tau_size_in_total->function->\"mpi_allreduce\"", "metric": "Size (B)", "value": 5358764.0}
+{"params": {"Processes": 72}, "callpath": "tau_size_in_total->function->\"mpi_bcast\"", "metric": "Size (B)", "value": 642524.0}
+{"params": {"Processes": 72}, "callpath": "tau_size_in_total->function->\"mpi_file_iread\"", "metric": "Size (B)", "value": 2994860568.0}
+{"params": {"Processes": 72}, "callpath": "tau_size_in_total->function->\"mpi_file_iread_at\"", "metric": "Size (B)", "value": 1585446723.0}
+{"params": {"Processes": 72}, "callpath": "tau_size_in_total->function->\"mpi_file_iread_shared\"", "metric": "Size (B)", "value": 1405456216.0}
+{"params": {"Processes": 72}, "callpath": "tau_size_in_total->function->\"mpi_file_read\"", "metric": "Size (B)", "value": 5989720496.0}
+{"params": {"Processes": 72}, "callpath": "tau_size_in_total->function->\"mpi_file_read_all\"", "metric": "Size (B)", "value": 2818571952.0}
+{"params": {"Processes": 72}, "callpath": "tau_size_in_total->function->\"mpi_file_read_at\"", "metric": "Size (B)", "value": 3170893446.0}
+{"params": {"Processes": 72}, "callpath": "tau_size_in_total->function->\"mpi_file_read_at_all\"", "metric": "Size (B)", "value": 2818571952.0}
+{"params": {"Processes": 72}, "callpath": "tau_size_in_total->function->\"mpi_file_read_ordered\"", "metric": "Size (B)", "value": 2818571952.0}
+{"params": {"Processes": 72}, "callpath": "tau_size_in_total->function->\"mpi_file_read_shared\"", "metric": "Size (B)", "value": 2814739120.0}
+{"params": {"Processes": 72}, "callpath": "tau_size_in_total->function->\"mpi_gather\"", "metric": "Size (B)", "value": 5617152.0}
+{"params": {"Processes": 72}, "callpath": "tau_size_in_total->function->\"mpi_recv\"", "metric": "Size (B)", "value": 4056088.0}
+{"params": {"Processes": 72}, "callpath": "tau_size_out_total->function->\"mpi_allreduce\"", "metric": "Size (B)", "value": 5358764.0}
+{"params": {"Processes": 72}, "callpath": "tau_size_out_total->function->\"mpi_bcast\"", "metric": "Size (B)", "value": 27872.0}
+{"params": {"Processes": 72}, "callpath": "tau_size_out_total->function->\"mpi_file_iwrite\"", "metric": "Size (B)", "value": 2994762052.0}
+{"params": {"Processes": 72}, "callpath": "tau_size_out_total->function->\"mpi_file_iwrite_at\"", "metric": "Size (B)", "value": 1583488195.0}
+{"params": {"Processes": 72}, "callpath": "tau_size_out_total->function->\"mpi_file_iwrite_shared\"", "metric": "Size (B)", "value": 1405075288.0}
+{"params": {"Processes": 72}, "callpath": "tau_size_out_total->function->\"mpi_file_write\"", "metric": "Size (B)", "value": 15437206527.0}
+{"params": {"Processes": 72}, "callpath": "tau_size_out_total->function->\"mpi_file_write_all\"", "metric": "Size (B)", "value": 4949740892.0}
+{"params": {"Processes": 72}, "callpath": "tau_size_out_total->function->\"mpi_file_write_at\"", "metric": "Size (B)", "value": 5558146313.0}
+{"params": {"Processes": 72}, "callpath": "tau_size_out_total->function->\"mpi_file_write_at_all\"", "metric": "Size (B)", "value": 4951192126.0}
+{"params": {"Processes": 72}, "callpath": "tau_size_out_total->function->\"mpi_file_write_ordered\"", "metric": "Size (B)", "value": 4960171530.0}
+{"params": {"Processes": 72}, "callpath": "tau_size_out_total->function->\"mpi_file_write_shared\"", "metric": "Size (B)", "value": 4902354024.0}
+{"params": {"Processes": 72}, "callpath": "tau_size_out_total->function->\"mpi_gather\"", "metric": "Size (B)", "value": 5617152.0}
+{"params": {"Processes": 72}, "callpath": "tau_size_out_total->function->\"mpi_send\"", "metric": "Size (B)", "value": 74408.0}
+{"params": {"Processes": 72}, "callpath": "tau_size_total->function->\"mpi_allreduce\"", "metric": "Size (B)", "value": 10717528.0}
+{"params": {"Processes": 72}, "callpath": "tau_size_total->function->\"mpi_bcast\"", "metric": "Size (B)", "value": 670396.0}
+{"params": {"Processes": 72}, "callpath": "tau_size_total->function->\"mpi_file_iread\"", "metric": "Size (B)", "value": 2994860568.0}
+{"params": {"Processes": 72}, "callpath": "tau_size_total->function->\"mpi_file_iread_at\"", "metric": "Size (B)", "value": 1585446723.0}
+{"params": {"Processes": 72}, "callpath": "tau_size_total->function->\"mpi_file_iread_shared\"", "metric": "Size (B)", "value": 1405456216.0}
+{"params": {"Processes": 72}, "callpath": "tau_size_total->function->\"mpi_file_iwrite\"", "metric": "Size (B)", "value": 2994762052.0}
+{"params": {"Processes": 72}, "callpath": "tau_size_total->function->\"mpi_file_iwrite_at\"", "metric": "Size (B)", "value": 1583488195.0}
+{"params": {"Processes": 72}, "callpath": "tau_size_total->function->\"mpi_file_iwrite_shared\"", "metric": "Size (B)", "value": 1405075288.0}
+{"params": {"Processes": 72}, "callpath": "tau_size_total->function->\"mpi_file_read\"", "metric": "Size (B)", "value": 5989720496.0}
+{"params": {"Processes": 72}, "callpath": "tau_size_total->function->\"mpi_file_read_all\"", "metric": "Size (B)", "value": 2818571952.0}
+{"params": {"Processes": 72}, "callpath": "tau_size_total->function->\"mpi_file_read_at\"", "metric": "Size (B)", "value": 3170893446.0}
+{"params": {"Processes": 72}, "callpath": "tau_size_total->function->\"mpi_file_read_at_all\"", "metric": "Size (B)", "value": 2818571952.0}
+{"params": {"Processes": 72}, "callpath": "tau_size_total->function->\"mpi_file_read_ordered\"", "metric": "Size (B)", "value": 2818571952.0}
+{"params": {"Processes": 72}, "callpath": "tau_size_total->function->\"mpi_file_read_shared\"", "metric": "Size (B)", "value": 2814739120.0}
+{"params": {"Processes": 72}, "callpath": "tau_size_total->function->\"mpi_file_write\"", "metric": "Size (B)", "value": 15437206527.0}
+{"params": {"Processes": 72}, "callpath": "tau_size_total->function->\"mpi_file_write_all\"", "metric": "Size (B)", "value": 4949740892.0}
+{"params": {"Processes": 72}, "callpath": "tau_size_total->function->\"mpi_file_write_at\"", "metric": "Size (B)", "value": 5558146313.0}
+{"params": {"Processes": 72}, "callpath": "tau_size_total->function->\"mpi_file_write_at_all\"", "metric": "Size (B)", "value": 4951192126.0}
+{"params": {"Processes": 72}, "callpath": "tau_size_total->function->\"mpi_file_write_ordered\"", "metric": "Size (B)", "value": 4960171530.0}
+{"params": {"Processes": 72}, "callpath": "tau_size_total->function->\"mpi_file_write_shared\"", "metric": "Size (B)", "value": 4902354024.0}
+{"params": {"Processes": 72}, "callpath": "tau_size_total->function->\"mpi_gather\"", "metric": "Size (B)", "value": 11234304.0}
+{"params": {"Processes": 72}, "callpath": "tau_size_total->function->\"mpi_recv\"", "metric": "Size (B)", "value": 4056088.0}
+{"params": {"Processes": 72}, "callpath": "tau_size_total->function->\"mpi_send\"", "metric": "Size (B)", "value": 74408.0}
+{"params": {"Processes": 72}, "callpath": "tau_time_total->function->\"mpi_alloc_mem\"", "metric": "Time (s)", "value": 2.374690055847168}
+{"params": {"Processes": 72}, "callpath": "tau_time_total->function->\"mpi_allreduce\"", "metric": "Time (s)", "value": 48704.9812309742}
+{"params": {"Processes": 72}, "callpath": "tau_time_total->function->\"mpi_barrier\"", "metric": "Time (s)", "value": 51126.716010570526}
+{"params": {"Processes": 72}, "callpath": "tau_time_total->function->\"mpi_bcast\"", "metric": "Time (s)", "value": 64.45391988754272}
+{"params": {"Processes": 72}, "callpath": "tau_time_total->function->\"mpi_comm_compare\"", "metric": "Time (s)", "value": 0.1659564971923828}
+{"params": {"Processes": 72}, "callpath": "tau_time_total->function->\"mpi_comm_free\"", "metric": "Time (s)", "value": 0.03169512748718262}
+{"params": {"Processes": 72}, "callpath": "tau_time_total->function->\"mpi_comm_group\"", "metric": "Time (s)", "value": 0.00013208389282226562}
+{"params": {"Processes": 72}, "callpath": "tau_time_total->function->\"mpi_comm_rank\"", "metric": "Time (s)", "value": 0.00074005126953125}
+{"params": {"Processes": 72}, "callpath": "tau_time_total->function->\"mpi_comm_size\"", "metric": "Time (s)", "value": 0.008586883544921875}
+{"params": {"Processes": 72}, "callpath": "tau_time_total->function->\"mpi_comm_split\"", "metric": "Time (s)", "value": 689.5411522388458}
+{"params": {"Processes": 72}, "callpath": "tau_time_total->function->\"mpi_file_close\"", "metric": "Time (s)", "value": 4971.127892255783}
+{"params": {"Processes": 72}, "callpath": "tau_time_total->function->\"mpi_file_delete\"", "metric": "Time (s)", "value": 17.380793809890747}
+{"params": {"Processes": 72}, "callpath": "tau_time_total->function->\"mpi_file_iread\"", "metric": "Time (s)", "value": 2.737816572189331}
+{"params": {"Processes": 72}, "callpath": "tau_time_total->function->\"mpi_file_iread_at\"", "metric": "Time (s)", "value": 1.493962287902832}
+{"params": {"Processes": 72}, "callpath": "tau_time_total->function->\"mpi_file_iread_shared\"", "metric": "Time (s)", "value": 801.4462931156158}
+{"params": {"Processes": 72}, "callpath": "tau_time_total->function->\"mpi_file_iwrite\"", "metric": "Time (s)", "value": 7.023671627044678}
+{"params": {"Processes": 72}, "callpath": "tau_time_total->function->\"mpi_file_iwrite_at\"", "metric": "Time (s)", "value": 1.765557050704956}
+{"params": {"Processes": 72}, "callpath": "tau_time_total->function->\"mpi_file_iwrite_shared\"", "metric": "Time (s)", "value": 782.5281739234924}
+{"params": {"Processes": 72}, "callpath": "tau_time_total->function->\"mpi_file_open\"", "metric": "Time (s)", "value": 45625.68239688873}
+{"params": {"Processes": 72}, "callpath": "tau_time_total->function->\"mpi_file_read\"", "metric": "Time (s)", "value": 82.83627200126648}
+{"params": {"Processes": 72}, "callpath": "tau_time_total->function->\"mpi_file_read_all\"", "metric": "Time (s)", "value": 324.9143006801605}
+{"params": {"Processes": 72}, "callpath": "tau_time_total->function->\"mpi_file_read_all_begin\"", "metric": "Time (s)", "value": 7.83526086807251}
+{"params": {"Processes": 72}, "callpath": "tau_time_total->function->\"mpi_file_read_all_end\"", "metric": "Time (s)", "value": 22.604151964187622}
+{"params": {"Processes": 72}, "callpath": "tau_time_total->function->\"mpi_file_read_at\"", "metric": "Time (s)", "value": 58.60284495353699}
+{"params": {"Processes": 72}, "callpath": "tau_time_total->function->\"mpi_file_read_at_all\"", "metric": "Time (s)", "value": 81.19380211830139}
+{"params": {"Processes": 72}, "callpath": "tau_time_total->function->\"mpi_file_read_at_all_begin\"", "metric": "Time (s)", "value": 6.610807418823242}
+{"params": {"Processes": 72}, "callpath": "tau_time_total->function->\"mpi_file_read_at_all_end\"", "metric": "Time (s)", "value": 20.360074043273926}
+{"params": {"Processes": 72}, "callpath": "tau_time_total->function->\"mpi_file_read_ordered\"", "metric": "Time (s)", "value": 713.2524547576904}
+{"params": {"Processes": 72}, "callpath": "tau_time_total->function->\"mpi_file_read_ordered_begin\"", "metric": "Time (s)", "value": 1543.204104423523}
+{"params": {"Processes": 72}, "callpath": "tau_time_total->function->\"mpi_file_read_ordered_end\"", "metric": "Time (s)", "value": 34.38830256462097}
+{"params": {"Processes": 72}, "callpath": "tau_time_total->function->\"mpi_file_read_shared\"", "metric": "Time (s)", "value": 1592.1699569225311}
+{"params": {"Processes": 72}, "callpath": "tau_time_total->function->\"mpi_file_seek\"", "metric": "Time (s)", "value": 0.1427626609802246}
+{"params": {"Processes": 72}, "callpath": "tau_time_total->function->\"mpi_file_seek_shared\"", "metric": "Time (s)", "value": 1379.8210861682892}
+{"params": {"Processes": 72}, "callpath": "tau_time_total->function->\"mpi_file_set_size\"", "metric": "Time (s)", "value": 1.0424320697784424}
+{"params": {"Processes": 72}, "callpath": "tau_time_total->function->\"mpi_file_set_view\"", "metric": "Time (s)", "value": 378.63180327415466}
+{"params": {"Processes": 72}, "callpath": "tau_time_total->function->\"mpi_file_sync\"", "metric": "Time (s)", "value": 18460.374322891235}
+{"params": {"Processes": 72}, "callpath": "tau_time_total->function->\"mpi_file_write\"", "metric": "Time (s)", "value": 632.7265329360962}
+{"params": {"Processes": 72}, "callpath": "tau_time_total->function->\"mpi_file_write_all\"", "metric": "Time (s)", "value": 1460.6580893993378}
+{"params": {"Processes": 72}, "callpath": "tau_time_total->function->\"mpi_file_write_all_begin\"", "metric": "Time (s)", "value": 4.612972259521484}
+{"params": {"Processes": 72}, "callpath": "tau_time_total->function->\"mpi_file_write_all_end\"", "metric": "Time (s)", "value": 117.6883692741394}
+{"params": {"Processes": 72}, "callpath": "tau_time_total->function->\"mpi_file_write_at\"", "metric": "Time (s)", "value": 659.4618511199951}
+{"params": {"Processes": 72}, "callpath": "tau_time_total->function->\"mpi_file_write_at_all\"", "metric": "Time (s)", "value": 1977.8539385795593}
+{"params": {"Processes": 72}, "callpath": "tau_time_total->function->\"mpi_file_write_at_all_begin\"", "metric": "Time (s)", "value": 4.912532329559326}
+{"params": {"Processes": 72}, "callpath": "tau_time_total->function->\"mpi_file_write_at_all_end\"", "metric": "Time (s)", "value": 130.8778042793274}
+{"params": {"Processes": 72}, "callpath": "tau_time_total->function->\"mpi_file_write_ordered\"", "metric": "Time (s)", "value": 2276.0505378246307}
+{"params": {"Processes": 72}, "callpath": "tau_time_total->function->\"mpi_file_write_ordered_begin\"", "metric": "Time (s)", "value": 1383.4483613967896}
+{"params": {"Processes": 72}, "callpath": "tau_time_total->function->\"mpi_file_write_ordered_end\"", "metric": "Time (s)", "value": 80.90188670158386}
+{"params": {"Processes": 72}, "callpath": "tau_time_total->function->\"mpi_file_write_shared\"", "metric": "Time (s)", "value": 2453.401565551758}
+{"params": {"Processes": 72}, "callpath": "tau_time_total->function->\"mpi_finalize\"", "metric": "Time (s)", "value": 79.63868141174316}
+{"params": {"Processes": 72}, "callpath": "tau_time_total->function->\"mpi_free_mem\"", "metric": "Time (s)", "value": 5.023646593093872}
+{"params": {"Processes": 72}, "callpath": "tau_time_total->function->\"mpi_gather\"", "metric": "Time (s)", "value": 643.5521187782288}
+{"params": {"Processes": 72}, "callpath": "tau_time_total->function->\"mpi_get_version\"", "metric": "Time (s)", "value": 1.9073486328125e-06}
+{"params": {"Processes": 72}, "callpath": "tau_time_total->function->\"mpi_group_translate_ranks\"", "metric": "Time (s)", "value": 0.001313924789428711}
+{"params": {"Processes": 72}, "callpath": "tau_time_total->function->\"mpi_init_thread\"", "metric": "Time (s)", "value": 72.24795079231262}
+{"params": {"Processes": 72}, "callpath": "tau_time_total->function->\"mpi_recv\"", "metric": "Time (s)", "value": 0.14934444427490234}
+{"params": {"Processes": 72}, "callpath": "tau_time_total->function->\"mpi_send\"", "metric": "Time (s)", "value": 0.6364095211029053}
+{"params": {"Processes": 72}, "callpath": "tau_time_total->function->\"mpi_type_commit\"", "metric": "Time (s)", "value": 0.01914072036743164}
+{"params": {"Processes": 72}, "callpath": "tau_time_total->function->\"mpi_type_create_resized\"", "metric": "Time (s)", "value": 0.07423257827758789}
+{"params": {"Processes": 72}, "callpath": "tau_time_total->function->\"mpi_type_create_struct\"", "metric": "Time (s)", "value": 0.08169770240783691}
+{"params": {"Processes": 72}, "callpath": "tau_time_total->function->\"mpi_type_free\"", "metric": "Time (s)", "value": 0.013624429702758789}
+{"params": {"Processes": 72}, "callpath": "tau_time_total->function->\"mpi_type_size\"", "metric": "Time (s)", "value": 0.004538536071777344}
+{"params": {"Processes": 72}, "callpath": "tau_time_total->function->\"mpi_wait\"", "metric": "Time (s)", "value": 47.47828674316406}
+{"params": {"Processes": 72}, "callpath": "tau_time_total->function->\"mpi_waitall\"", "metric": "Time (s)", "value": 305.36720395088196}
+{"params": {"Processes": 72}, "callpath": "tau_time_total->function->\"mpi_wtime\"", "metric": "Time (s)", "value": 0.5338401794433594}

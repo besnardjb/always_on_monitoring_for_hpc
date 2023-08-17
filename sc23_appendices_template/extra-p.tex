@@ -1,12 +1,65 @@
 \section{Performance Modeling With Extra-P}
 \label{sec:extra-p}
-
+In this section, we closely examine how the profiles from the different application runs 
+can be merged together to be used by Extra-P. This is necessary, as examining the scaling 
+behavior requires more than just a single run. In the following, we first examine the workflow. 
+Next, we look into how much time this workflow requires. Finally, we close up with a discussion 
+on the importance of these experiments. 
 
 \subsection{Workflow description}
-....
+After an application run finishes, the profiles are saved to a specified directory (usually in 
+the home directory of the user). 
+These runs are labeled by different entries including the command line arguments passed to SLURM. 
+The first step required for generating performance models with Extra-P is to group the 
+profiles into a single file. While Extra-P supports various file formats ( 
+for example, cube files where each run can have a dedicated file); formats like JsonLines 
+are ideal for our approach, as whenever a new profile is available, it can be appended to the same 
+file. This can be done by the following call: 
+\begin{lstlisting}[language=bash]
+tau_profile_inspect -G id,.. -E out.jsonl -c 
+\end{lstlisting}
+For the command, "id" is replaced by the list of relevant profiles. Once this is done, "out.jsonl" 
+is generated. 
+
+The second step in this approach is to pass the file to Extra-P. 
+Extra-P can be executed in a GUI or directly in a terminal. For the paper, 
+we selected the first option. Next, the data can be loaded once the GUI is opened or 
+directly using the command line interface. For the latter one (used in the paper), the call is:
+\begin{lstlisting}[language=bash]
+extrap-gui --scaling weak --json out.jsonl
+\end{lstlisting}
+
+This launches Extra-P, as shown in Figures~12-14 in the paper. After that, the relevant 
+metric, along with the functions of interest, can be selected for examining their scaling. 
 
 \subsection{Time needed for the workflow}
-....
+The described workflow in this section was done for Nek5000 and IMB-IO. For both cases, the 
+time needed for grouping the profiles to a single JsonLines files and the model generation 
+only consumed a few seconds. 
 
 \subsection{The experiments and their results}
-.....
+The results were covered in Section~6.4 of the submitted paper. We have shown three 
+figures (Figure~12-14). In the different figures, we demonstrated new aspects related 
+to the model generation with Extra-P.
+\paragraph*{\textbf{Figure 12:}} This figure is concerned with the scaling behavior of IMB-IO. 
+The exact configuration parameters were provided in the paper. The figure demonstrates the capability 
+of our approach to feeding Extra-P with the required metrics to generate performance models. On the 
+other hand, the generated performance models could be used for the optimization of resource management or 
+in malleable decisions. The latter requires adaptations mentioned in the paper's last section.  
+
+\paragraph*{\textbf{Figure 13:}}
+In principle, this figure presents similar results as the previous one. The difference is that it is topped with 
+two additional aspects: (1) While Figure~12 focused on metrics obtained by the metric proxy, this figure presents 
+additional metrics obtained by strace ("pread64"), and (2) it illustrates a new metric in Extra-P, namely the number of bytes. 
+Hence, we extended the capabilities of Extra-P to generate as well performance models in terms of bytes and not only time. 
+Note that performance models in terms of function visits are also generated but not shown. 
+
+\paragraph*{\textbf{Figure 14:}}
+Unlike the previous two figures, this figure shows the performance model generated for Nek5000. 
+Besides handling a different example which is in this case, a real application, this figure shows the 
+scaling behavior of six selected strace functions regarding the number of ranks versus time. From the 
+scaling behavior, one can depict that "ioctl" probably will perform worst compared to the other functions. 
+
+As the JsonLines files for all the examples are available, the generated figures in this section are 
+reproducible. Moreover, as the profiles are also available, the JsonLines are as well reproducible. All 
+profiles and files will are publicly available in the following git repo: \url{https://github.com/besnardjb/always_on_monitoring_for_hpc}
