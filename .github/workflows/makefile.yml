@@ -8,5 +8,7 @@ jobs:
   build:
     runs-on: ubuntu-latest
     steps:
-    - name: check appendix
-      run: cd ./sc23_appendices_template && make 
+      - name: check appendix
+      - run: pwd
+      - run: ls
+      - run: make
