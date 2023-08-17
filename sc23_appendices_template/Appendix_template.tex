@@ -1,0 +1,84 @@
+% 
+\documentclass[sigconf,nonacm=true]{acmart}
+%\documentclass[sigconf]{acmart}
+\usepackage{fancyhdr}
+\usepackage{fvextra}
+\usepackage[utf8]{inputenc}
+
+% tools for moving from verbatim to tttext
+\usepackage{hanging}
+
+% make a command to allow line breaks in urls
+% from https://tex.stackexchange.com/questions/315369/how-to-deal-with-bad-line-wrapping-of-texttt
+\newcommand*\ttvar[1]{\texttt{\expandafter\dottvar\detokenize{#1}\relax}}
+\newcommand*\dottvar[1]{\ifx\relax#1\else
+  \expandafter\ifx\string/#1\string/\allowbreak\else#1\fi
+  \expandafter\dottvar\fi}
+
+
+% The "title" command has an optional parameter, allowing the author to define a "short title" to be used in page headers.
+\title[FTIO: Detecting I/O Periodicity Using Frequency Techniques]{Appendix: Artifact Description/Artifact Evaluation}
+\thispagestyle{empty}
+
+\begin{document}
+\setcopyright{acmcopyright}
+\settopmatter{printfolios=false, printccs=false, printacmref=false}
+\copyrightyear{2023}
+\acmYear{2023}
+\acmConference[ProTools '23]{Workshop on Programming and Performance Visualization Tools}{November 12--17, 2023}{Denver, CO, USA}
+\acmBooktitle{Workshop on Programming and Performance Visualization Tools(ProTools '23), November 12--17, 2022, Denver, CO, USA}
+% \acmPrice{15.00}
+% \acmDOI{10.1145/3295500.3356138}
+% \acmISBN{978-1-4503-6229-0/19/11}
+\acmPrice{}
+\acmDOI{}
+\acmISBN{}
+
+\sloppy
+\maketitle
+
+
+% By default, the full list of authors will be used in the page headers. Often, this list is too long, and will overlap
+% other information printed in the page headers. This command allows the author to define a more concise list
+% of authors' names for this purpose.
+\renewcommand{\shortauthors}{ Tarraf, et al. }
+
+\section*{Artifact Identification}
+%START_LATEX
+In the submitted paper, an approach was demonstrated 
+that allows for predicting (online) ...
+
+To demonstrate and evaluate our approach, we included results from two experimental campaigns:
+(1) ...
+(2) ...
+
+\paragraph{Experimental runs at ...:} 
+For the paper, we performed the experimental runs (Sections 2, 3, 4, and 7) using several benchmarks ....
+
+\paragraph{Semi-synthetic traces:} 
+...
+
+\section*{Reproducibility of Experiments}
+In the next two sections, we explain in detail the steps involved in creating all the results shown in the paper. 
+Both types of experiments...
+
+\section{Experimental runs on ...}
+\label{sec:exp}
+Through Sections 2, 3, 4, and 7 of the paper, 
+....
+
+\subsection{Workflow description}
+....
+
+\subsection{Time needed for the workflow}
+....
+
+\subsection{The experiments and their results}
+.....
+
+
+%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+\section{Evaluation with semi-synthetic traces}
+\label{sec:tra}
+...
+\end{document}
