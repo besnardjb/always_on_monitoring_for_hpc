@@ -9,6 +9,8 @@ jobs:
     runs-on: ubuntu-latest
     steps:
       - name: check appendix
-      - run: pwd
-      - run: ls
-      - run: make
+        run: pwd
+      - name: check dir
+        run: ls
+      - name: create appendix
+        run: make
