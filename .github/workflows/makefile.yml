@@ -1,0 +1,12 @@
+name: Makefile CI
+
+on:
+  push:
+    branches: [ "main" ]
+
+jobs:
+  build:
+    runs-on: ubuntu-latest
+    steps:
+    - name: check appendix
+      run: cd ./sc23_appendices_template && make 
