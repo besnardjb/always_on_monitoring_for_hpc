@@ -1,12 +1,48 @@
 \section{Always-on monitoring}
 \label{sec:monitor}
-....
+
+This section describes how to perform always on monitoring using the metric proxy. We first provide means of generating the data for the paper.
+In addition, we provide the raw data used for the paper figures for reference.
 
 \subsection{Workflow description}
-....
+
+The main steps to reproduce our results are:
+
+\begin{itemize}
+\item Install the metric proxy
+\item Run the measurement script
+\end{itemize}
+
+\subsubsection{Install the metric proxy}
+
+The metric proxy is provided in the \texttt{metric\_proxy} subdirectory. Installing it in a given prefix is a matter of doing:
+
+\begin{lstlisting}[language=bash]
+cd ./metric_proxy/
+mkdir BUILD && cd BUILD
+../configure --prefix=$HOME/metric_proxy
+make -j8 install
+\end{lstlisting}
+
+Note the following requirements:
+
+\begin{itemize}
+\item MPI C compiler in the path
+\item Python in the path
+\end{itemize}
+
+\subsubsection{Run measurements}
+
+The script (located in \texttt{./proxy\_overhead}) will run a simple code calling \texttt{MPI\_Comm\_rank} with varying metric proxy frequencies.
+Each run will produce a .dat file containing the various runs. Then the plotting script will read these files to average and then plot the result.
+It is important to note that the baseline is hardcoded in the python script from the wrapper overhead measurements. And thus if you rerun it you will
+need to provide the average instrumented cost (first collumn in \texttt{lib.dat}) to match your machine. All the steps can be run by calling the \texttt{measure\_ovh.sh} script
+which will take care of performing the various measurements before calling the plotting script to display the results, this scripts requires to have the metric proxy bindir in the PATH.
 
 \subsection{Time needed for the workflow}
-....
+
+The process should not be too time consuming and results shall be obtained in minutes.
 
 \subsection{The experiments and their results}
-.....
+
+\paragraph*{\textbf{Figure 7:}} This figure presents the overhead of the proxy instrumentation in function of the measurement period. It shows that the longer the period the less perturbation is made to the run as the local proxy competes less with the running program. It shows that depending on the frequency, the overhead varies from 74 to 57 nanoseconds. Most of this overhead is linked to the lock protecting the counters. Artifacts associated with these results are provided in \texttt{proxy\_overhead/PAPER\_DATA}, you may enter this directory and regenerate the plot with \texttt{python3 ../plot\_ovh.py}.

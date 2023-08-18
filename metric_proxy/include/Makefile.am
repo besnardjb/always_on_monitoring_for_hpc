@@ -1,0 +1,1 @@
+include_HEADERS= tau_metric_proxy_client.h

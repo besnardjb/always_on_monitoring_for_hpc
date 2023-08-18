@@ -1,0 +1,5 @@
+SUBDIRS=
+
+if MPI_ENABLED
+    SUBDIRS+=mpi
+endif
