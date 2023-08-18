@@ -29,7 +29,7 @@ directly using the command line interface. For the latter one (used in the paper
 extrap-gui --scaling weak --json out.jsonl
 \end{lstlisting}
 
-This launches Extra-P, as shown in Figures~12-14 in the paper. After that, the relevant 
+This launches Extra-P, as shown in Figures~13-15 in the paper. After that, the relevant 
 metric, along with the functions of interest, can be selected for examining their scaling. 
 
 
@@ -40,27 +40,32 @@ only consumed a few seconds.
 
 \subsection{The experiments and their results}
 The results were covered in Section~6.4 of the submitted paper. We have shown three 
-figures (Figure~12-14). In the different figures, we demonstrated new aspects related 
+figures (Figure~13-15). In the different figures, we demonstrated new aspects related 
 to the model generation with Extra-P.
-\paragraph*{\textbf{Figure 12:}} This figure is concerned with the scaling behavior of IMB-IO. 
+\paragraph*{\textbf{Figure 13:}} This figure is concerned with the scaling behavior of IMB-IO. 
 The exact configuration parameters were provided in the paper. The figure demonstrates the capability 
 of our approach to feeding Extra-P with the required metrics to generate performance models. On the 
 other hand, the generated performance models could be used for the optimization of resource management or 
 in malleable decisions. The latter requires adaptations mentioned in the paper's last section.  
 
-\paragraph*{\textbf{Figure 13:}}
+\paragraph*{\textbf{Figure 14:}}
 In principle, this figure presents similar results as the previous one. The difference is that it is topped with 
-two additional aspects: (1) While Figure~12 focused on metrics obtained by the metric proxy, this figure presents 
+two additional aspects: (1) While Figure~13 focused on metrics obtained by the metric proxy, this figure presents 
 additional metrics obtained by strace ("pread64"), and (2) it illustrates a new metric in Extra-P, namely the number of bytes. 
 Hence, we extended the capabilities of Extra-P to generate as well performance models in terms of bytes and not only time. 
 Note that performance models in terms of function visits are also generated but not shown. 
 
-\paragraph*{\textbf{Figure 14:}}
+\paragraph*{\textbf{Figure 15:}}
 Unlike the previous two figures, this figure shows the performance model generated for Nek5000. 
 Besides handling a different example which is in this case, a real application, this figure shows the 
 scaling behavior of six selected strace functions regarding the number of ranks versus time. From the 
 scaling behavior, one can depict that "ioctl" probably will perform worst compared to the other functions. 
 
-As the JsonLines files for all the examples are available, the generated figures in this section are 
-reproducible. Moreover, as the profiles are also available, the JsonLines are as well reproducible. All 
-profiles and files will are publicly available in the following git repo: \url{https://github.com/besnardjb/always_on_monitoring_for_hpc}
+\section{Conclusion}
+In short, all the experiments are reproducible. As the collection of the metrics can be affected by the load 
+and type of system used, the exact data might vary. If the experiments are repeated on the Turin cluster, 
+we expect similar results as presented in the paper. However, to make the generation of the results, including 
+the figures, perfectly reproducible, we provide the data we collected. 
+This includes the JsonLines files to generate the performance models. Moreover, as we also provide the profiles for all experiments, 
+the JsonLines files are as well reproducible. 
+All profiles and files are publicly available under the following git repository: \url{https://github.com/besnardjb/always_on_monitoring_for_hpc}
