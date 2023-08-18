@@ -1,0 +1,23 @@
+\section{Measuring Library Wrapper Cost}
+\label{sec:wrapper}
+
+This section details how we made the PMPI function call overhead measurement. It refers to files located in \texttt{wrapper\_overhead}.
+\subsection{Workflow description}
+
+The main steps to reproduce our results are:
+
+\begin{itemize}
+\item Build the benchmarks (make)
+\item Run the measurement script.
+\item Plot the results
+\end{itemize}
+
+\subsection{Time needed for the workflow}
+
+As we are dealing with very small durations, we had to set a large number of averages(10 billions) to stabilize results. Running these measurements then requires several hours. If you change the number of iterrations in \texttt{iterate.c}, you may get less stable results. To run the measurements you may run the \texttt{measure\_interpos.sh} script.
+
+\subsection{The experiments and their results}
+
+\paragraph*{\textbf{Figure 5:}} This figure presents the wrapping overhead in function of the scope of the wrapper function, respectively static, another transtation unit in the same binary and in a library. It shows that a small overhead is added when the function is in a library, mainly due to the PLT jump. Artifacts associated with these results are provided in \texttt{wrapper\_overhead/PAPER\_DATA}, you may enter this directory and regenerate the plot with \texttt{python3 ../plot\_interpos.py}.
+
+\paragraph*{\textbf{Figure 6:}} This figure presents results similar to Figure 5 with the exception that it is in time (instead of relative overhead). The goal is to allow a quantitative measurement of this difference of a few nanoseconds. Artifacts associated with these results are provided in \texttt{wrapper\_overhead/PAPER\_DATA}, you may enter this directory and regenerate the plot with \texttt{python3 ../plot\_interpos\_time\_avg.py}. Note that the average instrumented cost for library (first collumn in \texttt{lib.dat}) is used as baseline for the proxy overhead in section \ref{sec:monitor}.
